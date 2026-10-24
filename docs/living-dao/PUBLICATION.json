@@ -1,0 +1,41 @@
+{
+  "repository": "https://github.com/medissl/daos-end",
+  "source_commit": "a06cf9c81693213a81ec692e5ab543607ea9ed72",
+  "release": "https://github.com/medissl/daos-end/releases/tag/v0.4.0-rc.1",
+  "assets": [
+    {
+      "name": "daos-end-living-dao-arm64.apk",
+      "browser_download_url": "https://github.com/medissl/daos-end/releases/download/v0.4.0-rc.1/daos-end-living-dao-arm64.apk",
+      "size": 43387040,
+      "digest": "sha256:9419c059e05a174543cf3161cd63a00f540fb334a89a7d42f78596a971f331f8"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "browser_download_url": "https://github.com/medissl/daos-end/releases/download/v0.4.0-rc.1/SHA256SUMS.txt",
+      "size": 97,
+      "digest": "sha256:6664a1155dc362acff1d36c3edff59cdee28d10a842fe65dcd3364f0fa9b4a54"
+    },
+    {
+      "name": "APK_VERIFICATION.json",
+      "browser_download_url": "https://github.com/medissl/daos-end/releases/download/v0.4.0-rc.1/APK_VERIFICATION.json",
+      "size": 589,
+      "digest": "sha256:77801a8a0b265203f871aaa68d8cfdff0da5d79c7b41252a084126f0946c99cb"
+    }
+  ],
+  "website": "https://medissl.github.io/daos-end/",
+  "pages_source": {
+    "branch": "gh-pages",
+    "path": "/"
+  },
+  "pages_status": "built",
+  "pages_build": {
+    "status": "built",
+    "commit": "df9c4df2627818d7d8bf6b5f77e0d3f7c801057d",
+    "error": {
+      "message": null
+    },
+    "updated_at": "2026-10-24T15:07:32Z"
+  },
+  "public_site_verified": true,
+  "public_links_verified": true
+}

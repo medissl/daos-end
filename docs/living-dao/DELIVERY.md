@@ -4,6 +4,10 @@ Implemented through Nascent Soul. This is a concrete playable candidate pending
 physical Android, subjective listening and uncoached human checks. The user
 subsequently authorized GitHub publication, APK distribution and a matching
 landing page; that supersedes the brief's earlier no-push/no-deploy boundary.
+Source, the signed APK prerelease, landing, web game and gallery are published.
+Live four-size page checks and actual Play startup pass; public APK/gallery/
+README image links return 200. GitHub's uploaded APK digest matches the local
+candidate. Publication records are in PUBLICATION.json and PUBLIC_LINK_RESULTS.json.
 
 ## Play and inspect
 

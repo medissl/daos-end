@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://medissl.github.io/daos-end/",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_length": "5272"
+  },
+  {
+    "url": "https://medissl.github.io/daos-end/play/",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_length": "3666"
+  },
+  {
+    "url": "https://medissl.github.io/daos-end/play/index.wasm",
+    "status": 200,
+    "content_type": "application/wasm",
+    "content_length": "39514754"
+  },
+  {
+    "url": "https://medissl.github.io/daos-end/evidence/COMPARE.html",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_length": "4090"
+  },
+  {
+    "url": "https://github.com/medissl/daos-end/releases/download/v0.4.0-rc.1/daos-end-living-dao-arm64.apk",
+    "status": 200,
+    "content_type": "application/vnd.android.package-archive",
+    "content_length": "43387040"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/medissl/daos-end/main/docs/living-dao/screenshots/frontier-browser/390x844-storm-battle.png",
+    "status": 200,
+    "content_type": "image/png",
+    "content_length": "345180"
+  }
+]

@@ -25,8 +25,18 @@ There is no Git metadata. Existing milestone evidence remains historical.
 - [x] Ink-wash landing page and actual Web Play, four-size rendered review.
 - [x] Signed ARM64 APK; v2/v3 signature, 16 KB alignment and package checks.
 - [x] Actual game screenshots in README; asset/audio/engine notices retained.
-- [ ] Push source to existing `medissl/daos-end`, upload APK release, publish
+- [x] Push source to existing `medissl/daos-end`, upload APK release, publish
   GitHub Pages and verify the public links and playable result.
+
+Live: `https://medissl.github.io/daos-end/`; release `v0.4.0-rc.1`.
+Public checks pass four sizes, and Play opens the real exported game.
+GitHub's APK digest matches the local signed candidate. Current publication
+evidence is in `docs/living-dao/PUBLICATION.json` and `PUBLISHED_SITE_RESULTS.json`.
+The root remains the original non-Git project. The actual remote was cloned
+under `.verification/github-publish/`, with the static site branch prepared in
+`.verification/pages-publish/`. No player saves or private signing files were
+published. Do not run the public packaging selection as a substitute for a
+full local checkpoint; historical large captures remain preserved locally.
 
 Unavailable release gates must remain explicit: physical Android performance,
 human novice/engagement testing and actual listening if no audio audition tool
