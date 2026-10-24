@@ -1,0 +1,130 @@
+{
+	"foreground_seconds": 1146.1,
+	"human_active_time": "unmeasured; includes waiting",
+	"policy": "Public purchases/advancement, Azure gathering, optional Foundation preparation. No granted resources or clock multiplier.",
+	"purchases": [
+		{
+			"at": 25.0000000000002,
+			"id": "breathing",
+			"level": 1
+		},
+		{
+			"at": 54.999999999999,
+			"id": "breathing",
+			"level": 2
+		},
+		{
+			"at": 94.9999999999967,
+			"id": "meridian",
+			"level": 1
+		},
+		{
+			"at": 133.399999999996,
+			"id": "breathing",
+			"level": 3
+		},
+		{
+			"at": 173.400000000005,
+			"id": "mind",
+			"level": 1
+		},
+		{
+			"at": 242.600000000021,
+			"id": "breathing",
+			"level": 4
+		},
+		{
+			"at": 319.400000000038,
+			"id": "meridian",
+			"level": 2
+		}
+	],
+	"state": {
+		"azure_refund": true,
+		"chapter": {
+			"cleared_nodes": [],
+			"cleared_routes": [],
+			"cleared_trials": [],
+			"combat_mastery": {
+				"flame": 0,
+				"mirror": 0,
+				"returning": 0,
+				"river": 0,
+				"sword": 0,
+				"thunder": 0,
+				"ward": 0
+			},
+			"combat_slots": [
+				"sword",
+				""
+			],
+			"core_prepared": false,
+			"core_trial_won": false,
+			"equipment": {
+				"artifact": "",
+				"robe": "",
+				"weapon": ""
+			},
+			"inventory": {},
+			"journey": {
+				"battle": {},
+				"camp_requested": false,
+				"id": "",
+				"node": 0,
+				"reason": "",
+				"rewards": {
+					"herbs": 0,
+					"items": [],
+					"qi": 0,
+					"stones": 0
+				},
+				"status": "idle"
+			},
+			"law": "",
+			"learned": [
+				"sword"
+			],
+			"preparation": "",
+			"preset": {},
+			"reward_serial": 0,
+			"soul_trial_won": false,
+			"stones": 0,
+			"supply": {
+				"active": false,
+				"completed": 0,
+				"herbs": 0,
+				"qi": 0,
+				"remaining": 0,
+				"route": "",
+				"stones": 0
+			}
+		},
+		"herbs": 0,
+		"levels": {
+			"breathing": 4,
+			"meridian": 2,
+			"mind": 1
+		},
+		"mastery": {
+			"azure": 0,
+			"iron": 0
+		},
+		"pending_primary": "",
+		"policy": "living-dao-v1",
+		"prepared": false,
+		"primary": "azure",
+		"qi": 5960.24999999671,
+		"rate": 36.0,
+		"realm": "Foundation Establishment",
+		"repeat": true,
+		"saved_at": 1000.0,
+		"trip": {
+			"active": true,
+			"azure": 0.2,
+			"elapsed": 0.0,
+			"iron": 0,
+			"primary": "azure"
+		},
+		"version": 4
+	}
+}

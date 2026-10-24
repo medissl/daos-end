@@ -1,0 +1,1976 @@
+[
+  {
+    "path": "screenshots/after/1280x800-foundation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "5002a55d3852b918ac5dae1ead42daadeb4bf04640bb249bfdf2cdb951653e19"
+  },
+  {
+    "path": "screenshots/after/320x640-foundation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "874980566735b08d3129bd60d5a3e84f495fd5568998dd4a1fa775d109f3a2b3"
+  },
+  {
+    "path": "screenshots/after/390x844-foundation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d843306b15178f7eb40ab267651daab6fb1ca503232f29dc720aae6ef1da62af"
+  },
+  {
+    "path": "screenshots/after/430x932-foundation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "ed8721af2e37cf67d7d1bb7a70ec3f00638dea915b125f8f7fd1b67c0b10c92f"
+  },
+  {
+    "path": "screenshots/before/1280x800-foundation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Historical baseline or intermediate panel/density defect",
+    "sha256": "692b67a31ada65ee1f5361b09aebbd55370da41f23b10500734c277900aba8b1"
+  },
+  {
+    "path": "screenshots/before/320x640-foundation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Historical baseline or intermediate panel/density defect",
+    "sha256": "21eafbcdabf191e70b88eb4755bb90d2bcd789432e97936eeb179e28c0827780"
+  },
+  {
+    "path": "screenshots/before/430x932-foundation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Historical baseline or intermediate panel/density defect",
+    "sha256": "bfb18eff1aaad4184b0a32beb003556c11c52bd935eaa00fb481a0a2692a6081"
+  },
+  {
+    "path": "screenshots/browser-1280x800-arts.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "70c046cb5fae29dd5a97d0dabd28037f060f8305212a25fedc1c2b3784df952f"
+  },
+  {
+    "path": "screenshots/browser-1280x800-audio.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "718a353b9ff52a5b5e1075746ce159fc03b146e312e796f08371aac1044d3102"
+  },
+  {
+    "path": "screenshots/browser-1280x800-charms.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "2629d612e99449e1ff4912ea58638ede800ae18e78743705fc34d8f86d3fde1d"
+  },
+  {
+    "path": "screenshots/browser-1280x800-combat.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "05ae5c2d26fb6001c11d3e40d6f400e7ab409b368e4081315b0442920534b65b"
+  },
+  {
+    "path": "screenshots/browser-1280x800-core-preparation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "355ccb2a6dccfde7bd12dccac288c60670e726f1986c70466219c1d754591164"
+  },
+  {
+    "path": "screenshots/browser-1280x800-core-prepared.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "968f3bc51bfc83af60da4d38513e38c27f32186c40a99a013f05dd6d0b8f32b6"
+  },
+  {
+    "path": "screenshots/browser-1280x800-equipment.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "9104de920bb036dd1f5e43ca97f7dd38dfb5e5e3d488ca06733b603826b985b0"
+  },
+  {
+    "path": "screenshots/browser-1280x800-golden-core.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "0824ec42d125319932aa3b5d18ed66463831dc1b0c408ec0e6401c644278966a"
+  },
+  {
+    "path": "screenshots/browser-1280x800-golden-slots-preset.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "127d56a35548b1b4ce501740767a645126c2647c00160cdc1330a40f0b9b4106"
+  },
+  {
+    "path": "screenshots/browser-1280x800-methods.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "a1218a03c71a211d2086fa0f1bee6ce46a378b39d7a1ba63bf563e9809ee01e2"
+  },
+  {
+    "path": "screenshots/browser-1280x800-opening.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "c0648ed2d4b8f75c3923991b1a25b29dccc9399bff75710a5e94f5baa4e8e361"
+  },
+  {
+    "path": "screenshots/browser-1280x800-preview.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "6e36a25d3e022eebc67f35d6b6769340c1aa80ddb04c36e0283d86d13f3093c9"
+  },
+  {
+    "path": "screenshots/browser-1280x800-reward.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "b252062dc7f720c8ab0119a9bac2f8b4401e59c42b373a4212df99c22e0b11a9"
+  },
+  {
+    "path": "screenshots/browser-1280x800-river.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "87aa73b1aac4b00ea2d5c06e13060d806c6f921c9d80e54efd28e427587be46a"
+  },
+  {
+    "path": "screenshots/browser-1280x800-robes.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "14d40a7d4ed8495f6b029130be643f1dcabe4f85732ce4f6e3bde946b12f693b"
+  },
+  {
+    "path": "screenshots/browser-1280x800-routes.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "fd45aa2eb0104baac11f5e79b5fe78149d2036db7e6463ec9a53a4927b69455e"
+  },
+  {
+    "path": "screenshots/browser-1280x800-trials.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "e05e5e28fd1ac88ca80bdd7ea3ba42ab7d9c1025e2207a102aa64ce16a33902c"
+  },
+  {
+    "path": "screenshots/browser-320x640-after-finger-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "ece5cb244a0aaefcf7e32b34d9d3680f71aee86bae7dbde10026bf274d14bb15"
+  },
+  {
+    "path": "screenshots/browser-320x640-arts.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "3b387eb8ef813becd2b58861113e8123334eb8c8cb10075ee76e289677d43431"
+  },
+  {
+    "path": "screenshots/browser-320x640-audio.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "265ea111475c945f3c7b2c974c83c28db8b0b2ce081f6a2d402eabaa800f4d23"
+  },
+  {
+    "path": "screenshots/browser-320x640-before-finger-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "dbcf1a3add3042be9e2ed46bdec9730c829bb65427613164e5756789d3a9c7ef"
+  },
+  {
+    "path": "screenshots/browser-320x640-charms.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "34852f55cac89497c6a6512794c4cc7fb6557335035edd481d26189359be4b24"
+  },
+  {
+    "path": "screenshots/browser-320x640-combat.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "22fb2edb178ae02e54b2bc04ad7ee26ece077debaf767968afa2c3f77e23319a"
+  },
+  {
+    "path": "screenshots/browser-320x640-core-preparation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "7e092eec29c50dcd9c09821a8596b9f7a2eb360c32b5a2075f232da96bf9d4f4"
+  },
+  {
+    "path": "screenshots/browser-320x640-core-prepared.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "94448d9b78bbc578f8798713bab03b9fae8c5548a771da177fbf687ba1c9fa35"
+  },
+  {
+    "path": "screenshots/browser-320x640-equipment.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "32b8ae17f5d7acb66f09adef52ffab571b61d8344ba4e8a8d9ba4aedd20824d2"
+  },
+  {
+    "path": "screenshots/browser-320x640-golden-core.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "a16ab3334988540156e0f30ddae817d262f7f16424c4c748eb337406f2f24b3d"
+  },
+  {
+    "path": "screenshots/browser-320x640-golden-slots-preset.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "d7531e6e0852fb6d81cbb16840a88e16c2485e918a9b55dbe04afe3d704bbaf8"
+  },
+  {
+    "path": "screenshots/browser-320x640-methods.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "6129f877e5ee17756e286f3004d2864a5cd5bf6eeaedd9d166ac3e10d52991d9"
+  },
+  {
+    "path": "screenshots/browser-320x640-opening.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "8592bef6828dd6f2e2c26096a0bd9f944e0b5e6f5ef9a07ff18a909f08dcedbd"
+  },
+  {
+    "path": "screenshots/browser-320x640-preview.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "0a1e1d0ab2991a52df5fb672385a30bf5b767606c5da69b4e975434b4aab494c"
+  },
+  {
+    "path": "screenshots/browser-320x640-reward.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "e2eff27773176d8342474f22137461d332b8bd07c4b8b7c84b8174bfcfb6c5a1"
+  },
+  {
+    "path": "screenshots/browser-320x640-river.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "7357d30e7e21dc89d36e27ed4e8b9979c0ec95d8cfc348f5b1bd6159effb03d2"
+  },
+  {
+    "path": "screenshots/browser-320x640-robes.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "8e5988d764431db34b2300f6879e062e0ef4343d96726ee10f50db2099d06261"
+  },
+  {
+    "path": "screenshots/browser-320x640-routes.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "deb5c7eee2fd0cc4d2e2361f179408de0163469d7af4fe7a19572da4daefe989"
+  },
+  {
+    "path": "screenshots/browser-320x640-trials.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "f102d2ad8d7a8c887413082f4508cb776421335e2f2743f9a028d4521381039c"
+  },
+  {
+    "path": "screenshots/browser-390x844-after-finger-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "3beb35ab53f0c05bfd766cce2231d1b0120781c79676eb0b649d10e7c93fc1fe"
+  },
+  {
+    "path": "screenshots/browser-390x844-arts.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "965ebdf060d11d96c1ab8ed940b6197d8a3a1ad75aafdc25d38686db6feba36a"
+  },
+  {
+    "path": "screenshots/browser-390x844-audio.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "2d5219d567d4cd0628555625a5b723145fd69778ea7083d01ae315a6259e3d35"
+  },
+  {
+    "path": "screenshots/browser-390x844-before-finger-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "665fe57f923a5e0ccf95d8b2e3ff20f22f11cd749665ae1de333655a06d0c185"
+  },
+  {
+    "path": "screenshots/browser-390x844-charms.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "f72129feee6b1117128043ba9c8b293aed54c8afa41a2aa0d50b40276d5ecc0a"
+  },
+  {
+    "path": "screenshots/browser-390x844-combat.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "941295448053af742daa1856716b88581c050a5b92bb985bb207017750683581"
+  },
+  {
+    "path": "screenshots/browser-390x844-core-preparation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "53750e9a7c39a513ff76e2f1273c6bd56a25da7260eef6b5b6d25a0a7a7ffc2d"
+  },
+  {
+    "path": "screenshots/browser-390x844-core-prepared.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "3c335ccd9a2070e8eb0f8fc242bd3ea25041461027563ea832041a8cd8b86f9a"
+  },
+  {
+    "path": "screenshots/browser-390x844-equipment.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "941f92400ae93eb1f185ab8fd0fde35ef3c7b1991f43d436ce6b973369149358"
+  },
+  {
+    "path": "screenshots/browser-390x844-golden-core.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "c5e4397b27bfefca5a281e0e2eaecb111deb8ec2a6d7024d48b9d9ef91544ec9"
+  },
+  {
+    "path": "screenshots/browser-390x844-golden-slots-preset.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "d3364c6ebeb3db458d57c75dd8e6eefab0c08529d95c5b0362b6049b2ca5d419"
+  },
+  {
+    "path": "screenshots/browser-390x844-methods.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "c69bc9c4f89d55a780f1562fb8a1309177c054cb5c3fd7551e13a9b995ff8cc6"
+  },
+  {
+    "path": "screenshots/browser-390x844-opening.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "83db830bd1cf4a71501b0307e947a40138ff4b0ee275f8e6ba6460b11528ce88"
+  },
+  {
+    "path": "screenshots/browser-390x844-preview.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "40ba3d61171d7efb854b5491d3f782ff95a69337cc911b89828b176176e240ba"
+  },
+  {
+    "path": "screenshots/browser-390x844-reward.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "8f6e173ac5b870012f433746a18ecb166156a529b1e09dd4a0cf1da45847a882"
+  },
+  {
+    "path": "screenshots/browser-390x844-river.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "c45246a6975edc2e3b9ec17f02429227cbae5ea81c5baa2c1f400ac437debd27"
+  },
+  {
+    "path": "screenshots/browser-390x844-robes.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "9388cc225a9a548aa4a5f2a9ced7ae6558ef90438684207c4d8190e10ea9dd9f"
+  },
+  {
+    "path": "screenshots/browser-390x844-routes.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "b30cd3d733e97eed7dfd4e6c17953dc06ed77dbf01d7bc624d7cebc4a24cae6b"
+  },
+  {
+    "path": "screenshots/browser-390x844-trials.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "7cebfb0d1d171e4128b95ad9cf6b0ca737b8bffbf07efad93d3af5888d146ee1"
+  },
+  {
+    "path": "screenshots/browser-430x932-after-finger-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "db32379db4f718de51c41e597e47b195429a5bffbfaae32dbb7f9787238e566e"
+  },
+  {
+    "path": "screenshots/browser-430x932-arts.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "0f831443d14ca786c7bac421250ad12a61ed52ae40fe6f97c6e38e954cc58134"
+  },
+  {
+    "path": "screenshots/browser-430x932-audio.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "c5ee1b3653f2f9136d9c088d2835f951cf88e4c37e3102aa0282aca83faac6f0"
+  },
+  {
+    "path": "screenshots/browser-430x932-before-finger-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "cb705c797df1e078d65f4222cd246b061cb59784de1614b40bab7dbf2274605f"
+  },
+  {
+    "path": "screenshots/browser-430x932-charms.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "501910485182b8f351eb3f3c28db8ab508f2c59bc92e37d4c2716be82812fde0"
+  },
+  {
+    "path": "screenshots/browser-430x932-combat.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "a495947a6d2e24db84a15f06e99a98ac448fc5eac4412519845cbdeefcf105c2"
+  },
+  {
+    "path": "screenshots/browser-430x932-core-preparation.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "46b3c5b22e9ffe826617f1d095a280cb40f4afffe782a0ff426b20957a8f4c6e"
+  },
+  {
+    "path": "screenshots/browser-430x932-core-prepared.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "e553b0010832e9be8a5b4415935a47ca7e605514d053fe22f0995dc0416c85ce"
+  },
+  {
+    "path": "screenshots/browser-430x932-equipment.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "b715eb58b79bee35b56ea9d41d5984a85b1ad0485756b7a993d0b39e5f46e8e4"
+  },
+  {
+    "path": "screenshots/browser-430x932-golden-core.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "816cc681a1197494c044c35ae4721a989fb018712472372dd1c516538d28b782"
+  },
+  {
+    "path": "screenshots/browser-430x932-golden-slots-preset.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "ec546a2072ed27b6b71ead5858f84998f39f00a87fd56f5456e55a5359559a61"
+  },
+  {
+    "path": "screenshots/browser-430x932-methods.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "1d2b96881b8bca417f2efc6b76abe167ec26335b47bcf9c1419db4cbb511ebd6"
+  },
+  {
+    "path": "screenshots/browser-430x932-opening.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "83c21606e6839780bf28bbd1f0da24dd6e4efcefc4e74191d5e012bda8135def"
+  },
+  {
+    "path": "screenshots/browser-430x932-preview.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "f81af789e398df6cd445f747c1ab2d4af537ee9ca832d98fbea2a751a66bf134"
+  },
+  {
+    "path": "screenshots/browser-430x932-reward.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "9e9336cdbd8f36f589b13c122ff9e25e154152970c5ef153b5ba0f31aec7dea6"
+  },
+  {
+    "path": "screenshots/browser-430x932-river.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "461b2fd197797dca11e75308731c3754dcdb697f52a3f324ce19dd76379fabc6"
+  },
+  {
+    "path": "screenshots/browser-430x932-robes.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "d1b40bcb7a8732620047559df198bb5e02da4d06cb768d9e4fe5731338c105ac"
+  },
+  {
+    "path": "screenshots/browser-430x932-routes.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "1c2bcec1ff4080331d7755f0af6cc287997ab8a58b166818b2c50b11ec264a02"
+  },
+  {
+    "path": "screenshots/browser-430x932-trials.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Four-size full flow before the final short Arts heading, above-fold Camp and density correction",
+    "sha256": "fb0bf207d614352de0f0483f7df18c1c903430dbbf9a2e17936cdd5640ce3d8c"
+  },
+  {
+    "path": "screenshots/density-2-320x640-live-resize-arts.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "73edae916939ce2105a4a01f854248f5851074541422b6665670548eb2cdfa1e"
+  },
+  {
+    "path": "screenshots/density-2-390x844-equipment.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "e553d2f7aa685b49bbc1f780d13af48c2d62384ca3fb9fe573cca14cbb67be73"
+  },
+  {
+    "path": "screenshots/density-2-390x844-live-resize-arts.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d1006ed5003317612f1ebd569a1726d13fc521f904830d3a9b8bdcef4226c090"
+  },
+  {
+    "path": "screenshots/density-2-390x844-menu.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "695e57ea5c97acaf86b7f48258dcefdc158bc111f20a94d275ecf60908d2ae4e"
+  },
+  {
+    "path": "screenshots/density-2-390x844-methods.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "04f69db25b50fdd424e33387151f25247b4a642d4f96b19356286225353ac399"
+  },
+  {
+    "path": "screenshots/density-2-390x844-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "1ca0f33f51a6a19ea42b70e0d56eb54fb4fa4d0ebe6c725de0f6918880bfc0f1"
+  },
+  {
+    "path": "screenshots/density-2-430x932-live-resize-arts.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "62e0dc574d93d1234601471a5b98a6e2f174a293c4fca24111c6b8515c718bc3"
+  },
+  {
+    "path": "screenshots/density-2.625-320x640-live-resize-arts.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "48e544db29baf86c4cd53d366804eccff4d803129dc63eca98a36d43412e4413"
+  },
+  {
+    "path": "screenshots/density-2.625-390x844-equipment.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c6dc7d11c84f472da1b84cf47958d61ee5e1348bbc8f0a33f614fda1520a7ca3"
+  },
+  {
+    "path": "screenshots/density-2.625-390x844-live-resize-arts.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "1b1dd95145d67f97e82cb79776ed1c65b061fd91ca725cfb16a9be55eda4c38b"
+  },
+  {
+    "path": "screenshots/density-2.625-390x844-menu.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "be367c1574c8a31a729336015cf5766a19d71a0b71a7d1617d7893dc5beb5c7d"
+  },
+  {
+    "path": "screenshots/density-2.625-390x844-methods.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "15134dcb053d6bd42b876c2842ef529d292708fb7c6908f46fc8167bbb2b13ae"
+  },
+  {
+    "path": "screenshots/density-2.625-390x844-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "779eb9996e08fdc1c10893981ebe768dd1e7eb57982b6a238815d1da033ec80e"
+  },
+  {
+    "path": "screenshots/density-2.625-430x932-live-resize-arts.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "62e049769183085bf5a516b6fcc74f692cc1db777e81b68c728e026692bf2e55"
+  },
+  {
+    "path": "screenshots/final-1280x800-camp-queued.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "3890645623ab523cd886691ac0d24a2b7e0fdb9ee871f07d0ad396941de38943"
+  },
+  {
+    "path": "screenshots/final-1280x800-combat.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "17def373dde207e0e9f857f8dc9e2af8b556b6a10eaf1518e049501c8efd4f77"
+  },
+  {
+    "path": "screenshots/final-1280x800-credits.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "b86403c37c464cfe474de6f62fbca3af0ea4e072f3719826f3dd616341ba9c10"
+  },
+  {
+    "path": "screenshots/final-1280x800-golden-core.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "66a8afc9ee6b274357f6d28fe2e08830f7dc049a052276a247eb77a03df36854"
+  },
+  {
+    "path": "screenshots/final-1280x800-help.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "83879a1a94592487048281b7f694b70515dab001572f8d1092a25d1787cd1863"
+  },
+  {
+    "path": "screenshots/final-1280x800-menu.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "3fa49f6fa1dbe4158b33abc921740450a772d9f2b79b589ade3c0f31437e0143"
+  },
+  {
+    "path": "screenshots/final-320x640-camp-queued.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c8031db4a49de1d412091c0d0ed5a33f24c04afd33cecbcef347f70f2bb230ac"
+  },
+  {
+    "path": "screenshots/final-320x640-combat.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c1604315ca6c7caacdd8257a80c3b9aef16025075e7cf0c6c0714185fef74a25"
+  },
+  {
+    "path": "screenshots/final-320x640-credits.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "20cb150e94e1d319361bb6307195823552977eb669b4ac8ea98457f6e707eee0"
+  },
+  {
+    "path": "screenshots/final-320x640-golden-core.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "a36b5ac58b8c925a375c817072c6da8b7dfa1e432b230aea0095d663a688aa41"
+  },
+  {
+    "path": "screenshots/final-320x640-help.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "2526f227473a9af9f2930ac20bc74e348f5682f44af635fd6c0ae8ab9d73d05f"
+  },
+  {
+    "path": "screenshots/final-320x640-menu.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "cc83884c621bb61433315d7a2416b802d460a371cb2f5bd00e77bf6e4cb85c69"
+  },
+  {
+    "path": "screenshots/final-320x640-swipe-from-refine.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "7ffafd2629d2bcfd734a816bfb651845534c009d748c343da6df9fe2ac853d70"
+  },
+  {
+    "path": "screenshots/final-390x844-camp-queued.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "7971362c84c09a867c5890be2aae8b52c8bcc035dd0fe56fc193954d99c73fa8"
+  },
+  {
+    "path": "screenshots/final-390x844-combat.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "4b62c46d1d14eea593c6184b51e4e62d75b4ef43a73d4c376c74367f42a65222"
+  },
+  {
+    "path": "screenshots/final-390x844-credits.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "a96db2a9219c78aa087d07e07ee83174ecd137049bbc55db58d40c99b6dd8876"
+  },
+  {
+    "path": "screenshots/final-390x844-golden-core.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "71ad7182e0a785eb29e70c5cbaee1a9951201c26d9d2c329dbc4fa82461a3edc"
+  },
+  {
+    "path": "screenshots/final-390x844-help.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "488d8f434c037a23fa7fef096fef3e9477ac20bdd1dd7c98a5266beb21836e45"
+  },
+  {
+    "path": "screenshots/final-390x844-menu.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "2b66e23dbf7cafe2fece1fa487bc8d65370cfa899d37b3fd523f987eb84708e1"
+  },
+  {
+    "path": "screenshots/final-390x844-swipe-from-refine.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f371fed92c37873ba958860db6149590e83821f8c583d657f972289c7d03b0e4"
+  },
+  {
+    "path": "screenshots/final-430x932-camp-queued.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "2de5de287371ea3d000d09bdd99e75f114b9857984f13d3057a2eac2079aa736"
+  },
+  {
+    "path": "screenshots/final-430x932-combat.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "742d7cfa6d6c9cadb80b5fabd5c30bda69a070ab68ce9211ace37bfb9b1c3c1f"
+  },
+  {
+    "path": "screenshots/final-430x932-credits.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "29f55a5be0d566c12c9570467bbea93dca99e0e71086a63ea08a561d2d132441"
+  },
+  {
+    "path": "screenshots/final-430x932-golden-core.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "9e72ea2c1d1a23de32f6db8cd1407406da11c10338bafa0353a1596a47bd7bcd"
+  },
+  {
+    "path": "screenshots/final-430x932-help.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "272672fc00df5aa014bd41f9f0f794408e0e50779db0ad745a2dba60f43769d7"
+  },
+  {
+    "path": "screenshots/final-430x932-menu.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "b0b3e69801f2d28e9356c2ade926d9098c9c66ef55a4d493b952bd302bec50f5"
+  },
+  {
+    "path": "screenshots/final-430x932-swipe-from-refine.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "b62bbc127bce2c1fabbdc69288da4a270c7dffa3fee5d0432b2d2c365458d086"
+  },
+  {
+    "path": "screenshots/frame-after-1280x800.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "ba704be38c116cb39138abdda76c2a5cd513ad3921d5b993d9f691c0aa932d37"
+  },
+  {
+    "path": "screenshots/frame-after-320x640.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "b1582484a557a6000853fa9da18cd53e487d0f8cef3213e30c4aed50b4e0ddc8"
+  },
+  {
+    "path": "screenshots/frame-after-390x844.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "6de4f81ea968565975185ed3a1a45c3c083c7c3f82cff6e87e52ecd73f1142b3"
+  },
+  {
+    "path": "screenshots/frame-after-430x932.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "088c5b15224dae9d114e5de7eb4e56d0c7ddbcd2cdc4c003365f3b5ad2377453"
+  },
+  {
+    "path": "screenshots/frame-before-1280x800.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Historical baseline or intermediate panel/density defect",
+    "sha256": "4a3707f61d3ecd8ab9761dac304a6d916ca7283b38aad01cc513d59ddf53ec0d"
+  },
+  {
+    "path": "screenshots/frame-before-320x640.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Historical baseline or intermediate panel/density defect",
+    "sha256": "df0c05f6f11a2f7c1c6ae0297ce3bc7221a3f4e3c093ad4193a407648694df71"
+  },
+  {
+    "path": "screenshots/frame-before-430x932.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Historical baseline or intermediate panel/density defect",
+    "sha256": "8d0fc7740f789cb4567d56f500c193d1ef8d9796743194be0ec5368d17d116ab"
+  },
+  {
+    "path": "screenshots/icon-size-review.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "6800daf4a93f7b9b95ad99921cb828a9bfa5315412bafcb94a3e463f059e8270"
+  },
+  {
+    "path": "screenshots/main-frame-alpha-review.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "4ec24ae82a9ce10ef0573c0d9ea5d18336492c7ba116887cb4b4bc4f1f891f67"
+  },
+  {
+    "path": "screenshots/native-camp-1280x800-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d70594e8e53e31b0b0b8505db57097d29baa5b1e3b081082bfb1ef11fbd8fe17"
+  },
+  {
+    "path": "screenshots/native-camp-1280x800-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "4c2980fce5c415576c7d63c1581f0a6493c6222437c7a046c67cfed235baf605"
+  },
+  {
+    "path": "screenshots/native-camp-1280x800-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d97110cae8be66db7924e7eb46738b34ea9ee890ddfdbbbc986f8b5b885fba11"
+  },
+  {
+    "path": "screenshots/native-camp-1280x800-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c7d5ffd3214752edea08e1ea110241ef1e42d62936164ffd9a77b2a2a9c0b394"
+  },
+  {
+    "path": "screenshots/native-camp-1280x800-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "4c2225603e7f5f3e48e570f4714c705457736aa94dce0796a8d0590e90203d14"
+  },
+  {
+    "path": "screenshots/native-camp-1280x800-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d3f5643a5406bf702d08ccb9de76afba3199b70a3c247d5820214269fb580fec"
+  },
+  {
+    "path": "screenshots/native-camp-1280x800-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "e25d1b87a6f5fb18cf7924cdc5f906e6c268ba06c3b982723dac72455dbb5b84"
+  },
+  {
+    "path": "screenshots/native-camp-1280x800-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c4fab0c8911ce1611b25aeb047bf5d216a2a9f35c9ea451f0317dd65db622b04"
+  },
+  {
+    "path": "screenshots/native-camp-1280x800-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "bc7b26bc5c28f1684e63041f70efad11ff1a46dee770339b033ba16ad5f123a7"
+  },
+  {
+    "path": "screenshots/native-camp-320x640-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "a0145cdbe7bc9e73a00e5cdd423c0be3724abbce3d427f4c1fc7a37238ca64fa"
+  },
+  {
+    "path": "screenshots/native-camp-320x640-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d24f0dde4f54ebee79aebb38d82bc2d2582592964481a6ce8d237c82f04b7e68"
+  },
+  {
+    "path": "screenshots/native-camp-320x640-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "dfde6fec45ab1c7200df6ecbc0d324ecedc6f275594f3703e2af2a54e72f6c7a"
+  },
+  {
+    "path": "screenshots/native-camp-320x640-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "8c0a6cd5a8d9d1204500cfb36b8055e0013b06c276a75cac6d7e9f7d5eebf3ae"
+  },
+  {
+    "path": "screenshots/native-camp-320x640-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d7a7d3a4577c493192eace5bb84315057844283b780406418fe829f0425ad1e6"
+  },
+  {
+    "path": "screenshots/native-camp-320x640-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "3012b801b964c2b3cf6704f425ab8263df4bc1d02fe3d1200473b86299782c82"
+  },
+  {
+    "path": "screenshots/native-camp-320x640-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "0eecedceb6a30d048676cb3fbef5a6040962ee2549d168410f454965051e6e46"
+  },
+  {
+    "path": "screenshots/native-camp-320x640-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "cc47cd72c00c60888bbae503d4e03974d57338e90adbc4c7bd8d22b64c9e1a3a"
+  },
+  {
+    "path": "screenshots/native-camp-320x640-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "bec072f7a9dfb00384aad63e5817f65ba7cbc7c473df8fea4f693215242c3432"
+  },
+  {
+    "path": "screenshots/native-camp-390x844-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "858c90ea3d7492b903f8570b0b1203d8e35b5333bcf99adcd09341e2e164d0bd"
+  },
+  {
+    "path": "screenshots/native-camp-390x844-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "97c29edd7c2e1d45f14f82849684f9235f02f8b7244e3bb088289dd6ae16929c"
+  },
+  {
+    "path": "screenshots/native-camp-390x844-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "0fcd928096507e0e3058db2c999d7401e7f88cb6c35573da2d63c09db53d0770"
+  },
+  {
+    "path": "screenshots/native-camp-390x844-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "31e1b11a5d5295aeeb72afa732f398e89d3533795cc56c022e3c237461d9ba37"
+  },
+  {
+    "path": "screenshots/native-camp-390x844-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f9c731bbb7f3990b0046a25363966beec71480f2270c4b10f7e632a87e4645b4"
+  },
+  {
+    "path": "screenshots/native-camp-390x844-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "28e1ddfe7f5be73a36561b83ff6c7418a519d46b51c7853e2709743468b23c5f"
+  },
+  {
+    "path": "screenshots/native-camp-390x844-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "64aafad1d78cc2c467efc0ed30fca3c54dc57053a16a83a4fad6a2c69e93769e"
+  },
+  {
+    "path": "screenshots/native-camp-390x844-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "9372190f58eec4fcd491ffe4abfdfd672bceede562c324f4821cc5f2a4fa1e66"
+  },
+  {
+    "path": "screenshots/native-camp-390x844-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d5fe418448b13131aec44fc74cc6c0ca28e50172596d616f3dfb8cf063d734b1"
+  },
+  {
+    "path": "screenshots/native-camp-430x932-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "e6365ce50f1df2ad3036339a3ec5aa8f498320151ae28751ab7f0a3f848196ab"
+  },
+  {
+    "path": "screenshots/native-camp-430x932-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "fbb0d54fafcc41c2efac07cc2a554836264a32343db76e99bb6d2e2b02c3e743"
+  },
+  {
+    "path": "screenshots/native-camp-430x932-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d875963356dc219d8ab2e22277f6b61d26b0a67d9bbbd5a7d4eae8036c108287"
+  },
+  {
+    "path": "screenshots/native-camp-430x932-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f8a3207ea9251b80ec73e4decc9313b8fb61589097f0855baa05cf86526d1139"
+  },
+  {
+    "path": "screenshots/native-camp-430x932-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "80dda3bbb75e10ca2bd76df8a9c034dc77b9d0467c352fe883654069381e9783"
+  },
+  {
+    "path": "screenshots/native-camp-430x932-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "99905cb2d5af2edcdad68cc1e90e2173f93ccff052b708ed4e0d6153fc89c4f5"
+  },
+  {
+    "path": "screenshots/native-camp-430x932-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "e160c89c64b1020f80befb6a71707905b6a674c6a112bf679de7efcb8aced5e5"
+  },
+  {
+    "path": "screenshots/native-camp-430x932-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "cc319914a1bacad6ec0541c743b98182c224eb6ded3905df2950ffbf98563314"
+  },
+  {
+    "path": "screenshots/native-camp-430x932-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "70ebe80fdeb007b604a1912fd9db16dff009c8078a2bbe1f4236dc56739a14b3"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "a86b639e27655267bfde501a19dbb37eb047d56e992b485fe871cfcfee94eb6c"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "807faa528d2db521dcd1a9b43d8aad1d3235e0c6ea5ecdfd3e7c3b57a060bb22"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "e4e73132969c512a90be7ff9eabf407bd8aa840aa303cfdac8121d610fec4b22"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "afa7334f2fcaa70326882205fa5878f0fea15eb9fcfc45b5cda6b41cb798d15a"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-core_prepared.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "afa2ec4ceb06125fb5e84ff0cab4eb4920ab9cdf744ab692b9379b400d3c86cf"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "872f0cec707e7dbc4956a570fd275058cfdb1672ca6244976c7ee19a96dd1ea6"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-gear_artifact.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "1f9ae785f4150210d8237744dd5e748076963f0d87d644e801603f2cb095ba2c"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-gear_robe.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "e0b68cc900b08e8d8850cd1751f0b180bfa3ab31c668e7d5dbba643c5c34af9a"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "abc0e23020d108ebd310afe657fe65c88d0ab9405dd2ba316b0ba7175162b1a1"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "0921d20aea5a5d3e5853c0b3bbbb4724f1ad4c0f41bea72e625717d704a64bfd"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "906b216d23579ed2ab8c1592643a93ce6b348326515bb6605e31acbf864a1636"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c43023ef07fa22a7cc678debf51c30c8da78c83b73ad6f042c03791e693ce9c3"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-river.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "9b3a11f1d72d463e79c4ab3653ac40616ac8ad2d5891c5dd351604861cd4d93c"
+  },
+  {
+    "path": "screenshots/native-developed-1280x800-trials.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "ddb08164b0dbcae8ffef79cb3b7ef7d5cedb6483f9a097b67f472d63a1a61122"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "2d24f844e9216628d59dca320f4b0b857ef64747aadfcd14b9d13aaf40d0cc94"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "547820293e795f0b26830c6d9f7a463a996e2660ae6c9563f7198c1aa09eb7e3"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "2b9d6d1e21301c3d8a81340765ef8b6f4d7c598bf025effc6a51b0bf95caeb9e"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "ad2f462ad512319bd95987ea70fc39f6c38a24b27f917072fd9c89ccfa402cd8"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-core_prepared.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "eaa8aa239c23fd6a0c170db405b9a6800f7f8a83adc4ab8cbc732669dbce37e8"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "abcfdd6f0c8763cbb2429f711a1c2c59bff8678fe670c6e150b1e3b9ea59c319"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-gear_artifact.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "e567c85facaec679edc5ffd1e0e92b09eb35a7388bc5507b14fadddb89634813"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-gear_robe.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "0980598af940da9ace926bf3ade686460c3a82c0f4c9902b380df0e4da8f9dd4"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "1c7ba99ee2e010f879bbb711942e1b9218646fa348dd2106a40ff127378fc36b"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "dc7a9f8b8d1bd91b56b9bdf224fd5457bcc60b7a97271140f279d21bb1d7accd"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "5ccdd0f308a76c5fce835f4b47abd5ccf30720b57648848a7ab83eee604ce58c"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "6218c6b95a0d73a2aac7b9d170d76d5e21cb0f9b675f2af436047de7a47d4dad"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-river.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "a29f9378a79d5390e4391ff0f0c0f5a8764189c0850adc5cdd4fb32befad2467"
+  },
+  {
+    "path": "screenshots/native-developed-320x640-trials.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "6655bf58d811fbc4241e328925a6aeea6c34ab2b6c25a8281a418b14e3d498b5"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "cd107a642e2d45bee793bfa6850840bd2570139d86103adacb8aad4e6a63ef23"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "41b4a5940e23ae21f54cb3a5ae67e7c5140b05d675aa6bbee9b0a4e8114aac30"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "05ec1bdb1f2170b0b3b2893ed3ce7e1f9e851a3c32d1bd17d339dedf0d3ec40a"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "1737fef9fdb76129a14cf36ada4fceb20ea0ef0e05f445029aeff0811c672423"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-core_prepared.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "7d96ca92909a73e51a0fedcba25b93433f5dc8e7a8aa5fde99d8dd36ee99eabf"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "5e5256b97c4413764b2d3c5d36dae338167b9164a6a95e4bd98cf0c7c47efb27"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-gear_artifact.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "42203aca4964171e0d3d76b5c436a3f8b9d8c9183507252d497875188145953c"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-gear_robe.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "fce412a8a745742e5af306027167682899799ddfd54a1b2885207049ea8ff24a"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "a7f4316fc846a3b9b007cecfcb221245b884b03562877ec02284109cdd04c517"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "1956b221673803507f73c7bc566d12c4010e7d57d4765c0d667cf4b07ccf3e62"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c45b2e9ae3669e7b72359f07b13b58a24f10ab81af5c5d4750bddb47b14d283e"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "409f16de113287066e461d0c62affc650e8046074299be1262d1a8ea68474613"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-river.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "1018dfad8a9635efb7bde9f431db9044c8bd6a10e9950f5fa498e8c49e8bfacd"
+  },
+  {
+    "path": "screenshots/native-developed-390x844-trials.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "781f7fa1854c0c83929a3f581f78c89904d209d8742e2990e0a6f896f08db152"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "7fc0b57d231bb8b0282968289aeb00b6147c996fea6db5005bb75d8160fd9906"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "20b68a3d8a52b93e1e5c4d21c8bd35051c66c1e4c70503f631c116155668f989"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "1ddc0c32cf29dd709ddd9b5d5da8ff2c4bad8851a7d6d9e1928237f0645a8e1b"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "0e383aba7e18aef6b3db14f0a289b62f52baa410248a84b2e41fdbc723ab8247"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-core_prepared.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "9b86f450ab117bceb550fe8c35781c34460765f69ce9b62fcc71c466fa4c64ad"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "ec153a91c3f29d72acef81a83bb13c2fed991b4daaf976e2e63649a65601db68"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-gear_artifact.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f7c343e96a4607ac63037c8cf4f042bdc38f4c88117d2982975fbb6b683af924"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-gear_robe.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "a0e781fcb8e48f4b6fde1b495a123e5b255a8f41a15abb31084938977adb3fef"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "90b73b5610bd0bec6dc6164cd83943df2f82c3625906e58650ef8233aebcbdcc"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "dd3c67d3e10919da6a736f2dfaa2f939f58bb0f935f72044718845f9cb10e868"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "9f8b432c4627c99eda34f4519a39f848c4a72a3cd5fb992f956792acfbbee6ae"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "21ed79532930e007eba6bf129a498951b2607daf04c44cab9e777c6bb90983d2"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-river.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "40e2ce1da2da9a476b542268ed43279d74a05638e4929ee912e6bdad9825bc4a"
+  },
+  {
+    "path": "screenshots/native-developed-430x932-trials.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "ff48ed96bec56932a8f2404d1e1862353e91a8552465bf036b4bc3bbf6e2ee7b"
+  },
+  {
+    "path": "screenshots/native-foundation-1280x800-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c17bc98986f2dab4fa35654502c2f2e3c0b455c7f8d053fe4fa1e46377a96c5b"
+  },
+  {
+    "path": "screenshots/native-foundation-1280x800-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "1c8be523110c18eab6119958087620f200bf09ef4a7ec7846e40ca79e85323f2"
+  },
+  {
+    "path": "screenshots/native-foundation-1280x800-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "33ca9228e0677da283d6e96343401cff40b62da4e557edb96d89424b245cfdfc"
+  },
+  {
+    "path": "screenshots/native-foundation-1280x800-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "7cf27f0f50544a10f5f767b712014b05e4402eb802bc9c8263465b424de1291e"
+  },
+  {
+    "path": "screenshots/native-foundation-1280x800-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "0d64cb40f3adf2082e926f6446d6bdfdd96b9ffd3379bbcc076659d1cb599ee8"
+  },
+  {
+    "path": "screenshots/native-foundation-1280x800-help.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "743b7f175bbd9a7a51fac803c8ae12b9a9b6480846e5e8f60488d5ce982fb187"
+  },
+  {
+    "path": "screenshots/native-foundation-1280x800-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "923fc815ea8d0ed1e179b97f9d94305803089b15600aa7385b52d39432f00fb9"
+  },
+  {
+    "path": "screenshots/native-foundation-1280x800-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d2fa464e744a0acf5e4a6102124393577d354ca338270263de00269383d96107"
+  },
+  {
+    "path": "screenshots/native-foundation-1280x800-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d3f5643a5406bf702d08ccb9de76afba3199b70a3c247d5820214269fb580fec"
+  },
+  {
+    "path": "screenshots/native-foundation-1280x800-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "ba704be38c116cb39138abdda76c2a5cd513ad3921d5b993d9f691c0aa932d37"
+  },
+  {
+    "path": "screenshots/native-foundation-320x640-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "8da5eba312e168b3902995da6eb159f269a9ffb448bb026dde0789c0a9ceca36"
+  },
+  {
+    "path": "screenshots/native-foundation-320x640-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "53fe802155c8ad6379475e9631ab748c49323a833d83288a91dfda8aedbf4eb2"
+  },
+  {
+    "path": "screenshots/native-foundation-320x640-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "5cd790dae7a73027d267d6cc5489c943c25131d3331e14a487b2e9ba42054812"
+  },
+  {
+    "path": "screenshots/native-foundation-320x640-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "19b051c880dd59ca57a1af25c57e2e2d09cff03494d7d32628dfe1d61e199d99"
+  },
+  {
+    "path": "screenshots/native-foundation-320x640-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d1de0a0598499c9f93f80e82c50eb1d3becb8d59cdc3eafe52ac2d2c791f9ab5"
+  },
+  {
+    "path": "screenshots/native-foundation-320x640-help.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "53ec16d6ce514e61e99dd194fe08dbd741321038b5f638804d57e78ffb4bea10"
+  },
+  {
+    "path": "screenshots/native-foundation-320x640-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "0b16b3f8ff70043ffc7be8248d187e2d3ff9fbf5c720cae49a2971f5472cc442"
+  },
+  {
+    "path": "screenshots/native-foundation-320x640-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "cdd2308363524ac3edc6e5b94cb72dae4c0abc401dc9d1252b93f0f2663f756a"
+  },
+  {
+    "path": "screenshots/native-foundation-320x640-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "3012b801b964c2b3cf6704f425ab8263df4bc1d02fe3d1200473b86299782c82"
+  },
+  {
+    "path": "screenshots/native-foundation-320x640-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "b1582484a557a6000853fa9da18cd53e487d0f8cef3213e30c4aed50b4e0ddc8"
+  },
+  {
+    "path": "screenshots/native-foundation-390x844-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "e7e526a2935afaf7030408d66f268030cef52e83a3591d1442584afcf654d6bc"
+  },
+  {
+    "path": "screenshots/native-foundation-390x844-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "699d0ab5c401da3d228dcea9748272553cb34eb528f5ecd6541c654d20ec940b"
+  },
+  {
+    "path": "screenshots/native-foundation-390x844-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "31c7e59ced94717ecd57794773320bc679c3594e04465fa9344adbaa765375e3"
+  },
+  {
+    "path": "screenshots/native-foundation-390x844-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "870e4253f43eaab29c8a6748ba8c08efc075c09708731f2cf4e4cf4847e7cfe4"
+  },
+  {
+    "path": "screenshots/native-foundation-390x844-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "259593a3291b761d021602457d8bd6b5d81c58a38517ad3ee801629e1a15165b"
+  },
+  {
+    "path": "screenshots/native-foundation-390x844-help.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f6335f62651cffbf72e867a705b4526ba5f4387962632fc06b5785f78eaa17e4"
+  },
+  {
+    "path": "screenshots/native-foundation-390x844-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d91d91b238c2d01993d8e9259050f5a387d3c0a26e558ac508744acd81260114"
+  },
+  {
+    "path": "screenshots/native-foundation-390x844-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "37a5fe51345274e7a4aa9bb8b5a30abf8696061360aa76fa7b1d55d22cb52695"
+  },
+  {
+    "path": "screenshots/native-foundation-390x844-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "28e1ddfe7f5be73a36561b83ff6c7418a519d46b51c7853e2709743468b23c5f"
+  },
+  {
+    "path": "screenshots/native-foundation-390x844-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "6de4f81ea968565975185ed3a1a45c3c083c7c3f82cff6e87e52ecd73f1142b3"
+  },
+  {
+    "path": "screenshots/native-foundation-430x932-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "18ce5d5def6b1711034a8fe6bf1af03fdf9864287a0257760c32e806672a7f2e"
+  },
+  {
+    "path": "screenshots/native-foundation-430x932-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "56c0ccc7c3394d627e6e1d7649522068f3371bf89e81750c147ed72dbcb913d4"
+  },
+  {
+    "path": "screenshots/native-foundation-430x932-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f69a50f769ff718c712b43f67d717798de29fb1d070e0cf97511d08234baa22e"
+  },
+  {
+    "path": "screenshots/native-foundation-430x932-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "e58c4ef803b735570b9b5c4c0ad1358c8e4e6598bf92e7f25220c6b2e5690759"
+  },
+  {
+    "path": "screenshots/native-foundation-430x932-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "23333d024bfeb49a606665a59b69ac1b97f72618c2b2a62ab1ad7dc3df796ecf"
+  },
+  {
+    "path": "screenshots/native-foundation-430x932-help.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "a2217183fd743279f272a810930e9913f1544a9e58ad60c39660d5dec1c4fe5b"
+  },
+  {
+    "path": "screenshots/native-foundation-430x932-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "db6b787c112d4836faabbd373db5616f28e91331367833f71e544b36aa2910cd"
+  },
+  {
+    "path": "screenshots/native-foundation-430x932-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f73f69b571e43eb15ba9e26ccd861ad23ef3bb4f7a8b64fac9c7cb65afaa65a0"
+  },
+  {
+    "path": "screenshots/native-foundation-430x932-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "99905cb2d5af2edcdad68cc1e90e2173f93ccff052b708ed4e0d6153fc89c4f5"
+  },
+  {
+    "path": "screenshots/native-foundation-430x932-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "088c5b15224dae9d114e5de7eb4e56d0c7ddbcd2cdc4c003365f3b5ad2377453"
+  },
+  {
+    "path": "screenshots/native-golden-1280x800-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "3a8540feac21cfb6b646616fb1e34a2a9887ac5507d91d845b45daa0651aa7d1"
+  },
+  {
+    "path": "screenshots/native-golden-1280x800-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "8b3a63d28365b603695c7a6f65e90905789b50df6c91e6df6b8d685796222915"
+  },
+  {
+    "path": "screenshots/native-golden-1280x800-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d03ef7164bfcbd52a99be3c0ded66e38c9b56647bf1bea86c9d11eafdb78bc8b"
+  },
+  {
+    "path": "screenshots/native-golden-1280x800-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f379abbc42913298b639c1eedbd6a45e26577e6ac38e7296c738e9cd9b564737"
+  },
+  {
+    "path": "screenshots/native-golden-1280x800-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "b80dff5fe9c004ab8101dc55c57ea64f830361754d834fe5873ffa96118d8099"
+  },
+  {
+    "path": "screenshots/native-golden-1280x800-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f4f5726f6983417d2acec11a4e7ae6bcaa642d0c01df729e20168a7f58d9f07c"
+  },
+  {
+    "path": "screenshots/native-golden-1280x800-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c3649d3b505a71b38e89029f475734cca7bcdb74e69d7b51685e8b59a82d6b3e"
+  },
+  {
+    "path": "screenshots/native-golden-1280x800-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "5d70b098618cd2f6d658880ad8f2bf8d572612c8aaf1837ea8c6fc7809f457b7"
+  },
+  {
+    "path": "screenshots/native-golden-1280x800-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "555dc7b86f932d6e59eecb926000ad41d31f349416110445c23a69bf001a2130"
+  },
+  {
+    "path": "screenshots/native-golden-320x640-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "ae60fe96185d76c75c6a80d57d3e71c4a9c821c920f7ae36ce5019e7bd48be9f"
+  },
+  {
+    "path": "screenshots/native-golden-320x640-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f722841b3ee5f43807c078cfca69554d4b70428f121644874f5fb616c40fce48"
+  },
+  {
+    "path": "screenshots/native-golden-320x640-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "5ce77094b7ae8cdc5197dff2ec810b62f621491bf87f8cb34dde1c6cc6595450"
+  },
+  {
+    "path": "screenshots/native-golden-320x640-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "4db31d45a1d267b5f323a0d438fc73aed1fdb0127d52c9ce4ce6cbe3f0ce1614"
+  },
+  {
+    "path": "screenshots/native-golden-320x640-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "92748d3806a9ddbf61feaec3543e7da48c011154f30c2bafeb3f4c785cbb8bfb"
+  },
+  {
+    "path": "screenshots/native-golden-320x640-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "d0f9bc4ccb0583495d647c8bd0322932c5678e5de52ee4ff8501b0ae5ef90718"
+  },
+  {
+    "path": "screenshots/native-golden-320x640-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "2547dc372fdc08f603e37d8044ce370ab8be814bb7fd3e57d87a1ab6469d4aa4"
+  },
+  {
+    "path": "screenshots/native-golden-320x640-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "e1220647ce2c3a507132b8fad94f638b6662b25a2e8f0306e28ae3a0fb01ba9d"
+  },
+  {
+    "path": "screenshots/native-golden-320x640-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "a9bffa1d0c6c489e8f1faa66564e16eb8a6c9f555d90c5259fc76ace18c08022"
+  },
+  {
+    "path": "screenshots/native-golden-390x844-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "9f4d0273ef92abdbb27c4f46aeb035c9671dfd8ec1255d756851849d0e33a7f4"
+  },
+  {
+    "path": "screenshots/native-golden-390x844-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "05d71f807f33ebd36a0a5f17191e558f9ee8cf13d66c648295ba5874c9a06051"
+  },
+  {
+    "path": "screenshots/native-golden-390x844-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "fd24d74ef91427fed7f802da157c4109bbbfb103325df951d5694589f2ad56ac"
+  },
+  {
+    "path": "screenshots/native-golden-390x844-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "ba6602351e573e852337fe5bddbe92b23d569f0f52a525c916aabc300155d478"
+  },
+  {
+    "path": "screenshots/native-golden-390x844-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "7fdbb54208e45ebf7f02056e8edd92e175de4c452dcb56951e25bbd4d1940632"
+  },
+  {
+    "path": "screenshots/native-golden-390x844-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "96a5a4bf2550deafd2ffed3f2190ee620c170c4905a7b16989d104a4e7893563"
+  },
+  {
+    "path": "screenshots/native-golden-390x844-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "cd7c868cd6ff5066145f689753b3f9ce6d9bee59146e0d583fe0a77dd4acbc6f"
+  },
+  {
+    "path": "screenshots/native-golden-390x844-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "620ab69e8893f8febcabdf4f9fae4da3604162ab137cf5bac50b2f49337f1e50"
+  },
+  {
+    "path": "screenshots/native-golden-390x844-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "52fedfea832bd37607a5f5a6f695ee790aac098f15ba0b3fedc6411176358f63"
+  },
+  {
+    "path": "screenshots/native-golden-430x932-arts.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "593f9589a36554ad77e3ac8bb3352b6f7f8162fcc4a39a5e1f2bcc4849a4af56"
+  },
+  {
+    "path": "screenshots/native-golden-430x932-audio.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "080e3c08cf5d07078998b02e6e53001c72326e9cd73ee045bbb2b4fe3304ebcc"
+  },
+  {
+    "path": "screenshots/native-golden-430x932-battle.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "fee9aff03392a5f97e50171f4854075334426878bcfa45fd88f64c270b1b578a"
+  },
+  {
+    "path": "screenshots/native-golden-430x932-core.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "685c020926034bff030f02ffc57778de4c71f918e344cbfd2eecce442265d755"
+  },
+  {
+    "path": "screenshots/native-golden-430x932-gear.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "575e6b28e88ef1f5d4db836cae69f67766a7eded9d25a772573be394d2c9c2e3"
+  },
+  {
+    "path": "screenshots/native-golden-430x932-journey.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "5a6631a82af3cb1617b0550a8d1f0bdd3241c6dceaac562819e7ab46986c186d"
+  },
+  {
+    "path": "screenshots/native-golden-430x932-preview.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "237da06e0fbd22bf247eb17552ebc04f48271356173f7b56a6c7614c8204094b"
+  },
+  {
+    "path": "screenshots/native-golden-430x932-result.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "cecad77389b62856a658b07ddf0bf61bd06226debe8102b18c56d1cf68a2fc2e"
+  },
+  {
+    "path": "screenshots/native-golden-430x932-retreat.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "35442448e003ec62940c3ac4baa3ff87477191ef9f93d38757ca855433978c9d"
+  },
+  {
+    "path": "screenshots/ordinary-after-reload.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c66a116138f5e815e0540f77de288cc46a8ff6d67e47c6bcaffcde1c13a619af"
+  },
+  {
+    "path": "screenshots/ordinary-core-advancement.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "324f4f117c4b9af49f0f3d67a136cdffe38daa795cd6125a832064076ebb6ee5"
+  },
+  {
+    "path": "screenshots/ordinary-core-trial-victory.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "29e41bc9a68aeca987a211cb3fd3c3fb809f2e18e0f245f74e38d9731339558e"
+  },
+  {
+    "path": "screenshots/ordinary-core-trial.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "a4f6b1d8772928d0e261c447e9b9624280499472066deb6e7dd22e2ca10ca758"
+  },
+  {
+    "path": "screenshots/ordinary-density-2-arts.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Exploratory override remained at DPR 3; not evidence of the density in this historical filename",
+    "sha256": "d28c1b1c334c3161e65ed363b3a6cb1a52e442faa7013dc4e8aea4ba9ed2282f"
+  },
+  {
+    "path": "screenshots/ordinary-density-2-menu.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Exploratory override remained at DPR 3; not evidence of the density in this historical filename",
+    "sha256": "3cfae82f68d6fa382f2de7a382b50cafd7ef94f51419c7f67a9649a7b0277066"
+  },
+  {
+    "path": "screenshots/ordinary-density-2.625-arts.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Exploratory override remained at DPR 3; not evidence of the density in this historical filename",
+    "sha256": "d1a7591bc3628bc51ae01b3901fa1bfd24a5361f800be9d884b2a928b740be42"
+  },
+  {
+    "path": "screenshots/ordinary-density-2.625-menu.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Exploratory override remained at DPR 3; not evidence of the density in this historical filename",
+    "sha256": "68f7f1f2da352a7947d44da2275168ef84677b31565fdce4e9215ced22b9f92e"
+  },
+  {
+    "path": "screenshots/ordinary-first-combat.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "5701a1cda265e71dfc68014e19cc182132b6ecd122c7527d656784fbd2e8c606"
+  },
+  {
+    "path": "screenshots/ordinary-flame-discovery.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "967fc4f5ad1fbd77436303bcde323555de96ed5c9380844732ad8c08ef6bf0f1"
+  },
+  {
+    "path": "screenshots/ordinary-free-flame-equip.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "0a4db4dd8b0356241ba0a3ab6f8b8ba7f32d686a2b330b6b64e1a64e00714144"
+  },
+  {
+    "path": "screenshots/ordinary-route-first-clear.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c3ac602abff3c92658ea74721831ea0d4a9fd69b8a11d8d88e66446c6d002920"
+  },
+  {
+    "path": "screenshots/ordinary-route-preview.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "215e76664ec2208850b582bf21796afbf0348249b1fc887526a777ddf7956c4c"
+  },
+  {
+    "path": "screenshots/ordinary-sword-flame-combat.png",
+    "scope": "ordinary-speed browser with labeled entry fixtures",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "f589cbf98cd7ca65d60b637800d616ffae86fa37f4a6c656b576579b46e89abc"
+  },
+  {
+    "path": "screenshots/retina-320x640-equipment.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "85d9dbc8c8c2312167b36e6f285a893a8b0661f1cd39d8f25287a65e6b4044c0"
+  },
+  {
+    "path": "screenshots/retina-320x640-menu.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "59c86da1401f2df2013bff169bb9d8b6176b15e120cf986ac03891748331af94"
+  },
+  {
+    "path": "screenshots/retina-320x640-methods.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "099bff341ff79cc89a075ff52bd396411a0bddfa855b279a51f89b5e2faa49c4"
+  },
+  {
+    "path": "screenshots/retina-320x640-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "5df4ebc39ddcd0543994c032ed6d05c58ab937e23da67e4572415375fbc2b829"
+  },
+  {
+    "path": "screenshots/retina-390x844-equipment.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "b0f2758ae8d7386c9d1ca8bd6982a73c0e604a2781bb98180882f2312c686193"
+  },
+  {
+    "path": "screenshots/retina-390x844-menu.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "6ade2daea24d18d1a63ad3fc9afd8362d6670a0767482d6c058dc3dba1a2891d"
+  },
+  {
+    "path": "screenshots/retina-390x844-methods.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "1abf742c7b3de10b23c6b492f3b86397d79ec4abb2997751c122de80ee42e038"
+  },
+  {
+    "path": "screenshots/retina-390x844-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c6ddeadcb19fd54389c8faaa4b7167aaeea4641f6fdcfeb4f7bdcfc7bec36164"
+  },
+  {
+    "path": "screenshots/retina-430x932-equipment.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "de33b509a751ee5430e4e2e159d5e0da4b6ef3fb86b46b70a0927fee7b8bf2c0"
+  },
+  {
+    "path": "screenshots/retina-430x932-menu.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c6f33212608fa9f134f9056c2df7142b4546b6a45bc0ac0cbc40742379d92a9a"
+  },
+  {
+    "path": "screenshots/retina-430x932-methods.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "426f6634c3de377847eb50149826c601bd349bd6b8be94d5386f930c4cf3b7f4"
+  },
+  {
+    "path": "screenshots/retina-430x932-swipe.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "c7a436aa1ed87a6d5c47d0e4e1c30deeeac5bea398ba7ce2dceca943cba29700"
+  },
+  {
+    "path": "screenshots/retina-before-320x640.png",
+    "scope": "actual browser; labeled state fixture",
+    "revision": "Historical baseline or intermediate panel/density defect",
+    "sha256": "c9facc0eaa524ef6b68d8a20eb0a85e3b410a4d22200be489bc3152e275d207c"
+  },
+  {
+    "path": "screenshots/scene-layer-review.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "610ad929357176be9377b2e9c5e1ecb5798eb8d0390f57c2b11e31368872120d"
+  },
+  {
+    "path": "screenshots/style-a-full-scroll.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "ac3ebb45ca044a360379f52e23bb007cba815a937435bf56da5e1fc532362135"
+  },
+  {
+    "path": "screenshots/style-b-quiet-instrument.png",
+    "scope": "native rendered fixture or asset contact sheet",
+    "revision": "Final layout or retained asset inspection",
+    "sha256": "088c5b15224dae9d114e5de7eb4e56d0c7ddbcd2cdc4c003365f3b5ad2377453"
+  }
+]

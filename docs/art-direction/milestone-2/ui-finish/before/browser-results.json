@@ -1,0 +1,107 @@
+{
+  "events": [
+    {
+      "name": "capture 320x640 mortal",
+      "seconds": 10.799
+    },
+    {
+      "name": "capture 320x640 methods",
+      "seconds": 14.245
+    },
+    {
+      "name": "capture 320x640 queued",
+      "seconds": 17.69
+    },
+    {
+      "name": "capture 320x640 forest",
+      "seconds": 22.496
+    },
+    {
+      "name": "capture 320x640 prepared",
+      "seconds": 25.889
+    },
+    {
+      "name": "capture 320x640 foundation",
+      "seconds": 29.22
+    },
+    {
+      "name": "capture 320x640 details",
+      "seconds": 34.367
+    },
+    {
+      "name": "capture 320x640 rewards",
+      "seconds": 40.843
+    },
+    {
+      "name": "capture 430x932 mortal",
+      "seconds": 44.375
+    },
+    {
+      "name": "capture 430x932 methods",
+      "seconds": 47.842
+    },
+    {
+      "name": "capture 430x932 queued",
+      "seconds": 51.258
+    },
+    {
+      "name": "capture 430x932 forest",
+      "seconds": 56.654
+    },
+    {
+      "name": "capture 430x932 prepared",
+      "seconds": 60.087
+    },
+    {
+      "name": "capture 430x932 foundation",
+      "seconds": 63.47
+    },
+    {
+      "name": "capture 430x932 details",
+      "seconds": 68.667
+    },
+    {
+      "name": "capture 430x932 rewards",
+      "seconds": 75.228
+    },
+    {
+      "name": "capture 1280x800 mortal",
+      "seconds": 78.878
+    },
+    {
+      "name": "capture 1280x800 methods",
+      "seconds": 82.458
+    },
+    {
+      "name": "capture 1280x800 queued",
+      "seconds": 86.093
+    },
+    {
+      "name": "capture 1280x800 forest",
+      "seconds": 91.639
+    },
+    {
+      "name": "capture 1280x800 prepared",
+      "seconds": 95.251
+    },
+    {
+      "name": "capture 1280x800 foundation",
+      "seconds": 98.833
+    },
+    {
+      "name": "capture 1280x800 details",
+      "seconds": 104.079
+    },
+    {
+      "name": "capture 1280x800 rewards",
+      "seconds": 110.746
+    },
+    {
+      "name": "PASS",
+      "seconds": 110.75,
+      "mode": "isolated seeded interaction and render checks"
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

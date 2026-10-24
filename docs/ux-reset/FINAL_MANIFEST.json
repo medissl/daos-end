@@ -1,0 +1,282 @@
+[
+  {
+    "path": "scripts/chapter_data.gd",
+    "sha256": "dc9c43d6bcf5cd4c6d84ddca007b9354640608e43ffaeddd530ddd92abff1260"
+  },
+  {
+    "path": "scripts/chapter_data.gd.uid",
+    "sha256": "dec91b6b848d0cb20fb4abb3789debf08fc96330dc98fd5ffaa3a58a97b55fac"
+  },
+  {
+    "path": "scripts/chapter_ui.gd",
+    "sha256": "a71a000846743a8b034adc807555b5a066e20cfcaecebc7941c9dd7114a94ad9"
+  },
+  {
+    "path": "scripts/chapter_ui.gd.uid",
+    "sha256": "ad3669d2834f7d232364c7f0a1ce140017b6d731563ab3f5cdbbb77d03124a14"
+  },
+  {
+    "path": "scripts/chapter_validation.gd",
+    "sha256": "801e8372b9784f6fe5c6243664bd140588eeecf2ded7c6940e32c0a7678e2c88"
+  },
+  {
+    "path": "scripts/chapter_validation.gd.uid",
+    "sha256": "984c890ea4247252189446e54cdab2ece10e64b2467c9ab0b4a4fc52e89c32c5"
+  },
+  {
+    "path": "scripts/combat.gd",
+    "sha256": "bbf25d3cb2695cbc6e7c289c83de62b66cf5d35a631b4ea3077a94ce6c65bbc0"
+  },
+  {
+    "path": "scripts/combat.gd.uid",
+    "sha256": "8698380dc9f131f2e2c701a59bdeb336e6b1a8e07798bbcfb9052e6adc0fa50d"
+  },
+  {
+    "path": "scripts/cultivation_session.gd",
+    "sha256": "598f18c0d4890e34bf7b71ae65aedddb3f91bac4be26057de7c8de30df523a84"
+  },
+  {
+    "path": "scripts/cultivation_session.gd.uid",
+    "sha256": "24b8e65955b9fdee4e6ad78e2091a0ddbe3fa06c687301aa55f1c0cfe4deccdd"
+  },
+  {
+    "path": "scripts/cultivation_state.gd",
+    "sha256": "d920469e33394f02a47dd323e3f8e8a752fbf0685269b714d5e8db82f5872cb8"
+  },
+  {
+    "path": "scripts/cultivation_state.gd.uid",
+    "sha256": "cbfb011e0b786c7a574dbd27207eb2c43d6b777d47519b4076355ae65363b6f8"
+  },
+  {
+    "path": "scripts/forest_route.gd",
+    "sha256": "3efa517fdf78c5840edb8ec82340dde8ab89122775dcb4a85a81a388e24c67e7"
+  },
+  {
+    "path": "scripts/forest_route.gd.uid",
+    "sha256": "4373b99950e051f43f07e9c9aa4808d6894513efa1ac78d1269001f37d0f7042"
+  },
+  {
+    "path": "scripts/game_audio.gd",
+    "sha256": "7a45c8bb1c66082db233bfa9ccc7a56f0370f442925b1208e39ad826f90f43e6"
+  },
+  {
+    "path": "scripts/game_audio.gd.uid",
+    "sha256": "277dc70145c2b9fb53e2f1e4397d9be90316f3da0e9a28a5e64555375ac73c8b"
+  },
+  {
+    "path": "scripts/landscape.gd",
+    "sha256": "328c080ba51c0cab58d7caaf9c10c8f0ed234deb9e613b749915da2eb7089a59"
+  },
+  {
+    "path": "scripts/landscape.gd.uid",
+    "sha256": "5d407a0b2f2bb5d34d484dde03ceebcd1c292c99d537390e1076dfe957628a15"
+  },
+  {
+    "path": "scripts/legacy/cultivation_state.gd",
+    "sha256": "b82a240aef43e6450100d06c665f895c1502eeeb6cd11c6afdc132a6ea428b88"
+  },
+  {
+    "path": "scripts/legacy/cultivation_state.gd.uid",
+    "sha256": "f365b90d0408dc44d2e4bae450fbd22c479128d6285161ff167c181ecae1ef1b"
+  },
+  {
+    "path": "scripts/legacy/progression.gd",
+    "sha256": "8e6d89b107c6c9382315286b7a775d896e5e41aeadc9b09e310f2d4b963188fb"
+  },
+  {
+    "path": "scripts/legacy/progression.gd.uid",
+    "sha256": "9c280e1e4bcf0512de0a5787f03d8925ff50417bbd96bc59bfe04d432901df3e"
+  },
+  {
+    "path": "scripts/legacy/save_store.gd",
+    "sha256": "11c13268c799ea95d33ea7b84967d75800d40e7f3abe2b4667c0a151596df639"
+  },
+  {
+    "path": "scripts/legacy/save_store.gd.uid",
+    "sha256": "e30e4753e928268706c448eb32c0fe0f6d3d0b9368cda17a4d4d4bacd4aacd6e"
+  },
+  {
+    "path": "scripts/main.gd",
+    "sha256": "5312f3ceabb8db344971df4455d9d8957b65ae8843194becda3b465df5eeb016"
+  },
+  {
+    "path": "scripts/main.gd.uid",
+    "sha256": "ec0d3b94673abf3c190d3b370b772d4fb09652927f01e17c1405404313437bd6"
+  },
+  {
+    "path": "scripts/progression.gd",
+    "sha256": "cdcf18639abc802e44182eeeaa3e8b7ae957ecd46e2e08164b53e3829b09878d"
+  },
+  {
+    "path": "scripts/progression.gd.uid",
+    "sha256": "9cc1dd35a9a404e9ac5696431b30bba299654cdd9c7323fa3891947291b3732c"
+  },
+  {
+    "path": "scripts/save_store.gd",
+    "sha256": "16914f3c4f8093865892c80a7dfc8e6be4358163dde8bf5ea2a2b9489cd12527"
+  },
+  {
+    "path": "scripts/save_store.gd.uid",
+    "sha256": "e03d6ee5fdd478fba0ebc715f826674f096d946661c3b55ea992d96a125b055d"
+  },
+  {
+    "path": "scripts/ui_materials.gd",
+    "sha256": "f74e8f6aa05e7ce0e70baf99ed0b2fcbe427b0b83e91e1a23804b8b74ec5a15f"
+  },
+  {
+    "path": "scripts/ui_materials.gd.uid",
+    "sha256": "e171bbf378bf63f6bb28a67485a064a42930307c5633f26a231ae624481d0c8b"
+  },
+  {
+    "path": "data/jade_road.json",
+    "sha256": "88bd36c204f4380c9225f93bdd794f1c1f0e269608f8bcd83404a7e9985b98e7"
+  },
+  {
+    "path": "scenes/main.tscn",
+    "sha256": "1cdad34103f78ee146e70974d6fe7f6f95f7bf5709b113fde0779f62e229e6f3"
+  },
+  {
+    "path": "assets/ui/action-clean.png",
+    "sha256": "cc54fd3ef5e2b9160a007f6228d9994958280bf454da0281c4c2573195dbd6c2"
+  },
+  {
+    "path": "assets/ui/action-clean.png.import",
+    "sha256": "66c68e19bd4b1c2331fa54e2190c7045939ee749e18d2a6fd7ac4f4ad867754f"
+  },
+  {
+    "path": "assets/ui/action-plaque.png",
+    "sha256": "caa577f7510240b5357c25809bd7065527879784cdefee543d3bdfd0ebac9c55"
+  },
+  {
+    "path": "assets/ui/action-plaque.png.import",
+    "sha256": "3d2b0530ab2bc66d62a3ae8e90c0a6801a0e78ce8fc7374020182ff7909bc882"
+  },
+  {
+    "path": "assets/ui/main-panel.png",
+    "sha256": "d22b5ca31c3a4f9a041cf9331ed82b72c77765bf107266c74924ad03ee730f93"
+  },
+  {
+    "path": "assets/ui/main-panel.png.import",
+    "sha256": "402d389ce97a56bc9715084700cc606eef72017e2c87216ca80f12a8b4bf52c6"
+  },
+  {
+    "path": "assets/ui/methods-scroll.png",
+    "sha256": "0e27401bf2edb5c1a45ed0e8fbd29282fa61de0e47ee910f7431dbc0e749b69c"
+  },
+  {
+    "path": "assets/ui/methods-scroll.png.import",
+    "sha256": "5a1c4fdc20eb01eec01601907e71271d69b224b11f164b57d5d4833e982abcfa"
+  },
+  {
+    "path": "assets/ui/progress-end-left.png",
+    "sha256": "74b3b241f9c0827a2871c25787eb6d1f4a8944fdd275750e790e995f5c4e2435"
+  },
+  {
+    "path": "assets/ui/progress-end-left.png.import",
+    "sha256": "5d96ba18b08021819c0ab1f443de60299c69a3da0bb0337104bedbad4e00406a"
+  },
+  {
+    "path": "assets/ui/progress-end-right.png",
+    "sha256": "85c483ef723a1841d35cc85abef0928d15ecffe7a0a0e8792124a7560bc4e857"
+  },
+  {
+    "path": "assets/ui/progress-end-right.png.import",
+    "sha256": "483e60cb09c148ddd57c06abfd865a45d96209e8653e8e8c2841549f6d2adca9"
+  },
+  {
+    "path": "assets/ui/progress-fill.png",
+    "sha256": "aa1e9a37c727b1fee8eceb3b2fb541fddd8827c19b264400a7334799dc2e877f"
+  },
+  {
+    "path": "assets/ui/progress-fill.png.import",
+    "sha256": "b3ed3973a4ad60e9a1d430ddf61c06701d53703583b30b56e81f2e89f34c9531"
+  },
+  {
+    "path": "assets/ui/progress-track.png",
+    "sha256": "aeb7a297e600de8ff194af146019b60205377e0e87b326853d57297f31ce275b"
+  },
+  {
+    "path": "assets/ui/progress-track.png.import",
+    "sha256": "0607f745a17e5e52b5846bfa96f65f039a53c45805604230d98b020a11898817"
+  },
+  {
+    "path": "assets/ui/reward-tray.png",
+    "sha256": "d9a41df4d42f5fb7af72a3037fe30b8b0165d210bbedbd6ff4a875d2c19e1fa1"
+  },
+  {
+    "path": "assets/ui/reward-tray.png.import",
+    "sha256": "a485bf03ef6fa8142a4e63bd3991a1c6a257421df722cd2b7f76fca721a8d61b"
+  },
+  {
+    "path": "assets/fonts/CormorantGaramond-OFL.txt",
+    "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956"
+  },
+  {
+    "path": "assets/fonts/CormorantGaramond.ttf",
+    "sha256": "b20b7d9626dd956b2c5e558692ad328b1f19e3275e2782db4fa07670d83f35e0"
+  },
+  {
+    "path": "assets/fonts/CormorantGaramond.ttf.import",
+    "sha256": "c1971b9676a55c675413a3a2ffdf7bd8e1406a8e04903007a1baadf789db33bf"
+  },
+  {
+    "path": "assets/fonts/Lato-OFL.txt",
+    "sha256": "74ba064d03f1f1c4a952da936c3eb71866c34404916734de3cae73b34357e59e"
+  },
+  {
+    "path": "assets/fonts/Lato-Regular.ttf",
+    "sha256": "d636e4683231f931eda222d588e944d082bfd3bdba02f928bee461c0f185b251"
+  },
+  {
+    "path": "assets/fonts/Lato-Regular.ttf.import",
+    "sha256": "c2672f3dae7dae5e4324bbbc1a3e35712408313b4cb79d4bdb420352f7ccd35e"
+  },
+  {
+    "path": "builds/web/index.apple-touch-icon.png",
+    "sha256": "071ccd3c3619e62c9e27995cf1afde427bb1b630767801a0fe1ac33505b2f221"
+  },
+  {
+    "path": "builds/web/index.apple-touch-icon.png.import",
+    "sha256": "b0881c31dabc0a0fe9789334d07569839699c937817163c75194c3e327ebeb5c"
+  },
+  {
+    "path": "builds/web/index.audio.position.worklet.js",
+    "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+  },
+  {
+    "path": "builds/web/index.audio.worklet.js",
+    "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+  },
+  {
+    "path": "builds/web/index.html",
+    "sha256": "67a4780d04567e83d2d718f6ec40b684d9a570c482311de1e32d34cdce164c70"
+  },
+  {
+    "path": "builds/web/index.icon.png",
+    "sha256": "662f81d7672001a6f5f928532493267c226624757de3b5fa2908f6e5923964b7"
+  },
+  {
+    "path": "builds/web/index.icon.png.import",
+    "sha256": "2d461c613fd11964abb7dbd9edacb4add81cd7acc39e12e0445ddc3099da210d"
+  },
+  {
+    "path": "builds/web/index.js",
+    "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+  },
+  {
+    "path": "builds/web/index.pck",
+    "sha256": "914da6c3aae541567946ffec753f5d8453e2632aae6f25fb23a28745f5e830d6"
+  },
+  {
+    "path": "builds/web/index.png",
+    "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+  },
+  {
+    "path": "builds/web/index.png.import",
+    "sha256": "e32a84291389c65bee2c54c8f28bfb2a30718f8c59510512def699d80618ff7d"
+  },
+  {
+    "path": "builds/web/index.wasm",
+    "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+  }
+]

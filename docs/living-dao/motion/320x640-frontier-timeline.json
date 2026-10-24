@@ -1,0 +1,102 @@
+[
+  {
+    "name": "golden-sanctuary",
+    "approximate_video_seconds": 20.081
+  },
+  {
+    "name": "storm-preview",
+    "approximate_video_seconds": 20.904
+  },
+  {
+    "name": "preparations",
+    "approximate_video_seconds": 22.145
+  },
+  {
+    "name": "storm-battle",
+    "approximate_video_seconds": 26.225
+  },
+  {
+    "name": "thunder-discovery-onward",
+    "approximate_video_seconds": 36.133
+  },
+  {
+    "name": "camp",
+    "approximate_video_seconds": 48.006
+  },
+  {
+    "name": "manage-thunder",
+    "approximate_video_seconds": 50.016
+  },
+  {
+    "name": "continue",
+    "approximate_video_seconds": 51.725
+  },
+  {
+    "name": "tomb-preview",
+    "approximate_video_seconds": 57.067
+  },
+  {
+    "name": "tomb-battle",
+    "approximate_video_seconds": 61.393
+  },
+  {
+    "name": "tomb-discovery",
+    "approximate_video_seconds": 74.714
+  },
+  {
+    "name": "moon-preview",
+    "approximate_video_seconds": 79.309
+  },
+  {
+    "name": "moon-battle",
+    "approximate_video_seconds": 83.599
+  },
+  {
+    "name": "moon-discovery",
+    "approximate_video_seconds": 93.907
+  },
+  {
+    "name": "tribulation-gate",
+    "approximate_video_seconds": 99.948
+  },
+  {
+    "name": "tribulation",
+    "approximate_video_seconds": 100.986
+  },
+  {
+    "name": "tribulation-won",
+    "approximate_video_seconds": 152.736
+  },
+  {
+    "name": "soul-goal",
+    "approximate_video_seconds": 153.807
+  },
+  {
+    "name": "breakthrough",
+    "approximate_video_seconds": 155.734
+  },
+  {
+    "name": "nascent-persistent",
+    "approximate_video_seconds": 158.084
+  },
+  {
+    "name": "saved-settings",
+    "approximate_video_seconds": 160.2
+  },
+  {
+    "name": "nascent-reduced-motion",
+    "approximate_video_seconds": 160.72
+  },
+  {
+    "name": "nascent-reload",
+    "approximate_video_seconds": 165.115
+  },
+  {
+    "name": "rapid-navigation",
+    "approximate_video_seconds": 166.123
+  },
+  {
+    "name": "resize-during-transition",
+    "approximate_video_seconds": 166.625
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-24",
+  "comparison": "Previous chapter delivery source manifest to mobile interface/audio finish; excludes presentation and audio-preference files by design.",
+  "files": [
+    {
+      "path": "data/jade_road.json",
+      "before_sha256": "88bd36c204f4380c9225f93bdd794f1c1f0e269608f8bcd83404a7e9985b98e7",
+      "after_sha256": "88bd36c204f4380c9225f93bdd794f1c1f0e269608f8bcd83404a7e9985b98e7",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/chapter_data.gd",
+      "before_sha256": "dc9c43d6bcf5cd4c6d84ddca007b9354640608e43ffaeddd530ddd92abff1260",
+      "after_sha256": "dc9c43d6bcf5cd4c6d84ddca007b9354640608e43ffaeddd530ddd92abff1260",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/combat.gd",
+      "before_sha256": "bbf25d3cb2695cbc6e7c289c83de62b66cf5d35a631b4ea3077a94ce6c65bbc0",
+      "after_sha256": "bbf25d3cb2695cbc6e7c289c83de62b66cf5d35a631b4ea3077a94ce6c65bbc0",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/progression.gd",
+      "before_sha256": "cdcf18639abc802e44182eeeaa3e8b7ae957ecd46e2e08164b53e3829b09878d",
+      "after_sha256": "cdcf18639abc802e44182eeeaa3e8b7ae957ecd46e2e08164b53e3829b09878d",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/cultivation_state.gd",
+      "before_sha256": "d920469e33394f02a47dd323e3f8e8a752fbf0685269b714d5e8db82f5872cb8",
+      "after_sha256": "d920469e33394f02a47dd323e3f8e8a752fbf0685269b714d5e8db82f5872cb8",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/cultivation_session.gd",
+      "before_sha256": "598f18c0d4890e34bf7b71ae65aedddb3f91bac4be26057de7c8de30df523a84",
+      "after_sha256": "598f18c0d4890e34bf7b71ae65aedddb3f91bac4be26057de7c8de30df523a84",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/save_store.gd",
+      "before_sha256": "16914f3c4f8093865892c80a7dfc8e6be4358163dde8bf5ea2a2b9489cd12527",
+      "after_sha256": "16914f3c4f8093865892c80a7dfc8e6be4358163dde8bf5ea2a2b9489cd12527",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/chapter_validation.gd",
+      "before_sha256": "801e8372b9784f6fe5c6243664bd140588eeecf2ded7c6940e32c0a7678e2c88",
+      "after_sha256": "801e8372b9784f6fe5c6243664bd140588eeecf2ded7c6940e32c0a7678e2c88",
+      "unchanged": true
+    }
+  ]
+}

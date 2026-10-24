@@ -1,0 +1,128 @@
+{
+  "events": [
+    {
+      "name": "PCM before-gesture",
+      "seconds": 16.505,
+      "rms": 0,
+      "peak": 0,
+      "samples": 98304,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "First node ordinary-speed discovery camp",
+      "seconds": 45.372,
+      "realm": "Foundation Establishment",
+      "qi": 5971.200400618099,
+      "herbs": 25,
+      "journey": "camp",
+      "node": 1
+    },
+    {
+      "name": "Saved free Flame equip",
+      "seconds": 49.01,
+      "realm": "Foundation Establishment",
+      "qi": 6011.743600618162,
+      "herbs": 25,
+      "journey": "camp",
+      "node": 1
+    },
+    {
+      "name": "Ordinary-speed finite route boundary",
+      "seconds": 156.298,
+      "realm": "Foundation Establishment",
+      "qi": 12117.804000617884,
+      "herbs": 29,
+      "journey": "complete",
+      "node": 4
+    },
+    {
+      "name": "PASS ordinary route",
+      "seconds": 163.089,
+      "wallSeconds": 163.089,
+      "clock": "Unmodified real browser time",
+      "fixture": "Foundation entry only; no gear or route history"
+    },
+    {
+      "name": "Core Trial preparation saved",
+      "seconds": 171.691,
+      "realm": "Foundation Establishment",
+      "qi": 100078.16320007897,
+      "herbs": 81,
+      "journey": "idle",
+      "node": 0
+    },
+    {
+      "name": "Ordinary-speed Core Trial from labeled late fixture",
+      "seconds": 236.808,
+      "realm": "Foundation Establishment",
+      "qi": 104804.31710008542,
+      "herbs": 93,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Core advancement after actual trial victory",
+      "seconds": 240.806,
+      "realm": "Golden Core",
+      "qi": 29839.04135008544,
+      "herbs": 93,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS actual Core Trial",
+      "seconds": 244.016,
+      "fixture": "Earned history/equipment, stored Core win flag cleared, 100000 Qi boundary balance",
+      "clock": "Unmodified browser time"
+    },
+    {
+      "name": "Density override not accepted as evidence",
+      "seconds": 247.928,
+      "devicePixelRatio": 3,
+      "innerWidth": 390,
+      "innerHeight": 844,
+      "canvasWidth": 1170,
+      "canvasHeight": 2532,
+      "original_name": "PASS live density resize",
+      "requested_dpr": 2,
+      "accepted_as_density_evidence": false
+    },
+    {
+      "name": "Density override not accepted as evidence",
+      "seconds": 251.514,
+      "devicePixelRatio": 3,
+      "innerWidth": 390,
+      "innerHeight": 844,
+      "canvasWidth": 1170,
+      "canvasHeight": 2532,
+      "original_name": "PASS live density resize",
+      "requested_dpr": 2.625,
+      "accepted_as_density_evidence": false
+    },
+    {
+      "name": "Rendered performance sample",
+      "seconds": 253.514,
+      "medianFrameMs": 16.69999999999891,
+      "p95FrameMs": 16.80000000000109,
+      "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "scope": "120 headless browser animation frames, not a mobile-device benchmark"
+    },
+    {
+      "name": "PASS",
+      "seconds": 253.515,
+      "mode": "ordinary-speed high-density phone journey",
+      "original_mode": "ordinary-speed high-density phone journey and density resize"
+    }
+  ],
+  "errors": [],
+  "completed": true,
+  "verification_note": "Two exploratory CDP density overrides were restored to DPR 3 by capture. Their original metrics and labels are retained; they are not accepted as DPR 2/2.625 evidence. Dedicated browser contexts verify those densities in DENSITY_2_BROWSER_RESULTS.json and DENSITY_2.625_BROWSER_RESULTS.json."
+}

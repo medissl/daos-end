@@ -1,0 +1,102 @@
+{
+  "events": [
+    {
+      "name": "PASS continuous discovery, requested camp, one-sheet free equip, continue",
+      "key": "320x640",
+      "taps": 8,
+      "scrolls": 0,
+      "seconds": 87.503,
+      "fixture": "Foundation entry; actual ordinary-speed first two encounters",
+      "loads_ms": [
+        14166,
+        3669
+      ],
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 940.1000000014901,
+        "samples": 702,
+        "runningSamples": 702,
+        "audibleSamples": 687,
+        "peak": 0.06451416015625,
+        "rmsPeak": 0.021357556447613463,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 4109,
+        "p50": 16.69999999999709,
+        "p95": 16.799999999999272,
+        "p99": 16.80000000000291,
+        "worst": 166.5,
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "jsHeap": 40002877
+      }
+    },
+    {
+      "name": "PASS continuous discovery, requested camp, one-sheet free equip, continue",
+      "key": "390x844",
+      "taps": 8,
+      "scrolls": 0,
+      "seconds": 80.204,
+      "fixture": "Foundation entry; actual ordinary-speed first two encounters",
+      "loads_ms": [
+        4538,
+        4842
+      ],
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 1328.9000000059605,
+        "samples": 714,
+        "runningSamples": 714,
+        "audibleSamples": 697,
+        "peak": 0.061859130859375,
+        "rmsPeak": 0.01946682731425857,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 3958,
+        "p50": 16.69999999999709,
+        "p95": 33.19999999999709,
+        "p99": 33.399999999999636,
+        "worst": 388.59999999999854,
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "jsHeap": 39231723
+      }
+    },
+    {
+      "name": "PASS continuous discovery, requested camp, one-sheet free equip, continue",
+      "key": "430x932",
+      "taps": 8,
+      "scrolls": 0,
+      "seconds": 80.42,
+      "fixture": "Foundation entry; actual ordinary-speed first two encounters",
+      "loads_ms": [
+        4758,
+        4850
+      ],
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 1249.6000000014901,
+        "samples": 713,
+        "runningSamples": 713,
+        "audibleSamples": 697,
+        "peak": 0.056793212890625,
+        "rmsPeak": 0.017877483487218876,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 3765,
+        "p50": 16.69999999999709,
+        "p95": 33.29999999999927,
+        "p99": 33.400000000001455,
+        "worst": 100,
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "jsHeap": 43411298
+      }
+    },
+    {
+      "name": "PASS",
+      "phase": "release"
+    }
+  ],
+  "errors": []
+}

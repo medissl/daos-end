@@ -1,0 +1,93 @@
+{
+	"fixture": "Earned chapter build converted to Foundation; balances zeroed; existing Bamboo trip retained identically. No new completion history granted.",
+	"rows": [
+		{
+			"effective_seconds": 1080.0,
+			"engaged_human_time": "not measured; foreground combat is waiting",
+			"explicit_departures": 0,
+			"herbs": 72,
+			"journey_status": "idle",
+			"mode": "retreat visible",
+			"qi": 37260.0,
+			"stones": 0,
+			"wall_seconds": 3600.0
+		},
+		{
+			"effective_seconds": 1080.0,
+			"engaged_human_time": "not measured; foreground combat is waiting",
+			"explicit_departures": 0,
+			"herbs": 72,
+			"journey_status": "idle",
+			"mode": "retreat closed",
+			"qi": 37260.0,
+			"stones": 0,
+			"wall_seconds": 3600.0
+		},
+		{
+			"effective_seconds": 8640.0,
+			"engaged_human_time": "not measured; foreground combat is waiting",
+			"explicit_departures": 0,
+			"herbs": 576,
+			"journey_status": "idle",
+			"mode": "retreat visible",
+			"qi": 298080.0,
+			"stones": 0,
+			"wall_seconds": 28800.0
+		},
+		{
+			"effective_seconds": 8640.0,
+			"engaged_human_time": "not measured; foreground combat is waiting",
+			"explicit_departures": 0,
+			"herbs": 576,
+			"journey_status": "idle",
+			"mode": "retreat closed",
+			"qi": 298080.0,
+			"stones": 0,
+			"wall_seconds": 28800.0
+		},
+		{
+			"effective_seconds": 1139.5,
+			"engaged_human_time": "not measured; foreground combat is waiting",
+			"explicit_departures": 1,
+			"herbs": 85,
+			"journey_status": "complete",
+			"mode": "one authorized journey foreground",
+			"qi": 41932.75,
+			"stones": 48,
+			"wall_seconds": 3600.0
+		},
+		{
+			"effective_seconds": 1080.0,
+			"engaged_human_time": "not measured; foreground combat is waiting",
+			"explicit_departures": 1,
+			"herbs": 77,
+			"journey_status": "complete",
+			"mode": "one authorized journey closed",
+			"qi": 39880.0,
+			"stones": 48,
+			"wall_seconds": 3600.0
+		},
+		{
+			"effective_seconds": 3600,
+			"engaged_human_time": "not measured; foreground combat is waiting",
+			"explicit_departures": 43,
+			"herbs": 451,
+			"journey_status": "battle",
+			"mode": "explicit repeated foreground departures",
+			"qi": 234560.00000027922,
+			"stones": 2022,
+			"wall_seconds": 3600.0
+		},
+		{
+			"effective_seconds": 8640.0,
+			"engaged_human_time": "not measured; foreground combat is waiting",
+			"explicit_departures": 0,
+			"herbs": 576,
+			"journey_status": "idle",
+			"mode": "nine-hour return capped to eight wall hours",
+			"qi": 298080.0,
+			"stones": 0,
+			"wall_seconds": 32400.0
+		}
+	]
+}

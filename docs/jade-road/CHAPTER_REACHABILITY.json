@@ -1,0 +1,300 @@
+{
+	"automated_policy": true,
+	"combat_seconds": 1008.99999999963,
+	"engaged_human_hours": "not measured; combat seconds are foreground waiting, not engagement",
+	"events": [
+		{
+			"arts": [
+				"sword",
+				""
+			],
+			"combat_seconds": 0.0,
+			"event": "Foundation fixture: capped tutorial practices, 0 Qi, 12 herbs, no chapter rewards or gear",
+			"gear": {
+				"artifact": "",
+				"robe": "",
+				"weapon": ""
+			},
+			"herbs": 12,
+			"journey": "idle",
+			"qi": 0.0,
+			"stones": 0,
+			"wall_seconds": 0.0
+		},
+		{
+			"arts": [
+				"sword",
+				"flame"
+			],
+			"combat_seconds": 137.999999999997,
+			"event": "stone_steps complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "",
+				"robe": "",
+				"weapon": ""
+			},
+			"herbs": 22,
+			"journey": "complete",
+			"qi": 7534.00000000011,
+			"stones": 48,
+			"wall_seconds": 137.999999999997
+		},
+		{
+			"arts": [
+				"ward",
+				"flame"
+			],
+			"combat_seconds": 259.000000000025,
+			"event": "cloud_bridge complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "",
+				"robe": "",
+				"weapon": "pine_sword"
+			},
+			"herbs": 33,
+			"journey": "complete",
+			"qi": 14326.9999999992,
+			"stones": 99,
+			"wall_seconds": 259.000000000025
+		},
+		{
+			"arts": [
+				"ward",
+				"flame"
+			],
+			"combat_seconds": 355.000000000046,
+			"event": "hermits_cleft complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "",
+				"robe": "stoneweave_robe",
+				"weapon": "pine_sword"
+			},
+			"herbs": 38,
+			"journey": "complete",
+			"qi": 20455.0000000006,
+			"stones": 152,
+			"wall_seconds": 355.000000000046
+		},
+		{
+			"arts": [
+				"ward",
+				"flame"
+			],
+			"combat_seconds": 477.000000000074,
+			"event": "reed_shallows complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "bone_ring",
+				"robe": "stoneweave_robe",
+				"weapon": "pine_sword"
+			},
+			"herbs": 49,
+			"journey": "complete",
+			"qi": 27721.0000000042,
+			"stones": 211,
+			"wall_seconds": 477.000000000074
+		},
+		{
+			"arts": [
+				"ward",
+				"flame"
+			],
+			"combat_seconds": 581.000000000019,
+			"event": "broken_ford complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "bone_ring",
+				"robe": "stoneweave_robe",
+				"weapon": "pine_sword"
+			},
+			"herbs": 60,
+			"journey": "complete",
+			"qi": 34613.0000000072,
+			"stones": 274,
+			"wall_seconds": 581.000000000019
+		},
+		{
+			"arts": [
+				"ward",
+				"flame"
+			],
+			"combat_seconds": 720.999999999892,
+			"event": "lotus_pools complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "bone_ring",
+				"robe": "stoneweave_robe",
+				"weapon": "pine_sword"
+			},
+			"herbs": 77,
+			"journey": "complete",
+			"qi": 42873.0000000113,
+			"stones": 340,
+			"wall_seconds": 720.999999999892
+		},
+		{
+			"arts": [
+				"ward",
+				"flame"
+			],
+			"combat_seconds": 754.999999999861,
+			"event": "ward_trial complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "bone_ring",
+				"robe": "stoneweave_robe",
+				"weapon": "pine_sword"
+			},
+			"herbs": 81,
+			"journey": "complete",
+			"qi": 45995.0000000122,
+			"stones": 375,
+			"wall_seconds": 754.999999999861
+		},
+		{
+			"arts": [
+				"river",
+				"flame"
+			],
+			"combat_seconds": 784.999999999834,
+			"event": "poison_trial complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "bone_ring",
+				"robe": "river_silk",
+				"weapon": "pine_sword"
+			},
+			"herbs": 85,
+			"journey": "complete",
+			"qi": 48985.0000000131,
+			"stones": 410,
+			"wall_seconds": 784.999999999834
+		},
+		{
+			"arts": [
+				"ward",
+				"flame"
+			],
+			"combat_seconds": 814.999999999807,
+			"event": "burst_trial complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "bone_ring",
+				"robe": "stoneweave_robe",
+				"weapon": "pine_sword"
+			},
+			"herbs": 89,
+			"journey": "complete",
+			"qi": 51975.000000014,
+			"stones": 445,
+			"wall_seconds": 814.999999999807
+		},
+		{
+			"arts": [
+				"ward",
+				"flame"
+			],
+			"combat_seconds": 842.999999999781,
+			"event": "focus_trial complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "bone_ring",
+				"robe": "stoneweave_robe",
+				"weapon": "pine_sword"
+			},
+			"herbs": 99,
+			"journey": "complete",
+			"qi": 54899.0000000148,
+			"stones": 480,
+			"wall_seconds": 842.999999999781
+		},
+		{
+			"arts": [
+				"river",
+				"flame"
+			],
+			"combat_seconds": 878.999999999748,
+			"event": "reflection_trial complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "mystic_gourd",
+				"robe": "river_silk",
+				"weapon": "pine_sword"
+			},
+			"herbs": 103,
+			"journey": "complete",
+			"qi": 58087.0000000159,
+			"stones": 515,
+			"wall_seconds": 878.999999999748
+		},
+		{
+			"arts": [
+				"ward",
+				"flame"
+			],
+			"combat_seconds": 944.999999999688,
+			"event": "mixed_trial complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "bone_ring",
+				"robe": "stoneweave_robe",
+				"weapon": "pine_sword"
+			},
+			"herbs": 107,
+			"journey": "complete",
+			"qi": 62265.0000000178,
+			"stones": 575,
+			"wall_seconds": 944.999999999688
+		},
+		{
+			"arts": [
+				"ward",
+				"flame"
+			],
+			"combat_seconds": 1008.99999999963,
+			"event": "core complete Journey complete. Return freely; no route repeats automatically.",
+			"gear": {
+				"artifact": "bone_ring",
+				"robe": "stoneweave_robe",
+				"weapon": "pine_sword"
+			},
+			"herbs": 73,
+			"journey": "complete",
+			"qi": 57450.5000000168,
+			"stones": 580,
+			"wall_seconds": 1008.99999999963
+		},
+		{
+			"arts": [
+				"ward",
+				"flame",
+				""
+			],
+			"combat_seconds": 1008.99999999963,
+			"event": "Golden Core advancement",
+			"gear": {
+				"artifact": "bone_ring",
+				"robe": "stoneweave_robe",
+				"weapon": "pine_sword"
+			},
+			"herbs": 105,
+			"journey": "complete",
+			"qi": 45.5000000167929,
+			"stones": 580,
+			"wall_seconds": 2708.99999999963
+		}
+	],
+	"explicit_action_decisions": 34,
+	"failures": 0,
+	"fixture": "Foundation entry only; capped tutorial practices, 0 Qi, 12 herbs. All chapter gear, arts and clears earned through public actions.",
+	"realm": "Golden Core",
+	"retreat_wait_seconds": 1700.0,
+	"routes": [
+		"stone_steps",
+		"cloud_bridge",
+		"hermits_cleft",
+		"reed_shallows",
+		"broken_ford",
+		"lotus_pools"
+	],
+	"trials": [
+		"ward_trial",
+		"poison_trial",
+		"burst_trial",
+		"focus_trial",
+		"reflection_trial",
+		"mixed_trial"
+	],
+	"wall_seconds": 2708.99999999963
+}

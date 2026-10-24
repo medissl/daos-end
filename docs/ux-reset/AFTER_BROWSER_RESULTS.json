@@ -1,0 +1,168 @@
+{
+  "events": [
+    {
+      "name": "PASS route → battle → camp → equip → continue",
+      "key": "320x640",
+      "taps": 7,
+      "scrolls": 0,
+      "directFlowTaps": 5,
+      "buildDetourTaps": 2,
+      "seconds": 35.824,
+      "fixture": "Foundation entry, no gear/history; ordinary-speed first fight; no general Help"
+    },
+    {
+      "name": "PASS empty equipment and journey recovery",
+      "key": "320x640",
+      "taps": 6,
+      "scrolls": 0
+    },
+    {
+      "name": "PASS owned equipment comparison and refinement",
+      "key": "320x640",
+      "taps": 4,
+      "scrolls": 2,
+      "refinePrice": "2500 Qi + 15 stones",
+      "freeEquipNoSpend": true
+    },
+    {
+      "name": "PASS explicit slot replacement and no purchase on drag",
+      "key": "320x640",
+      "masteryUnchanged": true,
+      "otherSlotRetained": true
+    },
+    {
+      "name": "PASS Menu settings reload and keyboard Return",
+      "key": "320x640"
+    },
+    {
+      "name": "PASS early-realm locks and Golden Core compositions",
+      "key": "320x640"
+    },
+    {
+      "name": "PASS route → battle → camp → equip → continue",
+      "key": "390x844",
+      "taps": 7,
+      "scrolls": 0,
+      "directFlowTaps": 5,
+      "buildDetourTaps": 2,
+      "seconds": 29.514,
+      "fixture": "Foundation entry, no gear/history; ordinary-speed first fight; no general Help"
+    },
+    {
+      "name": "PASS empty equipment and journey recovery",
+      "key": "390x844",
+      "taps": 6,
+      "scrolls": 0
+    },
+    {
+      "name": "PASS owned equipment comparison and refinement",
+      "key": "390x844",
+      "taps": 4,
+      "scrolls": 2,
+      "refinePrice": "2500 Qi + 15 stones",
+      "freeEquipNoSpend": true
+    },
+    {
+      "name": "PASS explicit slot replacement and no purchase on drag",
+      "key": "390x844",
+      "masteryUnchanged": true,
+      "otherSlotRetained": true
+    },
+    {
+      "name": "PASS Menu settings reload and keyboard Return",
+      "key": "390x844"
+    },
+    {
+      "name": "PASS early-realm locks and Golden Core compositions",
+      "key": "390x844"
+    },
+    {
+      "name": "PASS real battle queue boundary",
+      "key": "390x844",
+      "currentEncounterFrozen": true,
+      "nextEncounterCommitted": true
+    },
+    {
+      "name": "PASS route → battle → camp → equip → continue",
+      "key": "430x932",
+      "taps": 7,
+      "scrolls": 0,
+      "directFlowTaps": 5,
+      "buildDetourTaps": 2,
+      "seconds": 29.12,
+      "fixture": "Foundation entry, no gear/history; ordinary-speed first fight; no general Help"
+    },
+    {
+      "name": "PASS empty equipment and journey recovery",
+      "key": "430x932",
+      "taps": 6,
+      "scrolls": 0
+    },
+    {
+      "name": "PASS owned equipment comparison and refinement",
+      "key": "430x932",
+      "taps": 4,
+      "scrolls": 0,
+      "refinePrice": "2500 Qi + 15 stones",
+      "freeEquipNoSpend": true
+    },
+    {
+      "name": "PASS explicit slot replacement and no purchase on drag",
+      "key": "430x932",
+      "masteryUnchanged": true,
+      "otherSlotRetained": true
+    },
+    {
+      "name": "PASS Menu settings reload and keyboard Return",
+      "key": "430x932"
+    },
+    {
+      "name": "PASS early-realm locks and Golden Core compositions",
+      "key": "430x932"
+    },
+    {
+      "name": "PASS route → battle → camp → equip → continue",
+      "key": "1280x800",
+      "taps": 7,
+      "scrolls": 0,
+      "directFlowTaps": 5,
+      "buildDetourTaps": 2,
+      "seconds": 30.535,
+      "fixture": "Foundation entry, no gear/history; ordinary-speed first fight; no general Help"
+    },
+    {
+      "name": "PASS empty equipment and journey recovery",
+      "key": "1280x800",
+      "taps": 6,
+      "scrolls": 0
+    },
+    {
+      "name": "PASS owned equipment comparison and refinement",
+      "key": "1280x800",
+      "taps": 4,
+      "scrolls": 2,
+      "refinePrice": "2500 Qi + 15 stones",
+      "freeEquipNoSpend": true
+    },
+    {
+      "name": "PASS explicit slot replacement and no purchase on drag",
+      "key": "1280x800",
+      "masteryUnchanged": true,
+      "otherSlotRetained": true
+    },
+    {
+      "name": "PASS Menu settings reload and keyboard Return",
+      "key": "1280x800"
+    },
+    {
+      "name": "PASS early-realm locks and Golden Core compositions",
+      "key": "1280x800"
+    },
+    {
+      "name": "PASS",
+      "phase": "after"
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

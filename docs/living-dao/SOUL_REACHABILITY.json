@@ -1,0 +1,933 @@
+{
+	"alternatives": {
+		"buried_sun": [
+			{
+				"arts": [
+					"river",
+					"sword",
+					"flame"
+				],
+				"hp": 282.0,
+				"seconds": 58.0
+			},
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 231.5,
+				"seconds": 58.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 207.0,
+				"seconds": 58.0
+			},
+			{
+				"arts": [
+					"river",
+					"returning",
+					"flame"
+				],
+				"hp": 332.5,
+				"seconds": 62.0
+			},
+			{
+				"arts": [
+					"returning",
+					"river",
+					"sword"
+				],
+				"hp": 318.5,
+				"seconds": 62.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 301.0,
+				"seconds": 78.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 301.0,
+				"seconds": 78.0
+			}
+		],
+		"earth_heir": [
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 343.5,
+				"seconds": 13.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 315.5,
+				"seconds": 13.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 256.86,
+				"seconds": 17.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 329.5,
+				"seconds": 18.0
+			}
+		],
+		"fire_heir": [
+			{
+				"arts": [
+					"river",
+					"sword",
+					"flame"
+				],
+				"hp": 298.0,
+				"seconds": 12.0
+			},
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 298.0,
+				"seconds": 12.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 298.0,
+				"seconds": 12.0
+			},
+			{
+				"arts": [
+					"river",
+					"returning",
+					"flame"
+				],
+				"hp": 289.0,
+				"seconds": 13.0
+			}
+		],
+		"mirror_shore": [
+			{
+				"arts": [
+					"river",
+					"sword",
+					"flame"
+				],
+				"hp": 351.0,
+				"seconds": 72.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 279.5,
+				"seconds": 72.0
+			},
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 279.5,
+				"seconds": 73.0
+			},
+			{
+				"arts": [
+					"river",
+					"returning",
+					"flame"
+				],
+				"hp": 325.0,
+				"seconds": 84.0
+			},
+			{
+				"arts": [
+					"returning",
+					"river",
+					"sword"
+				],
+				"hp": 325.0,
+				"seconds": 90.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 325.0,
+				"seconds": 92.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 325.0,
+				"seconds": 94.0
+			}
+		],
+		"moon_heir": [
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 344.5,
+				"seconds": 20.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 318.5,
+				"seconds": 20.0
+			},
+			{
+				"arts": [
+					"river",
+					"sword",
+					"flame"
+				],
+				"hp": 357.5,
+				"seconds": 21.0
+			},
+			{
+				"arts": [
+					"river",
+					"returning",
+					"flame"
+				],
+				"hp": 344.5,
+				"seconds": 26.0
+			},
+			{
+				"arts": [
+					"mirror",
+					"river",
+					"flame"
+				],
+				"hp": 370.5,
+				"seconds": 27.0
+			},
+			{
+				"arts": [
+					"mirror",
+					"river",
+					"sword"
+				],
+				"hp": 370.5,
+				"seconds": 28.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 253.9,
+				"seconds": 29.0
+			},
+			{
+				"arts": [
+					"returning",
+					"river",
+					"sword"
+				],
+				"hp": 331.5,
+				"seconds": 29.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 331.5,
+				"seconds": 30.0
+			}
+		],
+		"moonless_crossing": [
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 167.075,
+				"seconds": 50.0
+			},
+			{
+				"arts": [
+					"river",
+					"sword",
+					"flame"
+				],
+				"hp": 241.995,
+				"seconds": 51.0
+			},
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 269.075,
+				"seconds": 51.0
+			},
+			{
+				"arts": [
+					"river",
+					"returning",
+					"flame"
+				],
+				"hp": 328.34,
+				"seconds": 61.0
+			},
+			{
+				"arts": [
+					"returning",
+					"river",
+					"sword"
+				],
+				"hp": 328.34,
+				"seconds": 61.0
+			},
+			{
+				"arts": [
+					"mirror",
+					"river",
+					"flame"
+				],
+				"hp": 300.5,
+				"seconds": 61.6
+			},
+			{
+				"arts": [
+					"mirror",
+					"river",
+					"sword"
+				],
+				"hp": 300.5,
+				"seconds": 64.4
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 268.5,
+				"seconds": 68.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 283.075,
+				"seconds": 70.0
+			}
+		],
+		"silent_gate": [
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 227.3,
+				"seconds": 79.0
+			},
+			{
+				"arts": [
+					"river",
+					"sword",
+					"flame"
+				],
+				"hp": 331.1,
+				"seconds": 81.0
+			},
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 318.5,
+				"seconds": 81.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 344.3,
+				"seconds": 110.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 305.5,
+				"seconds": 112.0
+			}
+		],
+		"soul": [
+			{
+				"arts": [
+					"river",
+					"sword",
+					"flame"
+				],
+				"hp": 345.25,
+				"seconds": 52.0
+			},
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 226.5,
+				"seconds": 52.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 222.75,
+				"seconds": 52.0
+			},
+			{
+				"arts": [
+					"river",
+					"returning",
+					"flame"
+				],
+				"hp": 323.75,
+				"seconds": 56.0
+			},
+			{
+				"arts": [
+					"returning",
+					"river",
+					"sword"
+				],
+				"hp": 323.75,
+				"seconds": 57.0
+			},
+			{
+				"arts": [
+					"mirror",
+					"river",
+					"flame"
+				],
+				"hp": 345.25,
+				"seconds": 62.0
+			},
+			{
+				"arts": [
+					"mirror",
+					"river",
+					"sword"
+				],
+				"hp": 337.75,
+				"seconds": 62.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 366.75,
+				"seconds": 70.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 366.75,
+				"seconds": 71.0
+			}
+		],
+		"storm_ascent": [
+			{
+				"arts": [
+					"river",
+					"sword",
+					"flame"
+				],
+				"hp": 304.625,
+				"seconds": 62.0
+			},
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 284.5,
+				"seconds": 62.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 299.5,
+				"seconds": 76.0
+			}
+		],
+		"thunder_crown": [
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 245.9,
+				"seconds": 56.0
+			},
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 259.9,
+				"seconds": 63.0
+			},
+			{
+				"arts": [
+					"river",
+					"sword",
+					"flame"
+				],
+				"hp": 259.9,
+				"seconds": 64.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 307.275,
+				"seconds": 72.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 301.5,
+				"seconds": 73.0
+			}
+		],
+		"thunder_heir": [
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 345.5,
+				"seconds": 8.0
+			},
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 345.5,
+				"seconds": 10.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 333.5,
+				"seconds": 12.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 345.5,
+				"seconds": 14.0
+			}
+		],
+		"tomb_heir": [
+			{
+				"arts": [
+					"river",
+					"sword",
+					"flame"
+				],
+				"hp": 307.5,
+				"seconds": 19.0
+			},
+			{
+				"arts": [
+					"ward",
+					"sword",
+					"flame"
+				],
+				"hp": 307.5,
+				"seconds": 19.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"sword",
+					"flame"
+				],
+				"hp": 307.5,
+				"seconds": 19.0
+			},
+			{
+				"arts": [
+					"river",
+					"returning",
+					"flame"
+				],
+				"hp": 307.5,
+				"seconds": 21.0
+			},
+			{
+				"arts": [
+					"returning",
+					"river",
+					"sword"
+				],
+				"hp": 307.5,
+				"seconds": 21.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 349.0,
+				"seconds": 30.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 349.0,
+				"seconds": 30.0
+			}
+		],
+		"water_heir": [
+			{
+				"arts": [
+					"river",
+					"returning",
+					"flame"
+				],
+				"hp": 355.75,
+				"seconds": 16.0
+			},
+			{
+				"arts": [
+					"returning",
+					"river",
+					"sword"
+				],
+				"hp": 355.75,
+				"seconds": 16.0
+			},
+			{
+				"arts": [
+					"mirror",
+					"river",
+					"flame"
+				],
+				"hp": 352.0,
+				"seconds": 17.0
+			},
+			{
+				"arts": [
+					"mirror",
+					"river",
+					"sword"
+				],
+				"hp": 348.25,
+				"seconds": 18.0
+			},
+			{
+				"arts": [
+					"ward",
+					"river",
+					"flame"
+				],
+				"hp": 329.75,
+				"seconds": 20.0
+			},
+			{
+				"arts": [
+					"thunder",
+					"river",
+					"flame"
+				],
+				"hp": 329.75,
+				"seconds": 20.0
+			}
+		]
+	},
+	"automated_policy": true,
+	"combat_seconds": 517.0,
+	"events": [
+		{
+			"arts": [
+				"river",
+				"sword",
+				"flame"
+			],
+			"herbs": 90,
+			"hp": 304.625,
+			"id": "storm_ascent",
+			"qi": 68093.9999999922,
+			"seconds": 62.0,
+			"solutions": 3,
+			"stones": 687
+		},
+		{
+			"arts": [
+				"thunder",
+				"sword",
+				"flame"
+			],
+			"herbs": 98,
+			"hp": 245.9,
+			"id": "thunder_crown",
+			"qi": 84857.999999989,
+			"seconds": 56.0,
+			"solutions": 5,
+			"stones": 763
+		},
+		{
+			"arts": [
+				"ward",
+				"sword",
+				"flame"
+			],
+			"herbs": 102,
+			"hp": 343.5,
+			"id": "earth_heir",
+			"qi": 90254.9999999882,
+			"seconds": 13.0,
+			"solutions": 4,
+			"stones": 798
+		},
+		{
+			"arts": [
+				"thunder",
+				"sword",
+				"flame"
+			],
+			"herbs": 106,
+			"hp": 345.5,
+			"id": "thunder_heir",
+			"qi": 95306.9999999878,
+			"seconds": 8.0,
+			"solutions": 4,
+			"stones": 833
+		},
+		{
+			"arts": [
+				"thunder",
+				"sword",
+				"flame"
+			],
+			"herbs": 122,
+			"hp": 227.3,
+			"id": "silent_gate",
+			"qi": 113657.999999983,
+			"seconds": 79.0,
+			"solutions": 5,
+			"stones": 909
+		},
+		{
+			"arts": [
+				"river",
+				"sword",
+				"flame"
+			],
+			"herbs": 138,
+			"hp": 282.0,
+			"id": "buried_sun",
+			"qi": 130559.99999998,
+			"seconds": 58.0,
+			"solutions": 7,
+			"stones": 985
+		},
+		{
+			"arts": [
+				"river",
+				"sword",
+				"flame"
+			],
+			"herbs": 142,
+			"hp": 298.0,
+			"id": "fire_heir",
+			"qi": 135887.99999998,
+			"seconds": 12.0,
+			"solutions": 4,
+			"stones": 1020
+		},
+		{
+			"arts": [
+				"river",
+				"sword",
+				"flame"
+			],
+			"herbs": 146,
+			"hp": 307.5,
+			"id": "tomb_heir",
+			"qi": 141698.999999985,
+			"seconds": 19.0,
+			"solutions": 7,
+			"stones": 1055
+		},
+		{
+			"arts": [
+				"river",
+				"sword",
+				"flame"
+			],
+			"herbs": 154,
+			"hp": 351.0,
+			"id": "mirror_shore",
+			"qi": 159567.000000002,
+			"seconds": 72.0,
+			"solutions": 7,
+			"stones": 1131
+		},
+		{
+			"arts": [
+				"thunder",
+				"sword",
+				"flame"
+			],
+			"herbs": 170,
+			"hp": 167.075,
+			"id": "moonless_crossing",
+			"qi": 175917.000000013,
+			"seconds": 50.0,
+			"solutions": 9,
+			"stones": 1207
+		},
+		{
+			"arts": [
+				"river",
+				"returning",
+				"flame"
+			],
+			"herbs": 174,
+			"hp": 355.75,
+			"id": "water_heir",
+			"qi": 181521.000000017,
+			"seconds": 16.0,
+			"solutions": 6,
+			"stones": 1242
+		},
+		{
+			"arts": [
+				"ward",
+				"sword",
+				"flame"
+			],
+			"herbs": 178,
+			"hp": 344.5,
+			"id": "moon_heir",
+			"qi": 187401.000000022,
+			"seconds": 20.0,
+			"solutions": 9,
+			"stones": 1302
+		},
+		{
+			"arts": [
+				"river",
+				"sword",
+				"flame"
+			],
+			"herbs": 190,
+			"hp": 345.25,
+			"id": "soul",
+			"qi": 200989.000000034,
+			"seconds": 52.0,
+			"solutions": 9,
+			"stones": 1362
+		}
+	],
+	"failures": 0,
+	"fixture": "Actual earned Jade Road Golden Core save; no awarded new resources, gear or arts. No preparations used.",
+	"fresh_run": false,
+	"funding_wait_seconds": 0.0,
+	"human_engagement": "unmeasured",
+	"realm": "Nascent Soul"
+}

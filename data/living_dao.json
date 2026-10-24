@@ -1,0 +1,1007 @@
+{
+  "skills": {
+    "thunder": {
+      "name": "Thunder Step",
+      "focus": 4,
+      "cooldown": 12,
+      "description": "Interrupt one charge within 2s of release; 100% attack magic. Basic attacks continue.",
+      "source": "Storm Ascent first node",
+      "damage": 1.0,
+      "window": 2
+    },
+    "returning": {
+      "name": "Returning Blade",
+      "focus": 3,
+      "cooldown": 7,
+      "description": "Two 70% physical hits. Breaking a barrier refunds 2 focus once per cast (maximum 3 with Seal Needle).",
+      "source": "Silent Gate first node",
+      "hits": 2,
+      "damage": 0.7,
+      "refund": 2,
+      "refund_cap": 3
+    },
+    "mirror": {
+      "name": "Mirror Counter",
+      "focus": 3,
+      "cooldown": 9,
+      "description": "18% HP shield for 4s. One absorbed strike retaliates for 120% attack magic; indirect damage never counters.",
+      "source": "Mirror Shore first node",
+      "shield": 0.18,
+      "duration": 4,
+      "retaliation": 1.2
+    }
+  },
+  "items": {
+    "storm_thread": {
+      "name": "Storm Thread",
+      "slot": "robe",
+      "description": "+25 HP · +2 armor · charged damage −20%",
+      "source": "Storm Ascent first clear",
+      "hp": 25,
+      "armor": 2,
+      "burst_reduction": 0.2
+    },
+    "cloud_bell": {
+      "name": "Cloud Bell",
+      "slot": "artifact",
+      "description": "+10 HP · +0.4 focus/s",
+      "source": "Thunder Crown first clear",
+      "hp": 10,
+      "focus_regen": 0.4
+    },
+    "seal_needle": {
+      "name": "Seal Needle",
+      "slot": "weapon",
+      "description": "+4 attack · ignore 2 armor · Returning refund +1 (cap 3)",
+      "source": "Silent Gate first clear",
+      "attack": 4,
+      "pierce": 2,
+      "refund_bonus": 1
+    },
+    "ember_lantern": {
+      "name": "Ember Lantern",
+      "slot": "artifact",
+      "description": "+2 attack · burn lasts +2s",
+      "source": "Buried Sun first clear",
+      "attack": 2,
+      "burn_duration": 2
+    },
+    "moon_silk": {
+      "name": "Moon Silk",
+      "slot": "robe",
+      "description": "+35 HP · healing +20% · poison damage −25%",
+      "source": "Mirror Shore first clear",
+      "hp": 35,
+      "healing_bonus": 0.2,
+      "dot_reduction": 0.25
+    },
+    "lake_blade": {
+      "name": "Lake Blade",
+      "slot": "weapon",
+      "description": "+5 attack · shields +15%",
+      "source": "Moonless Crossing first clear",
+      "attack": 5,
+      "shield_bonus": 0.15
+    }
+  },
+  "routes": {
+    "storm_ascent": {
+      "name": "Storm Ascent",
+      "region": "Thunder Peak",
+      "item": "storm_thread",
+      "nodes": [
+        "storm_ascent_1",
+        "storm_ascent_2",
+        "storm_ascent_3",
+        "storm_ascent_4"
+      ],
+      "first_qi": 7500,
+      "grant_art": "thunder",
+      "hint": "Charges every 10s. Interrupt, or absorb them with Ward.",
+      "endurance": false
+    },
+    "thunder_crown": {
+      "name": "Thunder Crown",
+      "region": "Thunder Peak",
+      "item": "cloud_bell",
+      "nodes": [
+        "thunder_crown_1",
+        "thunder_crown_2",
+        "thunder_crown_3",
+        "thunder_crown_4"
+      ],
+      "first_qi": 7500,
+      "grant_art": "",
+      "hint": "Fast strikes between charges. Protection or recovery keeps you grounded.",
+      "endurance": false
+    },
+    "silent_gate": {
+      "name": "Silent Gate",
+      "region": "Ancient Tomb",
+      "item": "seal_needle",
+      "nodes": [
+        "silent_gate_1",
+        "silent_gate_2",
+        "silent_gate_3",
+        "silent_gate_4"
+      ],
+      "first_qi": 7500,
+      "grant_art": "returning",
+      "hint": "Barriers delay direct hits. Sword breaks layers; Returning refunds focus.",
+      "endurance": false
+    },
+    "buried_sun": {
+      "name": "Buried Sun",
+      "region": "Ancient Tomb",
+      "item": "ember_lantern",
+      "nodes": [
+        "buried_sun_1",
+        "buried_sun_2",
+        "buried_sun_3",
+        "buried_sun_4"
+      ],
+      "first_qi": 7500,
+      "grant_art": "",
+      "hint": "Direct hits reflect. Burn avoids reflection; recovery supports a direct build.",
+      "endurance": false
+    },
+    "mirror_shore": {
+      "name": "Mirror Shore",
+      "region": "Moon Lake",
+      "item": "moon_silk",
+      "nodes": [
+        "mirror_shore_1",
+        "mirror_shore_2",
+        "mirror_shore_3",
+        "mirror_shore_4"
+      ],
+      "first_qi": 7500,
+      "grant_art": "mirror",
+      "hint": "Defenses alternate every 6s. Mix physical and magic, or use sustained burn.",
+      "endurance": false
+    },
+    "moonless_crossing": {
+      "name": "Moonless Crossing",
+      "region": "Moon Lake",
+      "item": "lake_blade",
+      "nodes": [
+        "moonless_crossing_1",
+        "moonless_crossing_2",
+        "moonless_crossing_3",
+        "moonless_crossing_4"
+      ],
+      "first_qi": 7500,
+      "grant_art": "",
+      "hint": "Endurance: HP carries between fights; recover 15% maximum HP at each crossing.",
+      "endurance": true
+    }
+  },
+  "enemies": {
+    "storm_ascent_1": {
+      "name": "Wind Sentry",
+      "traits": [
+        "channeler"
+      ],
+      "hp": 300,
+      "attack": 15,
+      "armor": 3,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1200,
+      "stones": 16,
+      "herbs": 2,
+      "art": "storm_guardian"
+    },
+    "storm_ascent_2": {
+      "name": "Ridge Archer",
+      "traits": [],
+      "hp": 330,
+      "attack": 16,
+      "armor": 4,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1300,
+      "stones": 18,
+      "herbs": 2,
+      "art": "storm_guardian"
+    },
+    "storm_ascent_3": {
+      "name": "Storm Hermit",
+      "traits": [
+        "channeler",
+        "warded"
+      ],
+      "hp": 370,
+      "attack": 17,
+      "armor": 3,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1400,
+      "stones": 20,
+      "herbs": 2,
+      "art": "storm_guardian"
+    },
+    "storm_ascent_4": {
+      "name": "Cloud Lion",
+      "traits": [
+        "channeler"
+      ],
+      "hp": 460,
+      "attack": 18,
+      "armor": 4,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 8,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1500,
+      "stones": 22,
+      "herbs": 2,
+      "art": "storm_guardian"
+    },
+    "thunder_crown_1": {
+      "name": "Rain Hound",
+      "traits": [],
+      "hp": 330,
+      "attack": 16,
+      "armor": 3,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1200,
+      "stones": 16,
+      "herbs": 2,
+      "art": "storm_guardian"
+    },
+    "thunder_crown_2": {
+      "name": "Bell Keeper",
+      "traits": [
+        "channeler"
+      ],
+      "hp": 380,
+      "attack": 17,
+      "armor": 4,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1300,
+      "stones": 18,
+      "herbs": 2,
+      "art": "storm_guardian"
+    },
+    "thunder_crown_3": {
+      "name": "Sky Watcher",
+      "traits": [
+        "channeler",
+        "venomous"
+      ],
+      "hp": 400,
+      "attack": 18,
+      "armor": 3,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1400,
+      "stones": 20,
+      "herbs": 2,
+      "art": "storm_guardian"
+    },
+    "thunder_crown_4": {
+      "name": "Thunder Roc",
+      "traits": [
+        "channeler"
+      ],
+      "hp": 480,
+      "attack": 19,
+      "armor": 4,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 8,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1500,
+      "stones": 22,
+      "herbs": 2,
+      "art": "storm_guardian"
+    },
+    "silent_gate_1": {
+      "name": "Seal Warden",
+      "traits": [
+        "warded"
+      ],
+      "hp": 340,
+      "attack": 15,
+      "armor": 3,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1200,
+      "stones": 16,
+      "herbs": 2,
+      "art": "tomb_guardian"
+    },
+    "silent_gate_2": {
+      "name": "Dust Monk",
+      "traits": [
+        "warded",
+        "veiled"
+      ],
+      "hp": 370,
+      "attack": 16,
+      "armor": 4,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1300,
+      "stones": 18,
+      "herbs": 2,
+      "art": "tomb_guardian"
+    },
+    "silent_gate_3": {
+      "name": "Gate Sentinel",
+      "traits": [
+        "warded"
+      ],
+      "hp": 400,
+      "attack": 17,
+      "armor": 3,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1400,
+      "stones": 20,
+      "herbs": 2,
+      "art": "tomb_guardian"
+    },
+    "silent_gate_4": {
+      "name": "Jade Sarcophagus",
+      "traits": [
+        "warded",
+        "channeler"
+      ],
+      "hp": 480,
+      "attack": 18,
+      "armor": 4,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 8,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1500,
+      "stones": 22,
+      "herbs": 2,
+      "art": "tomb_guardian"
+    },
+    "buried_sun_1": {
+      "name": "Ash Effigy",
+      "traits": [
+        "thorned"
+      ],
+      "hp": 320,
+      "attack": 16,
+      "armor": 3,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1200,
+      "stones": 16,
+      "herbs": 2,
+      "art": "tomb_guardian"
+    },
+    "buried_sun_2": {
+      "name": "Lamp Keeper",
+      "traits": [
+        "thorned",
+        "healer"
+      ],
+      "hp": 350,
+      "attack": 17,
+      "armor": 4,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1300,
+      "stones": 18,
+      "herbs": 2,
+      "art": "tomb_guardian"
+    },
+    "buried_sun_3": {
+      "name": "Bronze Mirror",
+      "traits": [
+        "thorned",
+        "veiled"
+      ],
+      "hp": 380,
+      "attack": 18,
+      "armor": 3,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1400,
+      "stones": 20,
+      "herbs": 2,
+      "art": "tomb_guardian"
+    },
+    "buried_sun_4": {
+      "name": "Buried Sovereign",
+      "traits": [
+        "thorned",
+        "warded"
+      ],
+      "hp": 440,
+      "attack": 19,
+      "armor": 4,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 8,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1500,
+      "stones": 22,
+      "herbs": 2,
+      "art": "tomb_guardian"
+    },
+    "mirror_shore_1": {
+      "name": "Reed Reflection",
+      "traits": [
+        "alternating"
+      ],
+      "hp": 350,
+      "attack": 15,
+      "armor": 3,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1200,
+      "stones": 16,
+      "herbs": 2,
+      "art": "lake_guardian"
+    },
+    "mirror_shore_2": {
+      "name": "Moon Carp",
+      "traits": [
+        "alternating",
+        "venomous"
+      ],
+      "hp": 370,
+      "attack": 16,
+      "armor": 4,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1300,
+      "stones": 18,
+      "herbs": 2,
+      "art": "lake_guardian"
+    },
+    "mirror_shore_3": {
+      "name": "Silver Heron",
+      "traits": [
+        "alternating",
+        "channeler"
+      ],
+      "hp": 400,
+      "attack": 17,
+      "armor": 3,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1400,
+      "stones": 20,
+      "herbs": 2,
+      "art": "lake_guardian"
+    },
+    "mirror_shore_4": {
+      "name": "Lake Mirror",
+      "traits": [
+        "alternating"
+      ],
+      "hp": 480,
+      "attack": 18,
+      "armor": 4,
+      "interval": 3.2,
+      "burst": 3.0,
+      "burst_interval": 10,
+      "barriers": 8,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1500,
+      "stones": 22,
+      "herbs": 2,
+      "art": "lake_guardian"
+    },
+    "moonless_crossing_1": {
+      "name": "Night Ferryman",
+      "traits": [
+        "venomous"
+      ],
+      "hp": 300,
+      "attack": 16,
+      "armor": 3,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1200,
+      "stones": 16,
+      "herbs": 2,
+      "art": "lake_guardian"
+    },
+    "moonless_crossing_2": {
+      "name": "Drowned Bell",
+      "traits": [
+        "channeler"
+      ],
+      "hp": 320,
+      "attack": 17,
+      "armor": 4,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1300,
+      "stones": 18,
+      "herbs": 2,
+      "art": "lake_guardian"
+    },
+    "moonless_crossing_3": {
+      "name": "Moonless Reed",
+      "traits": [
+        "alternating",
+        "venomous"
+      ],
+      "hp": 350,
+      "attack": 18,
+      "armor": 3,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 6,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1400,
+      "stones": 20,
+      "herbs": 2,
+      "art": "lake_guardian"
+    },
+    "moonless_crossing_4": {
+      "name": "Silent Moon",
+      "traits": [
+        "alternating",
+        "channeler"
+      ],
+      "hp": 430,
+      "attack": 19,
+      "armor": 4,
+      "interval": 2.8,
+      "burst": 3.0,
+      "burst_interval": 9,
+      "barriers": 8,
+      "poison": 4,
+      "poison_duration": 6,
+      "reflect": 3.5,
+      "heal": 0.04,
+      "heal_interval": 8,
+      "phase_period": 6,
+      "phase_length": 2,
+      "qi": 1500,
+      "stones": 22,
+      "herbs": 2,
+      "art": "lake_guardian"
+    }
+  },
+  "trials": {
+    "earth_heir": {
+      "name": "Earth Inheritance",
+      "region": "Thunder Peak",
+      "description": "Interrupt or shield at least one charged strike, then win.",
+      "objective": "charge_answer",
+      "item": "",
+      "first_qi": 4500,
+      "enemy": {
+        "name": "Stone Thunder",
+        "traits": [
+          "channeler"
+        ],
+        "hp": 420,
+        "attack": 19,
+        "interval": 3.5,
+        "burst": 3.2,
+        "burst_interval": 9,
+        "art": "storm_guardian"
+      }
+    },
+    "fire_heir": {
+      "name": "Fire Inheritance",
+      "region": "Ancient Tomb",
+      "description": "Use Flame and Sword or Returning in the same fight, then win.",
+      "objective": "combination",
+      "item": "",
+      "first_qi": 4500,
+      "enemy": {
+        "name": "Ember Seal",
+        "traits": [
+          "thorned"
+        ],
+        "hp": 400,
+        "attack": 14,
+        "reflect": 2.5,
+        "art": "tomb_guardian"
+      }
+    },
+    "water_heir": {
+      "name": "Water Inheritance",
+      "region": "Moon Lake",
+      "description": "Remove poison twice with River, then win. Choose offense or protection as companions.",
+      "objective": "cleanse_win",
+      "item": "",
+      "first_qi": 4500,
+      "enemy": {
+        "name": "Poisoned Reflection",
+        "traits": [
+          "venomous"
+        ],
+        "hp": 480,
+        "attack": 14,
+        "interval": 3,
+        "poison": 5,
+        "art": "lake_guardian"
+      },
+      "target": 2
+    },
+    "thunder_heir": {
+      "name": "Thunder Inheritance",
+      "region": "Thunder Peak",
+      "description": "24 focus total. Answer a charge through interruption or protection, then win.",
+      "objective": "charge_answer",
+      "item": "",
+      "first_qi": 4500,
+      "enemy": {
+        "name": "Quiet Lightning",
+        "traits": [
+          "channeler"
+        ],
+        "hp": 320,
+        "attack": 17,
+        "interval": 4,
+        "burst": 3.5,
+        "burst_interval": 9,
+        "art": "storm_guardian"
+      },
+      "focus_budget": 24
+    },
+    "tomb_heir": {
+      "name": "Tomb Inheritance",
+      "region": "Ancient Tomb",
+      "description": "Break nine layers and win within 24 focus. Returning refunds or Sword conserves casts.",
+      "objective": "barrier",
+      "item": "",
+      "first_qi": 4500,
+      "enemy": {
+        "name": "Nine Seals",
+        "traits": [
+          "warded"
+        ],
+        "hp": 370,
+        "attack": 15,
+        "barriers": 9,
+        "interval": 3.5,
+        "art": "tomb_guardian"
+      },
+      "target": 9,
+      "focus_budget": 24
+    },
+    "moon_heir": {
+      "name": "Moon Inheritance",
+      "region": "Moon Lake",
+      "description": "Two encounters; HP carries with 15% recovery. Finish with at least 25% HP.",
+      "objective": "healthy_win",
+      "minimum_hp": 0.25,
+      "endurance": true,
+      "item": "",
+      "first_qi": 4500,
+      "sequence": [
+        {
+          "name": "First Reflection",
+          "traits": [
+            "venomous"
+          ],
+          "hp": 280,
+          "attack": 14,
+          "poison": 4,
+          "art": "lake_guardian"
+        },
+        {
+          "name": "Last Reflection",
+          "traits": [
+            "alternating",
+            "channeler"
+          ],
+          "hp": 340,
+          "attack": 16,
+          "burst": 2.6,
+          "art": "lake_guardian"
+        }
+      ]
+    },
+    "soul": {
+      "name": "Nascent Soul Tribulation",
+      "region": "Moon Lake",
+      "description": "Three continuous stages: charge, barrier, alternating venom. Build changes apply at each boundary.",
+      "objective": "win",
+      "item": "",
+      "first_qi": 10000,
+      "sequence": [
+        {
+          "name": "Heavenly Thunder",
+          "traits": [
+            "channeler"
+          ],
+          "hp": 440,
+          "attack": 18,
+          "interval": 3.5,
+          "burst": 3.2,
+          "burst_interval": 9,
+          "art": "storm_guardian"
+        },
+        {
+          "name": "Earthly Seal",
+          "traits": [
+            "warded",
+            "thorned"
+          ],
+          "hp": 390,
+          "attack": 16,
+          "barriers": 7,
+          "reflect": 2,
+          "art": "tomb_guardian"
+        },
+        {
+          "name": "Inner Moon",
+          "traits": [
+            "alternating",
+            "venomous"
+          ],
+          "hp": 460,
+          "attack": 17,
+          "poison": 5,
+          "art": "lake_guardian"
+        }
+      ]
+    }
+  },
+  "laws": {
+    "earth": {
+      "name": "Earth Accord",
+      "trial": "earth_heir",
+      "description": "A shield absorbing a charged hit refunds 2 focus once per charge. Poison and reflections do not trigger it.",
+      "refund": 2
+    },
+    "fire": {
+      "name": "Fire Accord",
+      "trial": "fire_heir",
+      "description": "Sword against a burning target adds one indirect 35% attack hit per cast. Never refreshes burn or triggers itself.",
+      "damage": 0.35
+    },
+    "water": {
+      "name": "Water Accord",
+      "trial": "water_heir",
+      "description": "A real River cleanse grants a 10% HP shield for 3s. No poison removed means no shield.",
+      "shield": 0.1,
+      "duration": 3
+    }
+  },
+  "preparations": {
+    "storm": {
+      "name": "Grounding Tea",
+      "herbs": 4,
+      "stones": 8,
+      "description": "Charged damage −15% for this route. Consumed once on Depart.",
+      "burst_reduction": 0.15
+    },
+    "tomb": {
+      "name": "Cinnabar Incense",
+      "herbs": 3,
+      "stones": 10,
+      "description": "Attack +10% for this route. Consumed once on Depart.",
+      "attack_multiplier": 1.1
+    },
+    "endurance": {
+      "name": "Lotus Broth",
+      "herbs": 6,
+      "stones": 6,
+      "description": "Healing +15%; endurance crossings restore 25% HP instead of 15%. Consumed once on Depart.",
+      "healing_bonus": 0.15
+    }
+  },
+  "realm_requirements": {
+    "qi": 90000,
+    "routes": [
+      "storm_ascent",
+      "thunder_crown",
+      "silent_gate",
+      "buried_sun",
+      "mirror_shore",
+      "moonless_crossing"
+    ],
+    "inheritances": 3,
+    "regional_coverage": [
+      "Thunder Peak",
+      "Ancient Tomb",
+      "Moon Lake"
+    ],
+    "tribulation": "soul",
+    "capability": "Fourth ordered technique slot; reversible laws remain free."
+  }
+}

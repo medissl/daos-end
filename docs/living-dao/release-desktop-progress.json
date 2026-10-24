@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "name": "PASS continuous discovery, requested camp, one-sheet free equip, continue",
+      "key": "1280x800",
+      "taps": 8,
+      "scrolls": 0,
+      "seconds": 90.089,
+      "fixture": "Foundation entry; actual ordinary-speed first two encounters",
+      "loads_ms": [
+        12968,
+        5006
+      ],
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 1365.8999999985099,
+        "samples": 729,
+        "runningSamples": 729,
+        "audibleSamples": 715,
+        "peak": 0.063323974609375,
+        "rmsPeak": 0.023155160555082342,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 4241,
+        "p50": 16.69999999999709,
+        "p95": 16.799999999999272,
+        "p99": 17.10000000000582,
+        "worst": 133.1999999999971,
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "jsHeap": 41946506
+      }
+    },
+    {
+      "name": "PASS",
+      "phase": "release-desktop"
+    }
+  ],
+  "errors": []
+}

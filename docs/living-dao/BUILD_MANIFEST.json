@@ -1,0 +1,104 @@
+{
+  "candidate": "Living Dao / Nascent Soul",
+  "files": {
+    "index.apple-touch-icon.png": {
+      "bytes": 23823,
+      "sha256": "e98db1b1766d05c02d566ecb0b4287711c0ef98eebe9deea1c196659ac2017dd"
+    },
+    "index.apple-touch-icon.png.import": {
+      "bytes": 980,
+      "sha256": "b0881c31dabc0a0fe9789334d07569839699c937817163c75194c3e327ebeb5c"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    "index.html": {
+      "bytes": 3666,
+      "sha256": "bdc495bb77bd8ae317d2c658d8eb9bbdbe8a5041158e070efd4427e5ffc6e39d"
+    },
+    "index.icon.png": {
+      "bytes": 40843,
+      "sha256": "5f0dcc74deb6ec0cb76985ed4cfa9ce050dac32c2fb9b1fb8b7bf1089b3affee"
+    },
+    "index.icon.png.import": {
+      "bytes": 945,
+      "sha256": "2d461c613fd11964abb7dbd9edacb4add81cd7acc39e12e0445ddc3099da210d"
+    },
+    "index.js": {
+      "bytes": 279815,
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+    },
+    "index.pck": {
+      "bytes": 16909852,
+      "sha256": "08506316fac9bf7cf4214dc1e0048cc3ac0674e278d8a527740cb727b9c71af9"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    "index.png.import": {
+      "bytes": 929,
+      "sha256": "e32a84291389c65bee2c54c8f28bfb2a30718f8c59510512def699d80618ff7d"
+    },
+    "index.wasm": {
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    }
+  },
+  "source_sha256": {
+    "scripts/chapter_data.gd": "0a999b9645f38d14b481b26de9e11255ad6fc199ec6ef0202a61d1651cc6a1e9",
+    "scripts/chapter_data.gd.uid": "dec91b6b848d0cb20fb4abb3789debf08fc96330dc98fd5ffaa3a58a97b55fac",
+    "scripts/chapter_ui.gd": "12b4ed9a51805319f8ec5054841297a7e84f536a4c291eb60b1d24c9a1286452",
+    "scripts/chapter_ui.gd.uid": "ad3669d2834f7d232364c7f0a1ce140017b6d731563ab3f5cdbbb77d03124a14",
+    "scripts/chapter_validation.gd": "f24e69d94b4b873640dd43822b0340ab5baf02e0962ca998d2627393d7b038e0",
+    "scripts/chapter_validation.gd.uid": "984c890ea4247252189446e54cdab2ece10e64b2467c9ab0b4a4fc52e89c32c5",
+    "scripts/combat.gd": "19effa25ef4fcd80196c97b873eaa74e7460e48a55f9e74e566d8ecc6e5d40cc",
+    "scripts/combat.gd.uid": "8698380dc9f131f2e2c701a59bdeb336e6b1a8e07798bbcfb9052e6adc0fa50d",
+    "scripts/cultivation_session.gd": "598f18c0d4890e34bf7b71ae65aedddb3f91bac4be26057de7c8de30df523a84",
+    "scripts/cultivation_session.gd.uid": "24b8e65955b9fdee4e6ad78e2091a0ddbe3fa06c687301aa55f1c0cfe4deccdd",
+    "scripts/cultivation_state.gd": "9966a7c85a080a9b264a509c99487eca162f689b68213e85cce9f566c77c1023",
+    "scripts/cultivation_state.gd.uid": "cbfb011e0b786c7a574dbd27207eb2c43d6b777d47519b4076355ae65363b6f8",
+    "scripts/cultivator_visual.gd": "80e34f4267c3649a72b7e19f34789ac83a0f7ad52dbde3d4d14745b82caa1004",
+    "scripts/cultivator_visual.gd.uid": "efeb6566e6bcf12c4beaf62f7f03f40b70d4bf08d83d5bc2a3c4794e744eb39d",
+    "scripts/forest_route.gd": "3efa517fdf78c5840edb8ec82340dde8ab89122775dcb4a85a81a388e24c67e7",
+    "scripts/forest_route.gd.uid": "4373b99950e051f43f07e9c9aa4808d6894513efa1ac78d1269001f37d0f7042",
+    "scripts/game_audio.gd": "7a45c8bb1c66082db233bfa9ccc7a56f0370f442925b1208e39ad826f90f43e6",
+    "scripts/game_audio.gd.uid": "277dc70145c2b9fb53e2f1e4397d9be90316f3da0e9a28a5e64555375ac73c8b",
+    "scripts/landscape.gd": "fb76c47d58b682135df28168417f8ec60c6212a4b0bc92238f0e2c67bfba61ee",
+    "scripts/landscape.gd.uid": "5d407a0b2f2bb5d34d484dde03ceebcd1c292c99d537390e1076dfe957628a15",
+    "scripts/legacy/cultivation_state.gd": "b82a240aef43e6450100d06c665f895c1502eeeb6cd11c6afdc132a6ea428b88",
+    "scripts/legacy/cultivation_state.gd.uid": "f365b90d0408dc44d2e4bae450fbd22c479128d6285161ff167c181ecae1ef1b",
+    "scripts/legacy/progression.gd": "8e6d89b107c6c9382315286b7a775d896e5e41aeadc9b09e310f2d4b963188fb",
+    "scripts/legacy/progression.gd.uid": "9c280e1e4bcf0512de0a5787f03d8925ff50417bbd96bc59bfe04d432901df3e",
+    "scripts/legacy/save_store.gd": "0e04d20e7804bdc417e608a50499c79b3223a5b6d0a6460039644b721c1e22be",
+    "scripts/legacy/save_store.gd.uid": "e30e4753e928268706c448eb32c0fe0f6d3d0b9368cda17a4d4d4bacd4aacd6e",
+    "scripts/legacy_v3/chapter_data.gd": "caec326e8581660e9a0f33b0dfa8a9666f73db591870c90faecfb0536b0fc7b3",
+    "scripts/legacy_v3/chapter_data.gd.uid": "2eb12dd9e1909ad179e5595279dc494c26c740663f359257b5a39d6dae08425b",
+    "scripts/legacy_v3/chapter_validation.gd": "057a4c2fa0830c99d457d1c0e089cee481cd502917346969709a0585e37ead7e",
+    "scripts/legacy_v3/chapter_validation.gd.uid": "96172f0e2d59c3fb1f96c101eed529b0b33fb2c4a809f17946bf4b7104c512c7",
+    "scripts/legacy_v3/combat.gd": "5858acdbb88003013b5cacb73e22e63478f9c09c7a60f435623c4435ae7e6d56",
+    "scripts/legacy_v3/combat.gd.uid": "e670b2c8668564997645e314b19e505868adc33e0eaf3ce3a4c81b0a395fcf3a",
+    "scripts/legacy_v3/cultivation_state.gd": "73558f4426566c8162c224e0aafa33cd43a904116d4e37661032583862488d7d",
+    "scripts/legacy_v3/cultivation_state.gd.uid": "3b17749ebb64848c67f914d436c417d8512a339c64b798dcbcb1e6af9d541eac",
+    "scripts/legacy_v3/progression.gd": "3a129ab07faa42187802b9fb53e928d8271cb7e8539cdef8a491e9e9e0e89ecf",
+    "scripts/legacy_v3/progression.gd.uid": "387c82693b639db7bb188fac02ce768759ab5f469a546bbea2e75267f0da775f",
+    "scripts/legacy_v3/save_store.gd": "a64db738c1487400b745abb5f1821e2a9a30be49d518699b59189f36a544f19b",
+    "scripts/legacy_v3/save_store.gd.uid": "73fb8d132d15984f7f89d5f3a3a581d3741d735c10fab72a31437cc7f3e7acfd",
+    "scripts/main.gd": "d3be146b841708cd01b5f2271c645cc15b779054949512ab457c5469c8fb0d07",
+    "scripts/main.gd.uid": "ec0d3b94673abf3c190d3b370b772d4fb09652927f01e17c1405404313437bd6",
+    "scripts/progression.gd": "3136f27cbfd06a565a0865accd80e136ff15cef34b2ca72677471a9587b7639a",
+    "scripts/progression.gd.uid": "9cc1dd35a9a404e9ac5696431b30bba299654cdd9c7323fa3891947291b3732c",
+    "scripts/save_store.gd": "263d03663b3384a3b768501a8b55853514da86993c24de951d0ac59d42da9622",
+    "scripts/save_store.gd.uid": "e03d6ee5fdd478fba0ebc715f826674f096d946661c3b55ea992d96a125b055d",
+    "scripts/ui_materials.gd": "f74e8f6aa05e7ce0e70baf99ed0b2fcbe427b0b83e91e1a23804b8b74ec5a15f",
+    "scripts/ui_materials.gd.uid": "e171bbf378bf63f6bb28a67485a064a42930307c5633f26a231ae624481d0c8b",
+    "data/jade_road.json": "4a19c4631322c8e5e2143f800193941fa8202ad19f9723fa7423f29dc948a4d8",
+    "data/legacy_jade_road_v3.json": "88bd36c204f4380c9225f93bdd794f1c1f0e269608f8bcd83404a7e9985b98e7",
+    "data/living_dao.json": "a98adc1c8d3d34d776f939bca371a6f1c24b39e0f7991c64cd9ad9f973622d93"
+  }
+}

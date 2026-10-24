@@ -1,0 +1,42 @@
+{
+	"device": "Windows Intel Iris Xe, Godot 4.7.2 OpenGL compatibility native; not an Android measurement",
+	"initial_nodes": 713,
+	"initial_objects": 3823.0,
+	"initial_texture_bytes": 67903461,
+	"node_growth": 20,
+	"note": "Includes first creation of final preparation/detail contents; retained UI is bounded. Browser rAF and JS heap are reported separately.",
+	"samples": [
+		{
+			"journeys": 1,
+			"nodes": 733,
+			"objects": 3915.0,
+			"orphans": 0.0,
+			"texture_bytes": 68165601
+		},
+		{
+			"journeys": 10,
+			"nodes": 733,
+			"objects": 3915.0,
+			"orphans": 0.0,
+			"texture_bytes": 68165601
+		},
+		{
+			"journeys": 30,
+			"nodes": 733,
+			"objects": 3915.0,
+			"orphans": 0.0,
+			"texture_bytes": 68165601
+		},
+		{
+			"journeys": 60,
+			"nodes": 733,
+			"objects": 3915.0,
+			"orphans": 0.0,
+			"texture_bytes": 68165601
+		}
+	],
+	"viewport": [
+		390,
+		844
+	]
+}

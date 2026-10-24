@@ -1,0 +1,9 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+.verification/
+builds/
+*.log
+*.keystore
+*.jks
+release-signing.json

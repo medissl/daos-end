@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#eee8d8">
+  <title>$GODOT_PROJECT_NAME · Play</title>
+  <style>
+    html,body{margin:0;padding:0;width:100%;height:100%;background:#eee8d8;color:#243e39;overflow:hidden;touch-action:none}
+    #canvas{display:block;outline:none}#status{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column;padding:24px;background:#eee8d8;box-sizing:border-box;text-align:center}
+    #status h1{font:500 56px/1 Georgia,serif;letter-spacing:-2px;margin:0 0 24px}#status p{font:15px/1.6 system-ui,sans-serif;max-width:360px;margin:8px 0}#status-progress{width:240px;max-width:80%;height:4px;accent-color:#25463f;margin:16px 0}#status-progress::-webkit-progress-bar{background:#cbd1bf}#status-progress::-webkit-progress-value{background:#25463f}
+    #status-notice{white-space:pre-line;font:15px/1.6 system-ui,sans-serif;max-width:430px;color:#783d32}#recovery{display:none;gap:16px;align-items:center;margin:24px 0}#recovery a,#recovery button{font:15px system-ui,sans-serif;color:#243e39;background:transparent;padding:12px 18px;border:1px solid #758575;cursor:pointer}#recovery :focus-visible{outline:3px solid #8c4435;outline-offset:3px}noscript{position:fixed;inset:0;display:grid;place-content:center;background:#eee8d8;font:16px system-ui,sans-serif}
+  </style>
+  $GODOT_HEAD_INCLUDE
+</head>
+<body>
+  <canvas id="canvas" aria-label="Dao’s End game">A WebGL-capable browser is required.</canvas>
+  <div id="status" role="status" aria-live="polite">
+    <h1>Dao’s End</h1><p id="status-label">Gathering the first breath…</p>
+    <progress id="status-progress" aria-label="Game download"></progress>
+    <p id="download-note">The first visit downloads the game. Your progress stays on this device.</p>
+    <div id="status-notice"></div>
+    <div id="recovery"><button type="button" onclick="location.reload()">Try again</button><a href="../">Return</a></div>
+  </div>
+  <noscript>Enable JavaScript to play Dao’s End.</noscript>
+  <script src="$GODOT_URL"></script>
+  <script>
+    const GODOT_CONFIG=$GODOT_CONFIG;
+    const GODOT_THREADS_ENABLED=$GODOT_THREADS_ENABLED;
+    const engine=new Engine(GODOT_CONFIG);
+    const overlay=document.getElementById('status'),progress=document.getElementById('status-progress'),label=document.getElementById('status-label');
+    function failure(error){console.error(error);label.textContent='The game could not start.';document.getElementById('status-notice').textContent=error instanceof Error?error.message:String(error);progress.hidden=true;document.getElementById('download-note').hidden=true;document.getElementById('recovery').style.display='flex'}
+    const missing=Engine.getMissingFeatures({threads:GODOT_THREADS_ENABLED});
+    if(missing.length){failure('This browser is missing: '+missing.join(', ')+'. Try a current WebGL 2 browser.')}else{
+      engine.startGame({onProgress:(loaded,total)=>{if(total>0){progress.max=total;progress.value=loaded;label.textContent=loaded<total?'Opening the path · '+Math.round(loaded/total*100)+'%':'Preparing your sanctuary…'}}}).then(()=>overlay.remove()).catch(failure);
+    }
+  </script>
+</body>
+</html>

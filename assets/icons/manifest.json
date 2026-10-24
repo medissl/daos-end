@@ -1,0 +1,170 @@
+[
+  {
+    "id": "azure",
+    "runtime": "assets/icons/azure.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/azure.png",
+    "generator_source": "exec-494aaa0c-fcba-46e2-b415-049fb841d36a.png",
+    "intended_logical_pixels": [
+      26,
+      80
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Azure Cloud selectable method and route commitment"
+  },
+  {
+    "id": "qi",
+    "runtime": "assets/icons/qi.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/qi.png",
+    "generator_source": "exec-22571039-a2dc-4b18-834c-7dc213ee0028.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Qi resource and prices"
+  },
+  {
+    "id": "herbs",
+    "runtime": "assets/icons/herbs.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/herbs.png",
+    "generator_source": "exec-803f0ce5-1498-4b32-958a-83536b580c70.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Spirit Herbs resource, rewards and mastery costs"
+  },
+  {
+    "id": "breathing",
+    "runtime": "assets/icons/breathing.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/breathing.png",
+    "generator_source": "exec-dcca7eec-4069-4b44-9bbb-0936f2b7c52f.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Deep Breathing practice"
+  },
+  {
+    "id": "meridian",
+    "runtime": "assets/icons/meridian.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/meridian.png",
+    "generator_source": "exec-e3edfdf7-ab1e-4da2-a2f1-ba7b70db7b89.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Meridian Circulation practice"
+  },
+  {
+    "id": "mind",
+    "runtime": "assets/icons/mind.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/mind.png",
+    "generator_source": "exec-4cbbba7e-f780-4920-8bed-6f46d5b79217.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Settle the Mind practice"
+  },
+  {
+    "id": "iron",
+    "runtime": "assets/icons/iron.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/iron.png",
+    "generator_source": "exec-1a8ddc1a-7f2e-49d7-a013-e1a000fcb9f0.png",
+    "intended_logical_pixels": [
+      32,
+      80
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Iron Body selectable method and route commitment"
+  },
+  {
+    "id": "forest",
+    "runtime": "assets/icons/forest.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/forest.png",
+    "generator_source": "exec-2b304f2b-2536-40e1-a5de-11084240437b.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Bamboo Forest destination emblem"
+  },
+  {
+    "id": "preparation",
+    "runtime": "assets/icons/preparation.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/preparation.png",
+    "generator_source": "exec-ecf7933d-2dc4-4ffb-acd4-af30867fee38.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Foundation preparation action and persistent seal"
+  },
+  {
+    "id": "mortal",
+    "runtime": "assets/icons/mortal.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/mortal.png",
+    "generator_source": "exec-d8d92208-1dcb-4df2-b3c4-ed494ab2cd50.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Mortal realm badge"
+  },
+  {
+    "id": "refining",
+    "runtime": "assets/icons/refining.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/refining.png",
+    "generator_source": "exec-5309e971-67ac-4ff2-943b-492db7b4c180.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Qi Refining realm badge"
+  },
+  {
+    "id": "foundation",
+    "runtime": "assets/icons/foundation.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/foundation.png",
+    "generator_source": "exec-caeca0e5-a4ce-49d1-bd1a-10b85b2db09f.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Foundation realm badge"
+  },
+  {
+    "id": "advancement",
+    "runtime": "assets/icons/advancement.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/advancement.png",
+    "generator_source": "exec-76e45bba-9940-40ef-8ae5-4974e6791867.png",
+    "intended_logical_pixels": [
+      22,
+      42
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Manual realm advancement"
+  },
+  {
+    "id": "route",
+    "runtime": "assets/art/bamboo-route.png",
+    "source": "docs/art-direction/milestone-2/sources/icons/route.png",
+    "generator_source": "exec-c3d6080d-f721-4041-b1dc-e5314f7ebf82.png",
+    "intended_logical_pixels": [
+      132,
+      414
+    ],
+    "production": "Built-in imagegen; shared Azure Cloud line-and-wash reference; original alpha preserved; technical padding/downscale only",
+    "purpose": "Bamboo Forest illustrated timer route"
+  }
+]

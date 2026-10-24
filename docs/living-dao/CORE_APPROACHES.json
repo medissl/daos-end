@@ -1,0 +1,238 @@
+{
+	"[\"river\", \"flame\"]": [
+		{
+			"charm": "bone_ring",
+			"hp": 29.085,
+			"method": "azure",
+			"robe": "stoneweave_robe",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 61.90875,
+			"method": "azure",
+			"robe": "stoneweave_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "bone_ring",
+			"hp": 22.605,
+			"method": "azure",
+			"robe": "river_silk",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 54.34875,
+			"method": "azure",
+			"robe": "river_silk",
+			"seconds": 64.0
+		},
+		{
+			"charm": "bone_ring",
+			"hp": 23.91,
+			"method": "azure",
+			"robe": "traveller_robe",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 56.205,
+			"method": "azure",
+			"robe": "traveller_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "bone_ring",
+			"hp": 73.59,
+			"method": "iron",
+			"robe": "stoneweave_robe",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 116.67,
+			"method": "iron",
+			"robe": "stoneweave_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "jade_pendant",
+			"hp": 43.92,
+			"method": "iron",
+			"robe": "stoneweave_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "bone_ring",
+			"hp": 67.11,
+			"method": "iron",
+			"robe": "river_silk",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 109.1925,
+			"method": "iron",
+			"robe": "river_silk",
+			"seconds": 64.0
+		},
+		{
+			"charm": "jade_pendant",
+			"hp": 36.36,
+			"method": "iron",
+			"robe": "river_silk",
+			"seconds": 64.0
+		},
+		{
+			"charm": "bone_ring",
+			"hp": 74.22,
+			"method": "iron",
+			"robe": "traveller_robe",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 117.63,
+			"method": "iron",
+			"robe": "traveller_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "jade_pendant",
+			"hp": 38.07,
+			"method": "iron",
+			"robe": "traveller_robe",
+			"seconds": 64.0
+		}
+	],
+	"[\"sword\", \"flame\"]": [],
+	"[\"ward\", \"flame\"]": [
+		{
+			"charm": "bone_ring",
+			"hp": 51.24,
+			"method": "azure",
+			"robe": "stoneweave_robe",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 63.24,
+			"method": "azure",
+			"robe": "stoneweave_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "jade_pendant",
+			"hp": 56.34,
+			"method": "azure",
+			"robe": "stoneweave_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "bone_ring",
+			"hp": 58.8,
+			"method": "azure",
+			"robe": "river_silk",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 71.7,
+			"method": "azure",
+			"robe": "river_silk",
+			"seconds": 64.0
+		},
+		{
+			"charm": "jade_pendant",
+			"hp": 64.8,
+			"method": "azure",
+			"robe": "river_silk",
+			"seconds": 64.0
+		},
+		{
+			"charm": "bone_ring",
+			"hp": 52.5,
+			"method": "azure",
+			"robe": "traveller_robe",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 64.5,
+			"method": "azure",
+			"robe": "traveller_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "jade_pendant",
+			"hp": 57.6,
+			"method": "azure",
+			"robe": "traveller_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "bone_ring",
+			"hp": 71.94,
+			"method": "iron",
+			"robe": "stoneweave_robe",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 85.74,
+			"method": "iron",
+			"robe": "stoneweave_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "jade_pendant",
+			"hp": 77.94,
+			"method": "iron",
+			"robe": "stoneweave_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "bone_ring",
+			"hp": 79.5,
+			"method": "iron",
+			"robe": "river_silk",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 94.2,
+			"method": "iron",
+			"robe": "river_silk",
+			"seconds": 64.0
+		},
+		{
+			"charm": "jade_pendant",
+			"hp": 86.4,
+			"method": "iron",
+			"robe": "river_silk",
+			"seconds": 64.0
+		},
+		{
+			"charm": "bone_ring",
+			"hp": 75.9,
+			"method": "iron",
+			"robe": "traveller_robe",
+			"seconds": 58.0
+		},
+		{
+			"charm": "mystic_gourd",
+			"hp": 89.7,
+			"method": "iron",
+			"robe": "traveller_robe",
+			"seconds": 64.0
+		},
+		{
+			"charm": "jade_pendant",
+			"hp": 81.9,
+			"method": "iron",
+			"robe": "traveller_robe",
+			"seconds": 64.0
+		}
+	]
+}

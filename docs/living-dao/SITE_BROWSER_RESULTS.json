@@ -1,0 +1,31 @@
+{
+  "url": "http://127.0.0.1:6794/",
+  "results": [
+    {
+      "name": "PASS landing artwork, layout, keyboard and release links",
+      "key": "320x640",
+      "dpr": 3
+    },
+    {
+      "name": "PASS landing Play opens real Godot game",
+      "key": "390x844"
+    },
+    {
+      "name": "PASS landing artwork, layout, keyboard and release links",
+      "key": "390x844",
+      "dpr": 3
+    },
+    {
+      "name": "PASS landing artwork, layout, keyboard and release links",
+      "key": "430x932",
+      "dpr": 3
+    },
+    {
+      "name": "PASS landing artwork, layout, keyboard and release links",
+      "key": "1280x800",
+      "dpr": 1
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

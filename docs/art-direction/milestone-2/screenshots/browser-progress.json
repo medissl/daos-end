@@ -1,0 +1,216 @@
+{
+  "events": [
+    {
+      "name": "v1 Qi migration",
+      "seconds": 18.847,
+      "herbs": 0,
+      "levels": {
+        "breathing": 4,
+        "meridian": 2,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "none",
+      "qi": 10041.3849975109,
+      "rate": 15,
+      "realm": "Qi Refining",
+      "repeat": true,
+      "saved_at": 1792748192.251,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "commitment survives queued input",
+      "seconds": 28.884,
+      "herbs": 0,
+      "levels": {
+        "breathing": 4,
+        "meridian": 2,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "azure",
+      "prepared": false,
+      "primary": "iron",
+      "qi": 10192.6599975106,
+      "rate": 15,
+      "realm": "Qi Refining",
+      "repeat": false,
+      "saved_at": 1792748202.336,
+      "trip": {
+        "active": true,
+        "azure": 0,
+        "elapsed": 4.321,
+        "iron": 2,
+        "primary": "iron"
+      },
+      "version": 2
+    },
+    {
+      "name": "real short absence reload preserves stop and queue",
+      "seconds": 44.952,
+      "herbs": 0,
+      "levels": {
+        "breathing": 4,
+        "meridian": 2,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "azure",
+      "prepared": false,
+      "primary": "iron",
+      "qi": 10426.6449975392,
+      "rate": 15,
+      "realm": "Qi Refining",
+      "repeat": false,
+      "saved_at": 1792748217.94,
+      "trip": {
+        "active": true,
+        "azure": 0,
+        "elapsed": 119,
+        "iron": 2,
+        "primary": "iron"
+      },
+      "version": 2
+    },
+    {
+      "name": "seeded exact boundary finishes once",
+      "seconds": 49.575,
+      "qi": 10474.2789986378,
+      "herbs": 6,
+      "realm": "Qi Refining",
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "seeded stop boundary",
+      "seconds": 49.579,
+      "herbs": 6,
+      "levels": {
+        "breathing": 4,
+        "meridian": 2,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "azure",
+      "qi": 10474.2789986378,
+      "rate": 18,
+      "realm": "Qi Refining",
+      "repeat": false,
+      "saved_at": 1792748222.943,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "Foundation resonance seeded flow",
+      "seconds": 61.18,
+      "herbs": 8,
+      "levels": {
+        "breathing": 4,
+        "meridian": 2,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 1,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "azure",
+      "qi": 2186.58050017176,
+      "rate": 39,
+      "realm": "Foundation Establishment",
+      "repeat": false,
+      "saved_at": 1792748234.638,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "small-screen touch method selection",
+      "seconds": 86.485,
+      "herbs": 8,
+      "levels": {
+        "breathing": 4,
+        "meridian": 2,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 1,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "iron",
+      "qi": 3172.89050017176,
+      "rate": 34.5,
+      "realm": "Foundation Establishment",
+      "repeat": false,
+      "saved_at": 1792748259.928,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "presentation frame sample",
+      "seconds": 94.202,
+      "samples": 181,
+      "medianMs": 16.69999999999709,
+      "p95Ms": 16.80000000000291,
+      "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    },
+    {
+      "name": "PASS",
+      "seconds": 94.204,
+      "mode": "isolated seeded interaction and render checks"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "golden-sanctuary",
+    "approximate_video_seconds": 9.487
+  },
+  {
+    "name": "storm-preview",
+    "approximate_video_seconds": 10.395
+  },
+  {
+    "name": "preparations",
+    "approximate_video_seconds": 11.233
+  },
+  {
+    "name": "storm-battle",
+    "approximate_video_seconds": 14.792
+  },
+  {
+    "name": "thunder-discovery-onward",
+    "approximate_video_seconds": 24.377
+  },
+  {
+    "name": "camp",
+    "approximate_video_seconds": 36.159
+  },
+  {
+    "name": "manage-thunder",
+    "approximate_video_seconds": 37.868
+  },
+  {
+    "name": "continue",
+    "approximate_video_seconds": 40.69
+  },
+  {
+    "name": "tomb-preview",
+    "approximate_video_seconds": 46.349
+  },
+  {
+    "name": "tomb-battle",
+    "approximate_video_seconds": 50.793
+  },
+  {
+    "name": "tomb-discovery",
+    "approximate_video_seconds": 63.993
+  },
+  {
+    "name": "moon-preview",
+    "approximate_video_seconds": 69.773
+  },
+  {
+    "name": "moon-battle",
+    "approximate_video_seconds": 74.209
+  },
+  {
+    "name": "moon-discovery",
+    "approximate_video_seconds": 85.371
+  },
+  {
+    "name": "tribulation-gate",
+    "approximate_video_seconds": 91.575
+  },
+  {
+    "name": "tribulation",
+    "approximate_video_seconds": 92.703
+  },
+  {
+    "name": "tribulation-won",
+    "approximate_video_seconds": 144.251
+  },
+  {
+    "name": "soul-goal",
+    "approximate_video_seconds": 145.515
+  },
+  {
+    "name": "breakthrough",
+    "approximate_video_seconds": 147.621
+  },
+  {
+    "name": "nascent-persistent",
+    "approximate_video_seconds": 150.107
+  },
+  {
+    "name": "menu-open",
+    "approximate_video_seconds": 151.03
+  },
+  {
+    "name": "menu-muted",
+    "approximate_video_seconds": 151.329
+  },
+  {
+    "name": "saved-settings",
+    "approximate_video_seconds": 153.362
+  },
+  {
+    "name": "nascent-reduced-motion",
+    "approximate_video_seconds": 154.048
+  },
+  {
+    "name": "nascent-reload",
+    "approximate_video_seconds": 158.267
+  },
+  {
+    "name": "rapid-navigation",
+    "approximate_video_seconds": 159.54
+  },
+  {
+    "name": "resize-during-transition",
+    "approximate_video_seconds": 160.238
+  }
+]

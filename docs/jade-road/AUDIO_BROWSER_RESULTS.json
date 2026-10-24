@@ -1,0 +1,150 @@
+{
+  "events": [
+    {
+      "name": "PCM before-gesture",
+      "seconds": 18.966,
+      "rms": 0,
+      "peak": 0,
+      "samples": 94208,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "Audio settings after slider inputs",
+      "seconds": 28.886,
+      "preferences": "[audio]\n\nMaster=0.67\nMusic=0.0\nAmbience=0.0\nSFX=0.0\nmute=false\n"
+    },
+    {
+      "name": "PCM all-buses-zero",
+      "seconds": 30.551,
+      "rms": 0,
+      "peak": 0,
+      "samples": 98304,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM music-only",
+      "seconds": 36.281,
+      "rms": 0.0377004204046594,
+      "peak": 0.16864013671875,
+      "samples": 286720,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM ambience-only",
+      "seconds": 45.312,
+      "rms": 0.017965175598405,
+      "peak": 0.105865478515625,
+      "samples": 286720,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM master-mute",
+      "seconds": 49.397,
+      "rms": 0,
+      "peak": 0,
+      "samples": 98304,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM master-zero",
+      "seconds": 62.302,
+      "rms": 0,
+      "peak": 0,
+      "samples": 98304,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM default-mix",
+      "seconds": 70.501,
+      "rms": 0.020622555600694318,
+      "peak": 0.102325439453125,
+      "samples": 290816,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM focus-return",
+      "seconds": 81.212,
+      "rms": 0.020714050053141673,
+      "peak": 0.097076416015625,
+      "samples": 196608,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PASS audio signal/routing",
+      "seconds": 81.266,
+      "listening": "Unperformed: tool cannot accept audio input; PCM evidence does not establish aesthetic quality",
+      "preferences": "[audio]\n\nMaster=0.67\nMusic=0.34\nAmbience=0.28\nSFX=0.57\nmute=true\n"
+    },
+    {
+      "name": "PASS",
+      "seconds": 81.28,
+      "mode": "browser audio signal/routing"
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

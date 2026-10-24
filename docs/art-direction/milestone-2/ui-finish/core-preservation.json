@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-23",
+  "sources": [
+    {
+      "path": "scripts/progression.gd",
+      "before_sha256": "8e6d89b107c6c9382315286b7a775d896e5e41aeadc9b09e310f2d4b963188fb",
+      "after_sha256": "8e6d89b107c6c9382315286b7a775d896e5e41aeadc9b09e310f2d4b963188fb",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/cultivation_state.gd",
+      "before_sha256": "af92f5ecf62367ed152c2199fa054b8c458360f0fd77befab388289ad534a223",
+      "after_sha256": "af92f5ecf62367ed152c2199fa054b8c458360f0fd77befab388289ad534a223",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/cultivation_session.gd",
+      "before_sha256": "4d90f11a5152c8bb10303d6194866d76fc5b4d3fdd34554ca97ea593d8ec96c6",
+      "after_sha256": "4d90f11a5152c8bb10303d6194866d76fc5b4d3fdd34554ca97ea593d8ec96c6",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/save_store.gd",
+      "before_sha256": "2d28fb6d88d0755a4b4bd6ef0f9f7b8213fd4f1e035c202254707aac35efcba8",
+      "after_sha256": "2d28fb6d88d0755a4b4bd6ef0f9f7b8213fd4f1e035c202254707aac35efcba8",
+      "unchanged": true
+    }
+  ]
+}

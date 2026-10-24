@@ -1,0 +1,38 @@
+[
+  {
+    "file": "rubberduck-everyday.html",
+    "url": "https://opengameart.org/content/100-cc0-sfx",
+    "sha256": "61332f2b3d2577b093bdccb5ca480195d79d158623ff2428785f02d808dd885e",
+    "bytes": 39912
+  },
+  {
+    "file": "rubberduck-foley2.html",
+    "url": "https://opengameart.org/content/100-cc0-sfx-2",
+    "sha256": "804d729af4e4c9d5d41392435e61d2e5fa636db935f7d579337af29d497a9d37",
+    "bytes": 36583
+  },
+  {
+    "file": "rubberduck-everyday.zip",
+    "url": "https://opengameart.org/sites/default/files/100-CC0-SFX_0.zip",
+    "sha256": "a5c135878c132f1c59cca54e60061c296cd0ac27ad031ca2c41b8cd5cab3c706",
+    "bytes": 2921904
+  },
+  {
+    "file": "rubberduck-foley2.zip",
+    "url": "https://opengameart.org/sites/default/files/sfx_100_v2.zip",
+    "sha256": "0fc61b4494e2e893c0c015ced4877b3f689c7d84a48cb61daecd7ddb52db797b",
+    "bytes": 2367871
+  },
+  {
+    "file": "biteme-chinese-music.html",
+    "url": "https://bitemegames.itch.io/chinese-game-music",
+    "sha256": "d99693227d4999e78e763ec96cbf1b9a9d95b92b002c015c4143655c97ee8c1a",
+    "bytes": 26076
+  },
+  {
+    "file": "biteme-download-page.html",
+    "url": "https://bitemegames.itch.io/chinese-game-music/purchase",
+    "sha256": "5d84dd15ca3b7f90ed6a720eac197b55df74812c364dfa8f38b7f8a4b4874cb7",
+    "bytes": 10733
+  }
+]

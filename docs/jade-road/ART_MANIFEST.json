@@ -1,0 +1,667 @@
+[
+  {
+    "id": "methods-scroll",
+    "kind": "skin",
+    "source": "docs\\jade-road\\sources\\methods-scroll-refined.png",
+    "prompt": "Redesign this isolated game scroll skin to be much simpler and usable with live text. Plain nearly rectangular warm ivory unrolled paper, very quiet broad watercolor wash. Almost straight thin blue-charcoal outer contours. Only two slim plain horizontal bamboo rods at top and bottom, each rod about 3% of the total image height. Tiny undecorated jade end caps, no more than 3% of total width each. Remove all large carved knobs, all curling/wavy/zigzag side edges, folds, stains and cloud motifs. Reserve 90% of the interior as clean blank reading area. No writing, symbols, letters, shadows or extra objects. Transparent exterior. Front-facing flat square UI master; consistent original Chinese ink-and-mineral-wash palette. Clean restrained brushwork without generated grain. It must remain quiet when displayed at 272px wide.",
+    "reference": "assets/icons/azure.png",
+    "edit_from": "C:\\Users\\media\\.codex\\generated_images\\01a166a4-d9b6-7163-90e7-6846bada3edd\\exec-49e2acbf-05a5-4843-8b33-f1468df1ea9d.png",
+    "initial_prompt": "",
+    "generator_file": "exec-73e02ae2-3794-4c35-ac4c-a61b72dd0a0e.png",
+    "runtime": "assets\\ui\\methods-scroll.png",
+    "dimensions": [
+      384,
+      353
+    ],
+    "crop_bounds": [
+      22,
+      47,
+      1253,
+      1180
+    ],
+    "source_sha256": "2d80a5ca133377453b1f88d4d902b5f67da5806c62a32dd519aa64f253cb2e54",
+    "runtime_sha256": "0e27401bf2edb5c1a45ed0e8fbd29282fa61de0e47ee910f7431dbc0e749b69c",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "action-plaque",
+    "kind": "skin",
+    "source": "docs\\jade-road\\sources\\action-plaque-refined.png",
+    "prompt": "Simplify this action plaque into a restrained dark jade brush-painted horizontal panel. Remove every curled end, flourish, pale wave motif, pearl and ornate bevel. Keep a dark near-uniform jade center suitable for ivory text, two sparse irregular ink edge strokes, subtle broad wash variation, transparent exterior. Front-facing, roughly 5:1 width/height. No letters, no symbols. It must be quiet at 48px high.",
+    "reference": "assets/icons/azure.png",
+    "edit_from": "C:\\Users\\media\\.codex\\generated_images\\01a166a4-d9b6-7163-90e7-6846bada3edd\\exec-df7fc9fe-6e61-464e-8133-3e3d22e81b9a.png",
+    "initial_prompt": "",
+    "generator_file": "exec-675cbe73-647d-43d6-a493-354e75059232.png",
+    "runtime": "assets\\ui\\action-plaque.png",
+    "dimensions": [
+      512,
+      90
+    ],
+    "crop_bounds": [
+      42,
+      172,
+      2135,
+      539
+    ],
+    "source_sha256": "86ae1821577f8820ce320937ce258f78edac498af8b09365328b929b405f29e9",
+    "runtime_sha256": "caa577f7510240b5357c25809bd7065527879784cdefee543d3bdfd0ebac9c55",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "progress-track",
+    "kind": "skin",
+    "source": "docs\\jade-road\\sources\\progress-track.png",
+    "prompt": "",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-d2f8c0ed-4998-4c62-92ad-47fcfc5c7b70.png",
+    "runtime": "assets\\ui\\progress-track.png",
+    "dimensions": [
+      768,
+      47
+    ],
+    "crop_bounds": [
+      29,
+      327,
+      2041,
+      449
+    ],
+    "source_sha256": "21ed1346f1e3bb1e0db09d5e6fb9e0230e7ec962870b2b8aaff6bea3a8a7fcf4",
+    "runtime_sha256": "aeb7a297e600de8ff194af146019b60205377e0e87b326853d57297f31ce275b",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "reward-tray",
+    "kind": "skin",
+    "source": "docs\\jade-road\\sources\\reward-tray-refined.png",
+    "prompt": "Simplify this reward tray skin. Remove every curl, side wing, cloud motif and pointed ornament. Preserve a quiet warm ivory paper interior and a thin irregular muted jade ink rim. Front-facing horizontal rectangular tray, softly rounded natural brush corners, roughly 3:1. Broad very subtle wash only, no synthetic grain or repetitive flecks. Reserve nearly the whole center as blank clean paper for separate native game labels and reward icons. Transparent exterior. No letters or symbols.",
+    "reference": "assets/icons/azure.png",
+    "edit_from": "C:\\Users\\media\\.codex\\generated_images\\01a166a4-d9b6-7163-90e7-6846bada3edd\\exec-6756e20d-d958-4200-8864-1a464f3e5601.png",
+    "initial_prompt": "",
+    "generator_file": "exec-7c7f41f0-0cfc-4984-9c1f-61d650cb9e81.png",
+    "runtime": "assets\\ui\\reward-tray.png",
+    "dimensions": [
+      512,
+      120
+    ],
+    "crop_bounds": [
+      23,
+      110,
+      2151,
+      608
+    ],
+    "source_sha256": "ea040feb633280eef070f9f3930942be734fa712d9cfe4a4d7b22644b0df0f29",
+    "runtime_sha256": "d9a41df4d42f5fb7af72a3037fe30b8b0165d210bbedbd6ff4a875d2c19e1fa1",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "sword",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\sword.png",
+    "prompt": "Use case: stylized-concept. Generate a NEW isolated game icon for Dao's End: one flowing sword combat emblem: a single graceful Chinese straight sword with a plain jade grip, silver-blue blade and ONE broad curved ivory-and-blue wash following the blade; unmistakable blade silhouette, no hand. Match attached existing mineral line-and-wash reference for medium and line quality only; do not copy its cloud subject. Bold readable silhouette at 32 pixels. Blue-grey contour, deliberate broad washes, muted jade/ivory with cinnabar only for flame. Single centered subject with generous transparent padding, true transparent background. No text, fake writing, frame, vignette, ornament, grain, synthetic speckles, plastic shading, tiny detail or full interface. 1024 square.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-ef4b8406-e15b-458e-8916-052f6c5a4bfb.png",
+    "runtime": "assets\\chapter\\sword.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      67,
+      64,
+      1218,
+      1215
+    ],
+    "source_sha256": "0a5da6ca97eb5b0fb5583ee997b49fa16e6e0c4392ae746adcd6b8551331353e",
+    "runtime_sha256": "07813280efa1f3a33632dc06d1813eaeb657af857e7ed38ae79091650d919724",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "flame",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\flame.png",
+    "prompt": "Use case: stylized-concept. Generate a NEW isolated game icon for Dao's End: one crimson flame combat emblem: three deliberate red-cinnabar flame tongues rising from one charcoal base, warm ivory inner flame, compact asymmetric silhouette; no glow or particles. Match attached existing mineral line-and-wash reference for medium and line quality only; do not copy its cloud subject. Bold readable silhouette at 32 pixels. Blue-grey contour, deliberate broad washes, muted jade/ivory with cinnabar only for flame. Single centered subject with generous transparent padding, true transparent background. No text, fake writing, frame, vignette, ornament, grain, synthetic speckles, plastic shading, tiny detail or full interface. 1024 square.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-943c63f8-5349-4bf4-bd81-7d13a67cc7b2.png",
+    "runtime": "assets\\chapter\\flame.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      227,
+      73,
+      1097,
+      1194
+    ],
+    "source_sha256": "321defc8956fb89ea8260ff7c7be54f2e19844e11ebdbc22cc46c84042ad4db1",
+    "runtime_sha256": "991829974b846ef2f574a15959c8de4d3ffc24f554ec6f0e6e1092eef21d42cc",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "ward",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\ward.png",
+    "prompt": "Use case: stylized-concept. Generate a NEW isolated game icon for Dao's End: one jade ward combat emblem: an oval jade shield-like stone plate with a modest dark contour, one simple blank ivory central facet and two broad protective ink arcs; no lettering, no rune. Match attached existing mineral line-and-wash reference for medium and line quality only; do not copy its cloud subject. Bold readable silhouette at 32 pixels. Blue-grey contour, deliberate broad washes, muted jade/ivory with cinnabar only for flame. Single centered subject with generous transparent padding, true transparent background. No text, fake writing, frame, vignette, ornament, grain, synthetic speckles, plastic shading, tiny detail or full interface. 1024 square.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-a3330929-38b2-43de-ba36-d2e37a7c7cff.png",
+    "runtime": "assets\\chapter\\ward.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      156,
+      86,
+      1134,
+      1182
+    ],
+    "source_sha256": "f2992faea5bd2228c646ed802e691c08667d5a4a309bba321892eb577b01b56d",
+    "runtime_sha256": "880791e046fd9dec4385e153eb6489d18cdd5fc7c293d2473cebfcffdd46204a",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "river",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\river.png",
+    "prompt": "Use case: stylized-concept. Generate a NEW isolated game icon for Dao's End: one river confluence combat emblem: two broad blue-green streams flowing into a single pool with one simple white crest and a small dark pebble; unmistakable water silhouette, no cloud curls. Match attached existing mineral line-and-wash reference for medium and line quality only; do not copy its cloud subject. Bold readable silhouette at 32 pixels. Blue-grey contour, deliberate broad washes, muted jade/ivory with cinnabar only for flame. Single centered subject with generous transparent padding, true transparent background. No text, fake writing, frame, vignette, ornament, grain, synthetic speckles, plastic shading, tiny detail or full interface. 1024 square.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-69c60bca-48ed-4516-843d-a83a5c0f79d3.png",
+    "runtime": "assets\\chapter\\river.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      62,
+      231,
+      1221,
+      1073
+    ],
+    "source_sha256": "20c9214d7832eb5ee230f29640a3909c82e41698978c808a49db6caa7731bf89",
+    "runtime_sha256": "90c1a14f3b76bb69f1925a501f6750ac747ecb7cd920b228f7a330a35091319a",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "pine_sword",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\pine_sword-refined.png",
+    "prompt": "Keep the same isolated sword icon and transparent background, but make the blade clearly plain warm pale pine wood, with a broad honey-tan wash and one sparse lengthwise ink grain stroke. Remove metallic shine/steel blue from the blade. Retain simple jade wrapping on grip and blue-charcoal contour. No new ornament.",
+    "edit_from": "C:\\Users\\media\\.codex\\generated_images\\01a166a4-d9b6-7163-90e7-6846bada3edd\\exec-8f8a5b25-efa4-48bd-9940-e14b07be563a.png",
+    "initial_prompt": "Use case: stylized-concept. One isolated original equipment icon for Dao's End: one simple Chinese straight sword made of pale pinewood, muted green cloth-wrapped grip, plain wooden guard; no aura or trailing wash, strong long blade silhouette. Match attached reference's purposeful charcoal-blue contour and broad mineral washes, not its cloud subject. Straight-on catalog object, diagonal silhouette centered in square with transparent padding. Readable at32/48pixels. Restrained ivory, blue-grey, mineral jade, one cinnabar accent only if specified. No letters, numbers, frame, grain, tiny filigree, glossy plastic, people, hands, landscape, sparkles or decorative swirls. True transparent background.",
+    "generator_file": "exec-f6e3634c-d619-40da-9048-3d8e7bef01c9.png",
+    "runtime": "assets\\chapter\\pine_sword.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      74,
+      81,
+      1198,
+      1202
+    ],
+    "source_sha256": "e848b9d6d6e8cf9b5c2317e5e5695f35a9a353c375d815e447b11ef671a53d4c",
+    "runtime_sha256": "1a3f3c7cc481361ef482c494f1a851e4e3840072d0a8d9cfc49200fe992c4bd8",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "cinnabar_blade",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\cinnabar_blade.png",
+    "prompt": "Use case: stylized-concept. One isolated original equipment icon for Dao's End: one short practical single-edged cinnabar-red steel blade with plain charcoal hilt and a small ivory binding; no magical flame or aura. Match attached reference's purposeful charcoal-blue contour and broad mineral washes, not its cloud subject. Straight-on catalog object, diagonal silhouette centered in square with transparent padding. Readable at32/48pixels. Restrained ivory, blue-grey, mineral jade, one cinnabar accent only if specified. No letters, numbers, frame, grain, tiny filigree, glossy plastic, people, hands, landscape, sparkles or decorative swirls. True transparent background.",
+    "generator_file": "exec-5a496234-c335-4c1a-8d48-56c8d407d804.png",
+    "runtime": "assets\\chapter\\cinnabar_blade.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      158,
+      112,
+      1173,
+      1159
+    ],
+    "source_sha256": "d8f673109e3836c02a33ac480daa6ca9517d592baff2c0fbc7a8d1ce853335b3",
+    "runtime_sha256": "9ff890cbe767d549b888d6b0bf3020042013b1d4510ed6bc355c77f71bb9dae8",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "river_needle",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\river_needle.png",
+    "prompt": "Use case: stylized-concept. One isolated original equipment icon for Dao's End: one slender dark-blue steel river needle/estoc, thin long triangular point and a plain small jade ring grip, clearly distinct from the broad wooden sword; no clouds or aura. Match attached reference's purposeful charcoal-blue contour and broad mineral washes, not its cloud subject. Straight-on catalog object, diagonal silhouette centered in square with transparent padding. Readable at32/48pixels. Restrained ivory, blue-grey, mineral jade, one cinnabar accent only if specified. No letters, numbers, frame, grain, tiny filigree, glossy plastic, people, hands, landscape, sparkles or decorative swirls. True transparent background.",
+    "generator_file": "exec-cf5b439f-d7cf-429c-ae77-58c8a8e4c9f1.png",
+    "runtime": "assets\\chapter\\river_needle.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      102,
+      46,
+      1212,
+      1180
+    ],
+    "source_sha256": "2eefc1c85012bd4970cbe4e67ad3140cd80991b7f43d9df9aaedb32313db1795",
+    "runtime_sha256": "fb02aab5f62b0f6d74f2efd4a142df1fcc9cf244850b11d1ce96b3ae9d3f10ac",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "traveller_robe",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\traveller_robe.png",
+    "prompt": "Use case: stylized-concept. Generate ONE isolated original cultivation equipment icon for Dao's End: one neatly folded simple ivory traveller's robe with a muted jade collar and plain charcoal cloth belt, broad soft folds, no body or person. Match the attached reference's blue-charcoal deliberate contour and broad restrained mineral washes, use reference only for style, not cloud shape. Simple strong cloth-object silhouette that reads at32/48pixels. True transparent background and generous padding. No lettering, frame, grain, tassel clutter, fantasy filigree, glossy airbrush, synthetic speckles, anatomical parts, cloud swirls or environment.",
+    "generator_file": "exec-28751a59-e86b-40c7-ba1a-f9a33f97a3ef.png",
+    "runtime": "assets\\chapter\\traveller_robe.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      77,
+      164,
+      1203,
+      1145
+    ],
+    "source_sha256": "137557da364077bf55c7e24ed2fd420741b416ae5985ec7637ac1688379c85e2",
+    "runtime_sha256": "b3a963d7644050b5edf2acdac8a0512196b4d47de462f701f94ea45713d211d7",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "stoneweave_robe",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\stoneweave_robe.png",
+    "prompt": "Use case: stylized-concept. Generate ONE isolated original cultivation equipment icon for Dao's End: one neatly folded heavy slate-grey stoneweave robe, clearly thick fabric with three broad layered folds and a plain jade binding, not armor plates, no person. Match the attached reference's blue-charcoal deliberate contour and broad restrained mineral washes, use reference only for style, not cloud shape. Simple strong cloth-object silhouette that reads at32/48pixels. True transparent background and generous padding. No lettering, frame, grain, tassel clutter, fantasy filigree, glossy airbrush, synthetic speckles, anatomical parts, cloud swirls or environment.",
+    "generator_file": "exec-13b10945-f083-4cd7-8b66-2f99f191da41.png",
+    "runtime": "assets\\chapter\\stoneweave_robe.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      60,
+      191,
+      1230,
+      1172
+    ],
+    "source_sha256": "75e12652256f1b95020d25fae3d3432f94df5007ca9f37c58f4b91fcf8560df3",
+    "runtime_sha256": "017719b1fb9bd23355b4dfef7fa72b6573a0730ff5bbc71443adc5d220ab96cb",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "river_silk",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\river_silk.png",
+    "prompt": "Use case: stylized-concept. Generate ONE isolated original cultivation equipment icon for Dao's End: one neatly folded thin blue-green silk robe, two smooth long flowing folds and an ivory tie, quiet material difference from heavy grey cloth, no body or person. Match the attached reference's blue-charcoal deliberate contour and broad restrained mineral washes, use reference only for style, not cloud shape. Simple strong cloth-object silhouette that reads at32/48pixels. True transparent background and generous padding. No lettering, frame, grain, tassel clutter, fantasy filigree, glossy airbrush, synthetic speckles, anatomical parts, cloud swirls or environment.",
+    "generator_file": "exec-9744859d-f11a-49e2-85e5-0197338032fd.png",
+    "runtime": "assets\\chapter\\river_silk.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      39,
+      167,
+      1223,
+      1149
+    ],
+    "source_sha256": "9ce7c5f5e7ceae209868df0f405564afeeedf810a4543df64c5c3609b56eeb50",
+    "runtime_sha256": "94d781de16e79bcfd37a86d63be371f0989b9fd9a0597f176ae239fedccc6980",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "jade_pendant",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\jade_pendant.png",
+    "prompt": "Use case: stylized-concept. ONE isolated original equipment icon for Dao's End: one simple round mineral-jade pendant with a single central hole and short dark cord, plain cloudy pale-green stone, no carved characters, no gold. Match attached reference for medium only: deliberate blue-charcoal contour, broad restrained mineral washes, ivory and muted jade. No cloud subject or decorative swirls. Readable distinct material silhouette at32/48pixels, generous transparent padding, true transparent background. No letters, frame, grains, synthetic noise, glossy airbrush, anatomical parts, sparkles or landscape.",
+    "generator_file": "exec-f3beedf6-ea69-4d18-a638-d4bc5b6cb573.png",
+    "runtime": "assets\\chapter\\jade_pendant.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      282,
+      91,
+      1016,
+      1134
+    ],
+    "source_sha256": "bbb90b4e3025c00c762b059e89910dfb30c39ca3e3b09b2f9194156aed7e1607",
+    "runtime_sha256": "9a1b4a2ce56673092e6a8c8c52f2d44498a623a6e48565fd184f99bc20b02419",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "mystic_gourd",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\mystic_gourd.png",
+    "prompt": "Use case: stylized-concept. ONE isolated original equipment icon for Dao's End: one small dried ivory-tan double-lobed gourd flask with a plain dark jade cord and simple wooden stopper; clear bottle silhouette, no symbols or decoration. Match attached reference for medium only: deliberate blue-charcoal contour, broad restrained mineral washes, ivory and muted jade. No cloud subject or decorative swirls. Readable distinct material silhouette at32/48pixels, generous transparent padding, true transparent background. No letters, frame, grains, synthetic noise, glossy airbrush, anatomical parts, sparkles or landscape.",
+    "generator_file": "exec-d4cd35e0-3d24-4b9a-9acb-dfe3a0aab56d.png",
+    "runtime": "assets\\chapter\\mystic_gourd.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      233,
+      127,
+      1101,
+      1128
+    ],
+    "source_sha256": "a0c9fb4a2861a49486c2bd1e6e055e14bf67fedb60b3c2fdf675179295e9438b",
+    "runtime_sha256": "24a49d36440e1741e5b75798103ea5cb9291457a8e8f91137eae5f3ef1095388",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "bone_ring",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\bone_ring.png",
+    "prompt": "Use case: stylized-concept. ONE isolated original equipment icon for Dao's End: one thick ivory beast-bone finger ring with a single natural notch and charcoal shadow inside its hole, one small jade cord binding; no skull, teeth, horns, text or metal filigree. Match attached reference for medium only: deliberate blue-charcoal contour, broad restrained mineral washes, ivory and muted jade. No cloud subject or decorative swirls. Readable distinct material silhouette at32/48pixels, generous transparent padding, true transparent background. No letters, frame, grains, synthetic noise, glossy airbrush, anatomical parts, sparkles or landscape.",
+    "generator_file": "exec-6f54df6f-8743-43fc-ac3c-c832bc0be564.png",
+    "runtime": "assets\\chapter\\bone_ring.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      209,
+      197,
+      1048,
+      1040
+    ],
+    "source_sha256": "ae682b3d77963c2368fb68266278a1e945a032e79bb22ac01600a0d335acbaef",
+    "runtime_sha256": "738992a3097de4d75d29bba3fc4b5c146e38c0a0aa62fadaace4ef158d15e3fa",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "spirit_stone",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\spirit_stone.png",
+    "prompt": "One isolated illustrated cultivation game icon matching the attached Azure Cloud icon's Chinese ink and mineral wash style. A single irregular translucent pale jade spirit stone crystal, three broad planes, blue charcoal contour, one quiet pale highlight. Clearly mineral, no ornament. Deliberate economical contours, broad washes, restrained handmade brush edges, legible at 32 pixels. Transparent background. No grain overlay, glitter, lettering, frame, drop shadow or wispy AI flourishes.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-713f321d-5811-4750-8877-f42ab3320215.png",
+    "runtime": "assets\\chapter\\spirit_stone.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      262,
+      119,
+      1008,
+      1135
+    ],
+    "source_sha256": "0d3d1221860569be4568f5d929bcef4a5ad449ecc832f0be0d1f66ac6dae0770",
+    "runtime_sha256": "1b868408ee943d1b1a17e5d04cea9407550fc4d149990c100f6119d196f6129e",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "core_seal",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\core_seal.png",
+    "prompt": "One isolated illustrated cultivation game icon matching the attached Azure Cloud icon's Chinese ink and mineral wash style. A round worn cinnabar stone seal medallion with one simple recessed circle and a centered solid jade dot. No writing or invented glyphs. Recognizable circular achievement seal. Deliberate economical contours, broad washes, restrained handmade brush edges, legible at 32 pixels. Transparent background. No grain overlay, glitter, lettering, frame, drop shadow or wispy AI flourishes.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-609bd22c-d296-4a99-83cb-2f9602343e24.png",
+    "runtime": "assets\\chapter\\core_seal.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      155,
+      151,
+      1101,
+      1085
+    ],
+    "source_sha256": "5d2ffb0ba83db4e01ed21ebe947031d81dff907798dc640bb2d3d44fbbf6634a",
+    "runtime_sha256": "49a42ed21362b7552ec38827098f48824f1ee0de95fd3d760acf3e3f6b1ff58a",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "golden_core",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\golden_core.png",
+    "prompt": "One isolated illustrated cultivation game icon matching the attached Azure Cloud icon's Chinese ink and mineral wash style. A luminous small amber golden orb nested inside two broad dark jade brush arcs, simple ascension emblem, warm quiet center, no rays or filigree. Deliberate economical contours, broad washes, restrained handmade brush edges, legible at 32 pixels. Transparent background. No grain overlay, glitter, lettering, frame, drop shadow or wispy AI flourishes.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-51661b16-3b56-4fdf-843a-511bc09fdcff.png",
+    "runtime": "assets\\chapter\\golden_core.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      179,
+      103,
+      1105,
+      1169
+    ],
+    "source_sha256": "f77ff4f02df03ae053c870c29271719a1b902570bfd452bd7fc40e8f0ec0275e",
+    "runtime_sha256": "962f20fc1ef88dedf9b4b04a2e6960f6f65211bf96748f7eb81f618fcdaffa95",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "sentinel",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\sentinel-refined.png",
+    "prompt": "Remove every decorative spiral/cloud mark from the stone guardian's armor plates. Keep the silhouette, anatomically coherent two arms, two legs and head exactly as is. Replace plate interiors with quiet broad slate washes and sparse straight weathering strokes. Keep the jade seams but no new decoration. Transparent background.",
+    "reference": "assets/icons/azure.png",
+    "edit_from": "C:\\Users\\media\\.codex\\generated_images\\01a166a4-d9b6-7163-90e7-6846bada3edd\\exec-2307493d-33c4-4b77-81ce-027e49fdc899.png",
+    "initial_prompt": "Original cultivation game enemy illustration in the attached Chinese ink-and-mineral-wash reference style. An ancient squat stone gate guardian, a single coherent sculpted humanoid made of four broad slate plates. Two arms ending simple mitten stone hands, two sturdy legs, one blunt head and quiet eye slits. Three-quarter profile facing LEFT. Worn mineral jade seams, natural broad planar ink washes. No weapon, crown or filigree. Full isolated creature fully within frame, transparent background, clear readable silhouette at 120px. Deliberate economical brushwork, no photographic noise or synthetic texture. No interface, lettering, frame, fog halo or ornamental effects.",
+    "generator_file": "exec-b7e0aeb1-6f30-4bee-be0e-a11aaa42efad.png",
+    "runtime": "assets\\chapter\\sentinel.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      38,
+      77,
+      1220,
+      1191
+    ],
+    "source_sha256": "938d0469aabfea0df958c53be40d78f124aadfc40b4fba7dfb15fd10ba9c7832",
+    "runtime_sha256": "f20895f818da34274402b1c8f66119793d497f77897c164687e68e22d156df65",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "crane",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\crane.png",
+    "prompt": "Original cultivation game enemy illustration in the attached Chinese ink-and-mineral-wash reference style. One elegant white spirit crane facing LEFT, folded wings, one long sinuous neck, red crown, exactly two slender dark legs with anatomically plausible feet. Broad quiet ivory and blue-gray feather masses, sparse black contour strokes, no individual repeated feather pattern, no accessories. Full isolated creature fully within frame, transparent background, clear readable silhouette at 120px. Deliberate economical brushwork, no photographic noise or synthetic texture. No interface, lettering, frame, fog halo or ornamental effects.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-b4003118-3706-4b61-b655-9883f68159ce.png",
+    "runtime": "assets\\chapter\\crane.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      194,
+      33,
+      1167,
+      1233
+    ],
+    "source_sha256": "34974022e5cf93a16cb4e01b5dd719a23fec952d701db99edfea34e039662e5b",
+    "runtime_sha256": "cb5d9a74206fe31ad7eda939ae8866c5928281f05292f0653ce1c92247104394",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "serpent",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\serpent.png",
+    "prompt": "Original cultivation game enemy illustration in the attached Chinese ink-and-mineral-wash reference style. One coiled reed-green river spirit serpent facing LEFT, one sinuous continuous body, single head and simple narrow tail, no legs or arms. Broad jade and ivory ink washes, three reed leaves near coil. No dragon horns, jewelry, teeth forest or repeating scales. Full isolated creature fully within frame, transparent background, clear readable silhouette at 120px. Deliberate economical brushwork, no photographic noise or synthetic texture. No interface, lettering, frame, fog halo or ornamental effects.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-ce26cbfa-f1cd-4034-b186-d7f796537fdc.png",
+    "runtime": "assets\\chapter\\serpent.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      98,
+      71,
+      1157,
+      1201
+    ],
+    "source_sha256": "ed040294519f1b86296943afd12213bfe8684e3fa39595781dcc1717e388b3d7",
+    "runtime_sha256": "337f19aa8ddc9c3ca2c2cff5fd272c41812fa468a56a8ca65f68cf261c926a35",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "progress-fill",
+    "kind": "skin",
+    "source": "docs\\jade-road\\sources\\progress-fill.png",
+    "prompt": "One isolated original Chinese ink-and-mineral-wash cultivation game interface asset, matching the attached palette. One very thin horizontal jade-green ink-wash brush strip, width to height about 18 to 1, nearly straight parallel sides, quiet solid middle, slightly softened painted tips. This is an actual UI meter fill to be stretched horizontally. No frame or ornament. Transparent background, no text, no letters, no photographic grain or complex flourishes.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-a757a791-4044-459f-aca7-cff89d0c62f4.png",
+    "runtime": "assets\\ui\\progress-fill.png",
+    "dimensions": [
+      512,
+      28
+    ],
+    "crop_bounds": [
+      36,
+      436,
+      1647,
+      523
+    ],
+    "source_sha256": "642ef5c54de51b94de5f8b354c90ee0bbd43635feba39226142ca8fd18f2a3ee",
+    "runtime_sha256": "aa1e9a37c727b1fee8eceb3b2fb541fddd8827c19b264400a7334799dc2e877f",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "mastery-socket",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\mastery-socket.png",
+    "prompt": "One isolated original Chinese ink-and-mineral-wash cultivation game interface asset, matching the attached palette. One small empty circular stone socket, dark jade thin ink outline around an empty quiet ivory center, front view and perfectly clear at 12px. A simple mastery marker, no highlights, chips, shadows or decoration. Transparent background, no text, no letters, no photographic grain or complex flourishes.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-3e7c128e-c007-4dc5-b5d3-63b7ba8d4643.png",
+    "runtime": "assets\\chapter\\mastery-socket.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      387,
+      381,
+      867,
+      856
+    ],
+    "source_sha256": "1e9780363d45e38c2d849623763ebd40eb112a92437ba0ee81b1d8885bb681ad",
+    "runtime_sha256": "48735a35497e7084f66608c50f03a0931ed836457b9ed8e4b033e2d66afef584",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "selection-seal",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\selection-seal.png",
+    "prompt": "One isolated original Chinese ink-and-mineral-wash cultivation game interface asset, matching the attached palette. One small irregular cinnabar brush circle with a short clean diagonal ink stroke completing a simple checkmark. Clear selected-state seal at 20px. Economical single stroke look, no writing or other decoration. Transparent background, no text, no letters, no photographic grain or complex flourishes.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-096b2fe8-3f1b-4375-a768-9323d0644fc9.png",
+    "runtime": "assets\\chapter\\selection-seal.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      313,
+      324,
+      988,
+      930
+    ],
+    "source_sha256": "f87010b6d646997e5ec3a90c329cc0508ee56c164a6ff9f20e80f16b9a8c0a50",
+    "runtime_sha256": "028f93e8b685eda15ac887c3a28d295e8d76cbe92d4887ba2b4ec6af217fb10e",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "misty_mountain",
+    "kind": "scene",
+    "source": "docs\\jade-road\\sources\\misty_mountain.png",
+    "prompt": "A quiet horizontal landscape of ancient misty mountain stone steps and a broken cloud bridge, broad pale blue-gray layered peaks, weathered terrace foreground at bottom, one small pine at left edge, spacious warm ivory mist center. Original Chinese ink-and-mineral-wash game scenery, no people, creatures, UI, writing, buildings or ornamental clouds. Contour drawing and broad restrained washes, no photographic grain. Landscape ratio 3:2.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-e3da040f-9a66-42ce-90bd-c09889d8291f.png",
+    "runtime": "assets\\chapter\\misty_mountain.png",
+    "dimensions": [
+      1200,
+      800
+    ],
+    "crop_bounds": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "source_sha256": "d935c055abaf8a9da5e02d0850892201b260d466e05b99320be5e6544ed49cbd",
+    "runtime_sha256": "73a5216b0643b561ed97de409f488c31409735b970f704e94d4517ca8939181e",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "spirit_river",
+    "kind": "scene",
+    "source": "docs\\jade-road\\sources\\spirit_river.png",
+    "prompt": "A quiet horizontal landscape of shallow jade river, a broken stone ford and sparse reeds, lotus leaves limited to lower right corner, broad pale blue-gray mountains beyond, weathered flat bank foreground at bottom. Spacious warm ivory air in center. Original Chinese ink-and-mineral-wash game scenery, no people, creatures, UI, writing or ornamental clouds. Deliberate contour drawing and broad restrained washes, no photographic grain. Landscape ratio 3:2.",
+    "reference": "assets/icons/azure.png",
+    "generator_file": "exec-5e32f4d9-ae84-4865-9a2c-b1fff9d62409.png",
+    "runtime": "assets\\chapter\\spirit_river.png",
+    "dimensions": [
+      1200,
+      800
+    ],
+    "crop_bounds": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "source_sha256": "cae527b6c4513f7058011879cccd5aab39e91a52604f59f5f07106c9927d3325",
+    "runtime_sha256": "658d8f09622f60624e0bb6bb32edb18bf4e57793f6b306d47f4f1dd726af8689",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "tortoise",
+    "kind": "icon",
+    "source": "docs\\jade-road\\sources\\tortoise-refined.png",
+    "prompt": "Remove all decorative cloud curls and smoke from the tortoise, including the plume rising above its back. Preserve the coherent head, shell, exactly four short legs and little tail. Make the five broad shell plates plain slate-jade washes with a few economical contours, no spiral marks. Keep its left-facing pose, transparent background and same ink palette. Simple grounded spirit animal.",
+    "reference": "assets/icons/azure.png",
+    "edit_from": "C:\\Users\\media\\.codex\\generated_images\\01a166a4-d9b6-7163-90e7-6846bada3edd\\exec-c88fc134-aa7b-4fcd-8343-09846938958e.png",
+    "initial_prompt": "One ancient spirit tortoise facing LEFT, anatomically coherent shell with only five broad slate-jade plates, exactly four short legs and one head, simple beak, tiny tail. Low grounded silhouette, transparent background, whole creature within frame. Chinese ink-and-mineral-wash cultivation game illustration matching reference. Broad restrained wash masses, economical deliberate contours, no jewelry, horns, mushrooms, filigree, writing, glow or photographic noise.",
+    "generator_file": "exec-a2e04df0-7efc-42ad-bd70-82a6fd516df5.png",
+    "runtime": "assets\\chapter\\tortoise.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "crop_bounds": [
+      26,
+      376,
+      1242,
+      1056
+    ],
+    "source_sha256": "401cf144fd2524b73ed73b7a67b26fcae56bb736caf1e8d6f5dc796c01572f1b",
+    "runtime_sha256": "1abaac3ebefcbdaf34be57eab07781d5f99f12e5c67e935e56b7a9b9f9b4345e",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  },
+  {
+    "id": "main-panel",
+    "kind": "skin",
+    "source": "docs\\jade-road\\sources\\main-panel-refined.png",
+    "reference": "assets/ui/methods-scroll.png",
+    "edit_from": "C:/Users/media/.codex/generated_images/01a166a4-d9b6-7163-90e7-6846bada3edd/exec-66545080-3aac-493d-9ced-78a66d7dc57a.png",
+    "initial_prompt": "",
+    "prompt": "Clean this isolated paper game-panel frame. Preserve its full complete four-sided outline, quiet ivory center, simple near-square corners and transparent safety gutter. Remove ALL bright cyan, turquoise, electric blue, green, magenta, white fringe artifacts, speckles and stray pixels from the outside of the frame. Remove the tiny colored debris above the top edge. The entire outline must be only a subdued neutral blue-charcoal ink contour, smooth clean antialiased alpha edge with no colored halo. No glow, no stippling, no grain, no neon, no sharp digital noise. Quiet broad ivory wash remains almost uniform. All four borders and corners stay inside canvas with transparent gutter. Front-facing flat nine-slice asset, absolutely no text, UI controls, rods, ornaments or additional content.",
+    "generator_file": "exec-726c221b-3769-46fe-ac12-1fdcd45dc00a.png",
+    "runtime": "assets\\ui\\main-panel.png",
+    "dimensions": [
+      512,
+      511
+    ],
+    "crop_bounds": [
+      44,
+      45,
+      1211,
+      1209
+    ],
+    "source_sha256": "0abbe69fce3c0bf267e55fdaaac19d45e6f3fabf3724d095a85026553a11a88b",
+    "runtime_sha256": "d22b5ca31c3a4f9a041cf9331ed82b72c77765bf107266c74924ad03ee730f93",
+    "alpha": "Preserved from built-in imagegen; crop bounds only, no alpha repaint"
+  }
+]

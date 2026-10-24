@@ -1,0 +1,107 @@
+{
+  "events": [
+    {
+      "name": "capture 320x640 mortal",
+      "seconds": 21.551
+    },
+    {
+      "name": "capture 320x640 methods",
+      "seconds": 24.654
+    },
+    {
+      "name": "capture 320x640 queued",
+      "seconds": 27.68
+    },
+    {
+      "name": "capture 320x640 forest",
+      "seconds": 32.76
+    },
+    {
+      "name": "capture 320x640 prepared",
+      "seconds": 35.809
+    },
+    {
+      "name": "capture 320x640 foundation",
+      "seconds": 39.155
+    },
+    {
+      "name": "capture 320x640 details",
+      "seconds": 44.256
+    },
+    {
+      "name": "capture 320x640 rewards",
+      "seconds": 52.655
+    },
+    {
+      "name": "capture 430x932 mortal",
+      "seconds": 56.983
+    },
+    {
+      "name": "capture 430x932 methods",
+      "seconds": 60.94
+    },
+    {
+      "name": "capture 430x932 queued",
+      "seconds": 64.699
+    },
+    {
+      "name": "capture 430x932 forest",
+      "seconds": 70.507
+    },
+    {
+      "name": "capture 430x932 prepared",
+      "seconds": 74.259
+    },
+    {
+      "name": "capture 430x932 foundation",
+      "seconds": 78.923
+    },
+    {
+      "name": "capture 430x932 details",
+      "seconds": 84.945
+    },
+    {
+      "name": "capture 430x932 rewards",
+      "seconds": 93.201
+    },
+    {
+      "name": "capture 1280x800 mortal",
+      "seconds": 97.258
+    },
+    {
+      "name": "capture 1280x800 methods",
+      "seconds": 101.126
+    },
+    {
+      "name": "capture 1280x800 queued",
+      "seconds": 104.609
+    },
+    {
+      "name": "capture 1280x800 forest",
+      "seconds": 110.2
+    },
+    {
+      "name": "capture 1280x800 prepared",
+      "seconds": 113.749
+    },
+    {
+      "name": "capture 1280x800 foundation",
+      "seconds": 117.227
+    },
+    {
+      "name": "capture 1280x800 details",
+      "seconds": 122.415
+    },
+    {
+      "name": "capture 1280x800 rewards",
+      "seconds": 128.869
+    },
+    {
+      "name": "PASS",
+      "seconds": 128.871,
+      "mode": "matched isolated browser render fixtures"
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

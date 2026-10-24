@@ -1,0 +1,77 @@
+[
+  {
+    "file": "scripts/chapter_data.gd",
+    "added": 12,
+    "removed": 4
+  },
+  {
+    "file": "scripts/chapter_ui.gd",
+    "added": 325,
+    "removed": 99
+  },
+  {
+    "file": "scripts/chapter_validation.gd",
+    "added": 67,
+    "removed": 12
+  },
+  {
+    "file": "scripts/combat.gd",
+    "added": 73,
+    "removed": 3
+  },
+  {
+    "file": "scripts/cultivation_state.gd",
+    "added": 142,
+    "removed": 32
+  },
+  {
+    "file": "scripts/landscape.gd",
+    "added": 99,
+    "removed": 8
+  },
+  {
+    "file": "scripts/main.gd",
+    "added": 43,
+    "removed": 30
+  },
+  {
+    "file": "scripts/progression.gd",
+    "added": 3,
+    "removed": 2
+  },
+  {
+    "file": "scripts/save_store.gd",
+    "added": 39,
+    "removed": 27
+  },
+  {
+    "file": "scripts/legacy/save_store.gd",
+    "added": 4,
+    "removed": 2
+  },
+  {
+    "file": "data/jade_road.json",
+    "added": 24,
+    "removed": 18
+  },
+  {
+    "file": "assets/audio/manifest.json",
+    "added": 0,
+    "removed": 0
+  },
+  {
+    "file": "assets/icons/manifest.json",
+    "added": 0,
+    "removed": 0
+  },
+  {
+    "file": "project.godot",
+    "added": 5,
+    "removed": 1
+  },
+  {
+    "file": "export_presets.cfg",
+    "added": 8,
+    "removed": 4
+  }
+]

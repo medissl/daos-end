@@ -1,0 +1,642 @@
+[
+  {
+    "path": "screenshots/before/320x640-cultivate.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "d8e6e79c452cba2869b82fe1bc608346933134641f9694b6a459f531d3874bf0",
+    "phase": "before",
+    "view": "cultivate"
+  },
+  {
+    "path": "screenshots/after/320x640-cultivate.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "046a49f35d4f7c1d71cfa00bec944e9c17c3cba0ca9c7016917e98e21c7163b9",
+    "phase": "after",
+    "view": "cultivate"
+  },
+  {
+    "path": "screenshots/before/320x640-preview.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "12843e16ae8ff665c9a54f93667167f2a26488fb5a02fb3b37cd8ac8c0731414",
+    "phase": "before",
+    "view": "preview"
+  },
+  {
+    "path": "screenshots/after/320x640-preview.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "62ce2747b2def9b0c1d1794a712a3a5421237d90e6dc98787fd9b5f4410311b1",
+    "phase": "after",
+    "view": "preview"
+  },
+  {
+    "path": "screenshots/before/320x640-battle.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "eb0ea2eb035881cad04426218d11c3657bfb4489b17d0112dcf26028ee4e1fe2",
+    "phase": "before",
+    "view": "battle"
+  },
+  {
+    "path": "screenshots/after/320x640-battle.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "ec6b6a3e32112b3967948a1a8361f01611855236b01b54b57e718cd38e8a1445",
+    "phase": "after",
+    "view": "battle"
+  },
+  {
+    "path": "screenshots/before/320x640-camp.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "6122d9a33a09d414c5ff7e4e7702a482ce80f9fea7ed7f9e7a03cb9848fe1c6f",
+    "phase": "before",
+    "view": "camp"
+  },
+  {
+    "path": "screenshots/after/320x640-camp.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "b7499f809b6b72889dc0ad84421db5b54c547cf05f584e2b177404cc52b19006",
+    "phase": "after",
+    "view": "camp"
+  },
+  {
+    "path": "screenshots/before/320x640-techniques.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "4c4c597ec2b657e2357f149399ac20ca4cb017b6e35b17dbb208efb2b2613e40",
+    "phase": "before",
+    "view": "techniques"
+  },
+  {
+    "path": "screenshots/after/320x640-techniques.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "647689d8eabc8d8b39dff14f32fdee31dda5c53286c0528e5e5e81cfaa46eaa7",
+    "phase": "after",
+    "view": "techniques"
+  },
+  {
+    "path": "screenshots/before/320x640-equipment-empty.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "ffa09402281442b00526fbf0e3c1263f2135a9410336f4979667b9c93aeb8f43",
+    "phase": "before",
+    "view": "equipment-empty"
+  },
+  {
+    "path": "screenshots/after/320x640-equipment-empty.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "39d0dc67cbcd60db52782ea2d155bd4a5ea7bdf6426ca8514af719c0133e7947",
+    "phase": "after",
+    "view": "equipment-empty"
+  },
+  {
+    "path": "screenshots/before/320x640-equipment-owned.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "ed258364e08309834283294fe62cd1c2643c2179ac0b5761696b5b55e519c9b3",
+    "phase": "before",
+    "view": "equipment-owned"
+  },
+  {
+    "path": "screenshots/after/320x640-equipment-owned.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "c87ae01b3fcdcf1c49ddeb0e46f1184b3063380917e44ba13521cc211c1bfe26",
+    "phase": "after",
+    "view": "equipment-owned"
+  },
+  {
+    "path": "screenshots/before/320x640-realm.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "86ab0e55fd672139a8d85c652de1a74e7e33fe6d1c701f4aba06dad1a121651d",
+    "phase": "before",
+    "view": "realm"
+  },
+  {
+    "path": "screenshots/after/320x640-realm.png",
+    "size": [
+      320,
+      640
+    ],
+    "sha256": "27e132daa3e38138778df066a610ad1bff1db68400889d95e0a5229b2561f46f",
+    "phase": "after",
+    "view": "realm"
+  },
+  {
+    "path": "screenshots/before/390x844-cultivate.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "c2dd411605cc888d9746c5dc6bacf699ce9a13067e38bc892bc57de2f80e850c",
+    "phase": "before",
+    "view": "cultivate"
+  },
+  {
+    "path": "screenshots/after/390x844-cultivate.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "eb9e14bef6f51cc892a5b0ecf6321ccf9085594c464f4e98fe216d3959fbc4fa",
+    "phase": "after",
+    "view": "cultivate"
+  },
+  {
+    "path": "screenshots/before/390x844-preview.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "a24b3446d287ca1e0bfa6ca6e3cda18cc37da01ddb3914e9033f49acc89cafcc",
+    "phase": "before",
+    "view": "preview"
+  },
+  {
+    "path": "screenshots/after/390x844-preview.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "1bd3b06e8934b03cffb529de9d1ea897a49c2ce8083ad5090aeb3e8588788ff7",
+    "phase": "after",
+    "view": "preview"
+  },
+  {
+    "path": "screenshots/before/390x844-battle.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "0b947dd7e631fa7b2330d0bf8e63cedf78f7c9aa984d829d92a7192642aa3b0f",
+    "phase": "before",
+    "view": "battle"
+  },
+  {
+    "path": "screenshots/after/390x844-battle.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "1fd616ed8db83fc6d188c3abc8948cc504571a75ca23f79d010992aa29d2863e",
+    "phase": "after",
+    "view": "battle"
+  },
+  {
+    "path": "screenshots/before/390x844-camp.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "9fbcc90d252f1c2a75739a04fc6c0d084a452115d1bff4a4649e8e621da4235f",
+    "phase": "before",
+    "view": "camp"
+  },
+  {
+    "path": "screenshots/after/390x844-camp.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "588d2b5240c361c6a43b9351b9ae4a282ec0e6d34bc2d653a8d75cad5bf39a5f",
+    "phase": "after",
+    "view": "camp"
+  },
+  {
+    "path": "screenshots/before/390x844-techniques.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "830359ca695a6358e1c94f551a75fbc5623d97849afa89e8d8fe3ef849774e85",
+    "phase": "before",
+    "view": "techniques"
+  },
+  {
+    "path": "screenshots/after/390x844-techniques.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "919f557ccd25706a2b9b700bc2ad16abbb17ddd63566a64ab645c61a67b641f4",
+    "phase": "after",
+    "view": "techniques"
+  },
+  {
+    "path": "screenshots/before/390x844-equipment-empty.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "f6d1fb7c521c78c105365401d0d3114f6b997a8747a88c8585b7e50f5824d8f6",
+    "phase": "before",
+    "view": "equipment-empty"
+  },
+  {
+    "path": "screenshots/after/390x844-equipment-empty.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "145763ff0ec36f7c87c7ce1aff1da47fd638210e85fb68d76362eadc06b8f817",
+    "phase": "after",
+    "view": "equipment-empty"
+  },
+  {
+    "path": "screenshots/before/390x844-equipment-owned.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "36014ae68f267bf3a9250267084fd155ffbd64e83441495a755b9fb8102065c5",
+    "phase": "before",
+    "view": "equipment-owned"
+  },
+  {
+    "path": "screenshots/after/390x844-equipment-owned.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "ec8aed9fdc42635460997cbb4643fd5d94a41e650a649119d60752b4ffdc9111",
+    "phase": "after",
+    "view": "equipment-owned"
+  },
+  {
+    "path": "screenshots/before/390x844-realm.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "838883b633675f5db57d4349af25a7004f4f932b004278eba85c00c45a72fdc2",
+    "phase": "before",
+    "view": "realm"
+  },
+  {
+    "path": "screenshots/after/390x844-realm.png",
+    "size": [
+      390,
+      844
+    ],
+    "sha256": "94fcd0375de2091bf0c575b17850da2e13ccf761d6230251ff14e914001bc68e",
+    "phase": "after",
+    "view": "realm"
+  },
+  {
+    "path": "screenshots/before/430x932-cultivate.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "df137f5a7c56933989283a2d940a39f426f4a2fd9158d18d2a7557c3bcbb4214",
+    "phase": "before",
+    "view": "cultivate"
+  },
+  {
+    "path": "screenshots/after/430x932-cultivate.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "20c236bb7077b16b175734a12223546b3ea212b1605d0649b8bbb9cfd2f61376",
+    "phase": "after",
+    "view": "cultivate"
+  },
+  {
+    "path": "screenshots/before/430x932-preview.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "083a997228bb162de66a056a308838d4d8daea21ff097bb6716751533f4ade34",
+    "phase": "before",
+    "view": "preview"
+  },
+  {
+    "path": "screenshots/after/430x932-preview.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "ca0d6e340df0b53fb57705d9051ae909d7e95c131d55c8db754c74638ca78b0c",
+    "phase": "after",
+    "view": "preview"
+  },
+  {
+    "path": "screenshots/before/430x932-battle.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "9de4d780bd34fb34d9b1f771de552acaea9fdd2e1f31785d73205f541437d43a",
+    "phase": "before",
+    "view": "battle"
+  },
+  {
+    "path": "screenshots/after/430x932-battle.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "fd1f6ba6d3d80f11835062de75be5bef6a901836eb74392d29d3dcf3e1535538",
+    "phase": "after",
+    "view": "battle"
+  },
+  {
+    "path": "screenshots/before/430x932-camp.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "230667a04170907eacf7ac1bde629ce17188511a51dd831dac4f1bc3d6361c8e",
+    "phase": "before",
+    "view": "camp"
+  },
+  {
+    "path": "screenshots/after/430x932-camp.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "b52182badcddeb4bca640b7738c8b237d1c3ff60c7e5c675dd85981b5ae50b75",
+    "phase": "after",
+    "view": "camp"
+  },
+  {
+    "path": "screenshots/before/430x932-techniques.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "dfec9b7d92728eddb33f8b0129b00e1819d123358985a10f6d6e6393b3ba0fde",
+    "phase": "before",
+    "view": "techniques"
+  },
+  {
+    "path": "screenshots/after/430x932-techniques.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "61223f9ec22e7bc6d27417a6fb3f9b0856b5d10fc190c3fdc853fa2ee7b36d6f",
+    "phase": "after",
+    "view": "techniques"
+  },
+  {
+    "path": "screenshots/before/430x932-equipment-empty.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "67f379a10fec37bb7c939de5a46a15039f060a65bb4d82064ebc81a1cb64000b",
+    "phase": "before",
+    "view": "equipment-empty"
+  },
+  {
+    "path": "screenshots/after/430x932-equipment-empty.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "aae63871abcbceaee34abd6e85df2fa2fdcf9a095dd81d591a2bc47c09f4d74d",
+    "phase": "after",
+    "view": "equipment-empty"
+  },
+  {
+    "path": "screenshots/before/430x932-equipment-owned.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "da50a22379c4900b607f796718fccd453a011939926c1aca185447d6939733a3",
+    "phase": "before",
+    "view": "equipment-owned"
+  },
+  {
+    "path": "screenshots/after/430x932-equipment-owned.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "99a87e123722c0dde8871ff5a182c48ad1beee7e8bad014a6f6ea7de267cdd93",
+    "phase": "after",
+    "view": "equipment-owned"
+  },
+  {
+    "path": "screenshots/before/430x932-realm.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "dd8529284160356f2378c7409414d7c271a10bab73701fd5cc4c7210f04600bd",
+    "phase": "before",
+    "view": "realm"
+  },
+  {
+    "path": "screenshots/after/430x932-realm.png",
+    "size": [
+      430,
+      932
+    ],
+    "sha256": "fbea3ab3416d6e53c3cc3caaf94721f3a9c91925fd1371d45e0950fb08b20739",
+    "phase": "after",
+    "view": "realm"
+  },
+  {
+    "path": "screenshots/before/1280x800-cultivate.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "fbf8ec9e46950f94abf026fd5514e1b07024c4d3d292045959ead411b5ffab5d",
+    "phase": "before",
+    "view": "cultivate"
+  },
+  {
+    "path": "screenshots/after/1280x800-cultivate.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "123e21b5800d17738cf877f37719f1246d960b26e08823574f72b637b9e786ae",
+    "phase": "after",
+    "view": "cultivate"
+  },
+  {
+    "path": "screenshots/before/1280x800-preview.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "53e034c6187a9e7b8169f37a505b244272d6d9d606f6c6fd4dc3ec6c5773fd7e",
+    "phase": "before",
+    "view": "preview"
+  },
+  {
+    "path": "screenshots/after/1280x800-preview.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "77a6a4a99424d6bf35c5eeafeeb76744b81f25b07cb193a13f40ca9fc1014f41",
+    "phase": "after",
+    "view": "preview"
+  },
+  {
+    "path": "screenshots/before/1280x800-battle.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "4b5cc6d9524a1dc551528c45950a8e0099d3b1cd0e2ed11a04634acb90a0be29",
+    "phase": "before",
+    "view": "battle"
+  },
+  {
+    "path": "screenshots/after/1280x800-battle.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "0b86b2528f1bc6d394de56cf985bc837ef9b5a06019d79da2e60725cbf0719dc",
+    "phase": "after",
+    "view": "battle"
+  },
+  {
+    "path": "screenshots/before/1280x800-camp.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "93b4f1555730d70b0f290acd2e5e5fe81a6b0ceff340b80d99b4a6723d040663",
+    "phase": "before",
+    "view": "camp"
+  },
+  {
+    "path": "screenshots/after/1280x800-camp.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "83ea454ba0fa0035ddd0b4439de2b72bde12dc36127ce71db908860a9df19646",
+    "phase": "after",
+    "view": "camp"
+  },
+  {
+    "path": "screenshots/before/1280x800-techniques.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "300248bf15dfc26d51dca29e066f7fa24f72ff0068d5449077a9429719505561",
+    "phase": "before",
+    "view": "techniques"
+  },
+  {
+    "path": "screenshots/after/1280x800-techniques.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "6b5c43e0717915960233a1c9732ae364a713b0ef006bb2250140be37eabd8991",
+    "phase": "after",
+    "view": "techniques"
+  },
+  {
+    "path": "screenshots/before/1280x800-equipment-empty.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "2ac2a69bf57a6b55c83fd82cd6046e2b4ded8fe6694da21e0f7d98195b65448f",
+    "phase": "before",
+    "view": "equipment-empty"
+  },
+  {
+    "path": "screenshots/after/1280x800-equipment-empty.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "01f5c6bbb4c2aa64c3b5870227333f761842619fef57fdc8b2981d71abb8cc9c",
+    "phase": "after",
+    "view": "equipment-empty"
+  },
+  {
+    "path": "screenshots/before/1280x800-equipment-owned.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "190e49fbcba2db8d7ea2df52a493eb11892b668495b9018bbd92f7405624c755",
+    "phase": "before",
+    "view": "equipment-owned"
+  },
+  {
+    "path": "screenshots/after/1280x800-equipment-owned.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "417c60fb9166771a8c5182922a711c85496859a6141372e008f117a51d8424aa",
+    "phase": "after",
+    "view": "equipment-owned"
+  },
+  {
+    "path": "screenshots/before/1280x800-realm.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "fe08753982341a28debc42861e90ebff6dba88a460874167a264e8bf789da781",
+    "phase": "before",
+    "view": "realm"
+  },
+  {
+    "path": "screenshots/after/1280x800-realm.png",
+    "size": [
+      1280,
+      800
+    ],
+    "sha256": "b41c77ef65a1222e7b67c9a4d73a7cb4177b71b8e4cfeece502137d804261aed",
+    "phase": "after",
+    "view": "realm"
+  }
+]

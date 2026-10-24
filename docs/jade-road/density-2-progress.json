@@ -1,0 +1,110 @@
+{
+  "events": [
+    {
+      "name": "PCM before-gesture",
+      "seconds": 17.056,
+      "rms": 0,
+      "peak": 0,
+      "samples": 98304,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "Retina touch equip 390x844",
+      "seconds": 33.793,
+      "realm": "Foundation Establishment",
+      "qi": 100098.04555128315,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS high-density phone",
+      "seconds": 35.813,
+      "key": "390x844",
+      "devicePixelRatio": 2,
+      "innerWidth": 390,
+      "innerHeight": 844,
+      "canvasWidth": 780,
+      "canvasHeight": 1688
+    },
+    {
+      "name": "Touch equip after live resize 320x640",
+      "seconds": 39.38,
+      "realm": "Foundation Establishment",
+      "qi": 100155.93310128321,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS live viewport resize",
+      "seconds": 39.405,
+      "key": "320x640",
+      "devicePixelRatio": 2,
+      "innerWidth": 320,
+      "innerHeight": 640,
+      "canvasWidth": 640,
+      "canvasHeight": 1280
+    },
+    {
+      "name": "Touch equip after live resize 430x932",
+      "seconds": 44.181,
+      "realm": "Foundation Establishment",
+      "qi": 100205.60275128322,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS live viewport resize",
+      "seconds": 44.186,
+      "key": "430x932",
+      "devicePixelRatio": 2,
+      "innerWidth": 430,
+      "innerHeight": 932,
+      "canvasWidth": 860,
+      "canvasHeight": 1864
+    },
+    {
+      "name": "Touch equip after live resize 390x844",
+      "seconds": 48.038,
+      "realm": "Foundation Establishment",
+      "qi": 100245.60550128325,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS live viewport resize",
+      "seconds": 48.041,
+      "key": "390x844",
+      "devicePixelRatio": 2,
+      "innerWidth": 390,
+      "innerHeight": 844,
+      "canvasWidth": 780,
+      "canvasHeight": 1688
+    },
+    {
+      "name": "Rendered performance sample",
+      "seconds": 50.031,
+      "medianFrameMs": 16.69999999999709,
+      "p95FrameMs": 16.799999999999272,
+      "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "scope": "120 headless browser animation frames, not a mobile-device benchmark"
+    },
+    {
+      "name": "PASS",
+      "seconds": 50.032,
+      "mode": "high-density mobile browser, DPR 2"
+    }
+  ],
+  "errors": []
+}

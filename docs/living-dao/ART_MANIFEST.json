@@ -1,0 +1,879 @@
+[
+  {
+    "id": "body",
+    "generator_file": "exec-60d93fd4-e9b7-428d-b5be-10286076490f.png",
+    "source": "docs\\living-dao\\sources\\body-source.png",
+    "runtime": "assets/art/living/body.png",
+    "source_sha256": "ef5e4495a5b139a36c106b7971c386173a2801d444e24a6234a585bfd76d09b4",
+    "runtime_sha256": "2f64cd9f4e780e44578b78583a31bc3c651fde6d5afeaf20431f845730d1a86e",
+    "dimensions": [
+      640,
+      640
+    ],
+    "alpha_crop": null,
+    "processing": "Full canvas proportional downscale, anchors preserved",
+    "tool": "Built-in imagegen",
+    "reference": "assets/art/cultivator.png"
+  },
+  {
+    "id": "release",
+    "generator_file": "exec-9b1091fc-8647-4842-9736-990d977777b3.png",
+    "source": "docs\\living-dao\\sources\\release-source.png",
+    "runtime": "assets/art/living/release.png",
+    "source_sha256": "8c7b78a0a47c1a62ba12747977b30dae022ffe76d9d96bc1da2e5c2f279f2f76",
+    "runtime_sha256": "9381618ddeb3bbf4dd0b523eac76f80fda896e40bcdf314908318382bf00219f",
+    "dimensions": [
+      640,
+      640
+    ],
+    "alpha_crop": null,
+    "processing": "Full canvas proportional downscale, anchors preserved",
+    "tool": "Built-in imagegen",
+    "reference": "assets/art/cultivator.png"
+  },
+  {
+    "id": "cape",
+    "generator_file": "exec-35923258-d30a-4f25-96c6-fe434801de88.png",
+    "source": "docs\\living-dao\\sources\\cape-source.png",
+    "runtime": "assets/art/living/cape.png",
+    "source_sha256": "6423238423e164b69c9c1d722a72587ff3b933fc5e5ebb1fb6fa13c0a211e9fc",
+    "runtime_sha256": "573d8895398fba180ddd018491d8d4aefd7fae7326bb38e0938879b4cd9823fb",
+    "dimensions": [
+      256,
+      223
+    ],
+    "alpha_crop": [
+      254,
+      100,
+      1177,
+      903
+    ],
+    "processing": "Alpha-bound crop and proportional downscale",
+    "tool": "Built-in imagegen",
+    "reference": "assets/art/cultivator.png"
+  },
+  {
+    "id": "storm_guardian",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\storm_guardian-source.png",
+    "source_sha256": "277493203e4e76b1ebd798da06768cfd40c577b368e1a020a60f92ee0d2075ea",
+    "runtime": "assets\\art\\living\\storm_guardian.png",
+    "runtime_sha256": "6c0bfb62ad2b6f6d5ed6d69cecbd94206670b77293e088a34257a66f9b0f0e70",
+    "size": [
+      384,
+      384
+    ],
+    "alpha_bounds": [
+      47,
+      8,
+      337,
+      375
+    ],
+    "crop": [
+      0,
+      0,
+      627,
+      836
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "tomb_guardian",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\tomb_guardian-source.png",
+    "source_sha256": "277493203e4e76b1ebd798da06768cfd40c577b368e1a020a60f92ee0d2075ea",
+    "runtime": "assets\\art\\living\\tomb_guardian.png",
+    "runtime_sha256": "f13b4ce186a1f20e8295eef6a0f0e779b2c8922757fbd249b866e6ce3b27ac4f",
+    "size": [
+      384,
+      384
+    ],
+    "alpha_bounds": [
+      46,
+      8,
+      337,
+      376
+    ],
+    "crop": [
+      627,
+      0,
+      1254,
+      836
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "lake_guardian",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\lake_guardian-source.png",
+    "source_sha256": "277493203e4e76b1ebd798da06768cfd40c577b368e1a020a60f92ee0d2075ea",
+    "runtime": "assets\\art\\living\\lake_guardian.png",
+    "runtime_sha256": "4b007d730a0f6515a7707af21cd57d07e751e8b60e289eba7a51edc469b1fd92",
+    "size": [
+      384,
+      384
+    ],
+    "alpha_bounds": [
+      48,
+      8,
+      336,
+      376
+    ],
+    "crop": [
+      1254,
+      0,
+      1881,
+      836
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "mist-layer",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\mist-layer-source.png",
+    "source_sha256": "7f3b15a343e664830fc34df5e3d9e5d232e468f6d59aa6491e28a7a3566d57e7",
+    "runtime": "assets\\art\\living\\mist-layer.png",
+    "runtime_sha256": "aabea2db0e8ff9d7ae01c67921d460a7855b632900f8754e3f7630975f5e5a47",
+    "size": [
+      384,
+      384
+    ],
+    "alpha_bounds": [
+      0,
+      0,
+      384,
+      384
+    ],
+    "crop": [
+      8,
+      8,
+      504,
+      504
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "water-layer",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\water-layer-source.png",
+    "source_sha256": "7f3b15a343e664830fc34df5e3d9e5d232e468f6d59aa6491e28a7a3566d57e7",
+    "runtime": "assets\\art\\living\\water-layer.png",
+    "runtime_sha256": "12322e7bed906994a5f2ce1aa39ed7fd325bcf841e3e5d1c6362080e0516debc",
+    "size": [
+      384,
+      384
+    ],
+    "alpha_bounds": [
+      0,
+      1,
+      384,
+      384
+    ],
+    "crop": [
+      520,
+      8,
+      1016,
+      504
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "wind-layer",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\wind-layer-source.png",
+    "source_sha256": "7f3b15a343e664830fc34df5e3d9e5d232e468f6d59aa6491e28a7a3566d57e7",
+    "runtime": "assets\\art\\living\\wind-layer.png",
+    "runtime_sha256": "eac477e2ae0d32887026ba46f354b973d9ca4c96dbee4bd4edfa4170f2eafff9",
+    "size": [
+      384,
+      384
+    ],
+    "alpha_bounds": [
+      0,
+      0,
+      384,
+      384
+    ],
+    "crop": [
+      1032,
+      8,
+      1528,
+      504
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "reed-layer",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\reed-layer-source.png",
+    "source_sha256": "7f3b15a343e664830fc34df5e3d9e5d232e468f6d59aa6491e28a7a3566d57e7",
+    "runtime": "assets\\art\\living\\reed-layer.png",
+    "runtime_sha256": "7a87e4a7ce0d214cd6dd30ea39ae4146098ae1268c65b8dabb63ae5e761dbeb3",
+    "size": [
+      384,
+      384
+    ],
+    "alpha_bounds": [
+      5,
+      0,
+      384,
+      384
+    ],
+    "crop": [
+      8,
+      520,
+      504,
+      1016
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "lamp-layer",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\lamp-layer-source.png",
+    "source_sha256": "7f3b15a343e664830fc34df5e3d9e5d232e468f6d59aa6491e28a7a3566d57e7",
+    "runtime": "assets\\art\\living\\lamp-layer.png",
+    "runtime_sha256": "09a761da9af13fd28cf7bb3a708334aaacbb32c12f6d8c01fd3e2870484ca014",
+    "size": [
+      384,
+      384
+    ],
+    "alpha_bounds": [
+      0,
+      6,
+      384,
+      384
+    ],
+    "crop": [
+      520,
+      520,
+      1016,
+      1016
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "pine-layer",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\pine-layer-source.png",
+    "source_sha256": "7f3b15a343e664830fc34df5e3d9e5d232e468f6d59aa6491e28a7a3566d57e7",
+    "runtime": "assets\\art\\living\\pine-layer.png",
+    "runtime_sha256": "e04d568ce7f60c44c3461f6752f4f2a204bd950630f7328373a19e131f4051fa",
+    "size": [
+      384,
+      384
+    ],
+    "alpha_bounds": [
+      0,
+      0,
+      384,
+      384
+    ],
+    "crop": [
+      1032,
+      520,
+      1528,
+      1016
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "thunder",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\thunder-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\thunder.png",
+    "runtime_sha256": "63d728075149adf7d59f2383a3c870bb626556c7b507b3e96cbd0b8e998f5886",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      17,
+      20,
+      119,
+      118
+    ],
+    "crop": [
+      0,
+      0,
+      322,
+      322
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "returning",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\returning-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\returning.png",
+    "runtime_sha256": "de910b4bf976a973e08a004ec59bb751244abb48b021ece2562691fe7ba9c263",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      8,
+      26,
+      119,
+      105
+    ],
+    "crop": [
+      306,
+      0,
+      635,
+      322
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "mirror",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\mirror-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\mirror.png",
+    "runtime_sha256": "1d2a007feb38279dedd9c311884760fdbf10905ca1764098676ac9e5fdb35428",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      8,
+      16,
+      117,
+      114
+    ],
+    "crop": [
+      619,
+      0,
+      948,
+      322
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "storm_thread",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\storm_thread-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\storm_thread.png",
+    "runtime_sha256": "7c03fb5b5c664599567a9f52dfbd230825ebc6ad63f2d2fed5817f9793b021c0",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      10,
+      19,
+      118,
+      119
+    ],
+    "crop": [
+      932,
+      0,
+      1254,
+      322
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "cloud_bell",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\cloud_bell-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\cloud_bell.png",
+    "runtime_sha256": "511493b0d7c51be2b0d662e3fae36b8d90f6e7db3ca294931dc20c3bc32c6203",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      28,
+      8,
+      100,
+      120
+    ],
+    "crop": [
+      0,
+      306,
+      322,
+      635
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "seal_needle",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\seal_needle-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\seal_needle.png",
+    "runtime_sha256": "95cd6913e49d32f93b8f0c040ddcdeaabfd5b9fe9cca6c38e0948809ad40e6b0",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      12,
+      8,
+      111,
+      120
+    ],
+    "crop": [
+      306,
+      306,
+      635,
+      635
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "ember_lantern",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\ember_lantern-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\ember_lantern.png",
+    "runtime_sha256": "c60cfcbca691ae7b01551e4e804670dfe5124e7e743983e7557a222313661b13",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      30,
+      8,
+      114,
+      120
+    ],
+    "crop": [
+      619,
+      306,
+      948,
+      635
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "moon_silk",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\moon_silk-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\moon_silk.png",
+    "runtime_sha256": "1d4ad19d8a52f17ba31528ecaa393d169b43f33142ec0d85339ba38740d56963",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      22,
+      8,
+      114,
+      120
+    ],
+    "crop": [
+      932,
+      306,
+      1254,
+      635
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "lake_blade",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\lake_blade-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\lake_blade.png",
+    "runtime_sha256": "08c3fd61556bb3a52215acf12573cb2dfe552d50814f16a7307ed2bcf227fe3d",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      18,
+      8,
+      109,
+      120
+    ],
+    "crop": [
+      0,
+      619,
+      322,
+      948
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "law_earth",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\law_earth-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\law_earth.png",
+    "runtime_sha256": "ad20ca3c91659e377b2315b67414c3f3e97009009d7e76eb9e7da6338c4e1727",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      8,
+      10,
+      113,
+      117
+    ],
+    "crop": [
+      306,
+      619,
+      635,
+      948
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "law_fire",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\law_fire-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\law_fire.png",
+    "runtime_sha256": "73ae12d03e82407ad06b65e53f8b2f231b3b6859615cfd79d27c71d128cb17c7",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      25,
+      8,
+      113,
+      120
+    ],
+    "crop": [
+      619,
+      619,
+      948,
+      948
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "law_water",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\law_water-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\law_water.png",
+    "runtime_sha256": "5b1f180c5af1346c3ab19c95f783cab718c8995769c77b5598ccd64015fefc39",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      30,
+      8,
+      105,
+      120
+    ],
+    "crop": [
+      932,
+      619,
+      1254,
+      948
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "storm",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\storm-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\storm.png",
+    "runtime_sha256": "3af7287c9d9c1aa41e322e2c041eb813b5c07b3989aeda902c8b360f2835aae1",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      17,
+      8,
+      120,
+      114
+    ],
+    "crop": [
+      0,
+      932,
+      322,
+      1254
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "tomb",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\tomb-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\tomb.png",
+    "runtime_sha256": "a9f3fe0322bc1bdbf5c8a8ba606540114cdfe710ae0801ad22b16a59184632cc",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      8,
+      10,
+      117,
+      114
+    ],
+    "crop": [
+      306,
+      932,
+      635,
+      1254
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "endurance",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\endurance-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\endurance.png",
+    "runtime_sha256": "0311736386a707c3320612ff9d08f71558a12278d8f63f84c8593803f769e20b",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      9,
+      12,
+      117,
+      115
+    ],
+    "crop": [
+      619,
+      932,
+      948,
+      1254
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "nascent_soul",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\nascent_soul-source.png",
+    "source_sha256": "dda1f5fcdc7c00a788eeb401c7dc7590e81c2cdd0f97c46f5de1616afb5cddd3",
+    "runtime": "assets\\art\\living\\nascent_soul.png",
+    "runtime_sha256": "fe70fbc40d36a7d849a13311e7746adf84bb8b67ada80921e57b735f9ab49404",
+    "size": [
+      128,
+      128
+    ],
+    "alpha_bounds": [
+      31,
+      8,
+      116,
+      120
+    ],
+    "crop": [
+      932,
+      932,
+      1254,
+      1254
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork.",
+    "normalization": "Proportional alpha crop with transparent square padding; never stretch creature anatomy."
+  },
+  {
+    "id": "golden",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\golden-source.png",
+    "source_sha256": "50b563feea610ce25266d8f5352ee5a4132f5f5238dbed38a71ed686d7e3cd06",
+    "runtime": "assets\\art\\living\\golden.png",
+    "runtime_sha256": "4fee0543202b698196440ca5c88acf7b0e59095d58c8f4438f109538d19ea4ee",
+    "size": [
+      640,
+      640
+    ],
+    "alpha_bounds": [
+      32,
+      39,
+      609,
+      629
+    ],
+    "crop": null,
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "golden-release",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\golden-release-source.png",
+    "source_sha256": "33e415704baf24b99d5aa9e323c6b885f89de163466b76febf6b0b8e81b00d8a",
+    "runtime": "assets\\art\\living\\golden-release.png",
+    "runtime_sha256": "1e75aba775b1690a8d1ac870658e79d494f929911911dc46a1d125c1b5a0eec4",
+    "size": [
+      640,
+      640
+    ],
+    "alpha_bounds": [
+      33,
+      39,
+      609,
+      602
+    ],
+    "crop": null,
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "soul",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\soul-source.png",
+    "source_sha256": "c5cdf0561b5e3c576bd89f748c8d9840292e19a4753f175c7141c2b21922a36c",
+    "runtime": "assets\\art\\living\\soul.png",
+    "runtime_sha256": "b5c4c28cd5b5093fd6b1115f7d5253fea441b755a4c50393e35b18081334cbb4",
+    "size": [
+      640,
+      640
+    ],
+    "alpha_bounds": [
+      11,
+      35,
+      630,
+      602
+    ],
+    "crop": null,
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "soul-release",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\soul-release-source.png",
+    "source_sha256": "b45d77c83abe4eb22e9b3d5ab73a289fbe9d4545583bdd1f5137be4346552ee1",
+    "runtime": "assets\\art\\living\\soul-release.png",
+    "runtime_sha256": "d30187084d6321302c5835b40e0d8fcf40202218e11b08010ae1a8396037bba0",
+    "size": [
+      640,
+      640
+    ],
+    "alpha_bounds": [
+      11,
+      39,
+      630,
+      604
+    ],
+    "crop": null,
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "thunder_peak",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\thunder_peak-source.png",
+    "source_sha256": "0c52b42f0ed168c0f981cfafc3433276287c3e2a27eec35a7bddd3c571737b9d",
+    "runtime": "assets\\art\\living\\thunder_peak.png",
+    "runtime_sha256": "8cc484dc9bc48a5479ac0d13faacbd808ca2d80fcda717a13d49c5afbd1cf4b1",
+    "size": [
+      764,
+      508
+    ],
+    "alpha_bounds": [
+      0,
+      0,
+      764,
+      508
+    ],
+    "crop": [
+      2,
+      2,
+      766,
+      510
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "ancient_tomb",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\ancient_tomb-source.png",
+    "source_sha256": "0c52b42f0ed168c0f981cfafc3433276287c3e2a27eec35a7bddd3c571737b9d",
+    "runtime": "assets\\art\\living\\ancient_tomb.png",
+    "runtime_sha256": "0caa2ac2d166cee921e81d274259c4a9d34c41fbf3a5a7d57d9470dee2e4ebe0",
+    "size": [
+      764,
+      508
+    ],
+    "alpha_bounds": [
+      0,
+      0,
+      764,
+      508
+    ],
+    "crop": [
+      770,
+      2,
+      1534,
+      510
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "moon_lake",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\moon_lake-source.png",
+    "source_sha256": "0c52b42f0ed168c0f981cfafc3433276287c3e2a27eec35a7bddd3c571737b9d",
+    "runtime": "assets\\art\\living\\moon_lake.png",
+    "runtime_sha256": "55b040bd7289f248cb84f54f82448c2f2d32e5ecdcdb0ef44c2f0ae03286261f",
+    "size": [
+      764,
+      508
+    ],
+    "alpha_bounds": [
+      0,
+      0,
+      764,
+      508
+    ],
+    "crop": [
+      2,
+      514,
+      766,
+      1022
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  },
+  {
+    "id": "spirit_river",
+    "tool": "OpenAI imagegen",
+    "source": "docs\\living-dao\\sources\\spirit_river-source.png",
+    "source_sha256": "0c52b42f0ed168c0f981cfafc3433276287c3e2a27eec35a7bddd3c571737b9d",
+    "runtime": "assets\\art\\living\\spirit_river.png",
+    "runtime_sha256": "0b939cbd883fc39f52d255510e2431bc1be99de65fce2989e9a938a04bc64e37",
+    "size": [
+      764,
+      508
+    ],
+    "alpha_bounds": [
+      0,
+      0,
+      764,
+      508
+    ],
+    "crop": [
+      770,
+      514,
+      1534,
+      1022
+    ],
+    "review": "Inspected composition, anatomy where relevant, alpha, brush consistency and phone silhouette. No text/interface flattened into artwork."
+  }
+]

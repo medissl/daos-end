@@ -1,0 +1,504 @@
+{
+  "events": [
+    {
+      "name": "PCM before-gesture",
+      "seconds": 17.083,
+      "rms": 0,
+      "peak": 0,
+      "samples": 98304,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PASS finger swipe",
+      "seconds": 40.012,
+      "key": "320x640",
+      "scope": "Real touch start/move/end across the content, no scrollbar drag; before/after captures require rendered review"
+    },
+    {
+      "name": "Saved Sword equip 320x640",
+      "seconds": 43.828,
+      "realm": "Foundation Establishment",
+      "qi": 100103.82085003941,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved gear equip 320x640",
+      "seconds": 46.365,
+      "realm": "Foundation Establishment",
+      "qi": 100130.36860003926,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved separate refinement 320x640",
+      "seconds": 48.222,
+      "realm": "Foundation Establishment",
+      "qi": 97649.4229500393,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Requested camp 320x640",
+      "seconds": 67.143,
+      "realm": "Foundation Establishment",
+      "qi": 98366.44550003993,
+      "herbs": 106,
+      "journey": "camp",
+      "node": 1
+    },
+    {
+      "name": "Saved preparation 320x640",
+      "seconds": 73.057,
+      "realm": "Foundation Establishment",
+      "qi": 98419.93430004,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved Golden Core 320x640",
+      "seconds": 74.92,
+      "realm": "Golden Core",
+      "qi": 23439.247400040018,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved third slot 320x640",
+      "seconds": 80.154,
+      "realm": "Golden Core",
+      "qi": 23547.52910004034,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved preset restore 320x640",
+      "seconds": 81.871,
+      "realm": "Golden Core",
+      "qi": 23583.029600040445,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS viewport",
+      "seconds": 94.945,
+      "key": "320x640",
+      "realm": "Golden Core"
+    },
+    {
+      "name": "PASS finger swipe",
+      "seconds": 112.869,
+      "key": "390x844",
+      "scope": "Real touch start/move/end across the content, no scrollbar drag; before/after captures require rendered review"
+    },
+    {
+      "name": "Saved Sword equip 390x844",
+      "seconds": 116.502,
+      "realm": "Foundation Establishment",
+      "qi": 100110.82779970397,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved gear equip 390x844",
+      "seconds": 119.337,
+      "realm": "Foundation Establishment",
+      "qi": 100139.04189970404,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved separate refinement 390x844",
+      "seconds": 121.389,
+      "realm": "Foundation Establishment",
+      "qi": 97661.38754970404,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Requested camp 390x844",
+      "seconds": 142.285,
+      "realm": "Foundation Establishment",
+      "qi": 98395.22884970509,
+      "herbs": 106,
+      "journey": "camp",
+      "node": 1
+    },
+    {
+      "name": "Saved preparation 390x844",
+      "seconds": 148.787,
+      "realm": "Foundation Establishment",
+      "qi": 98458.15684970509,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved Golden Core 390x844",
+      "seconds": 150.775,
+      "realm": "Golden Core",
+      "qi": 23478.63949970511,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved third slot 390x844",
+      "seconds": 156.185,
+      "realm": "Golden Core",
+      "qi": 23590.89559970539,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved preset restore 390x844",
+      "seconds": 157.917,
+      "realm": "Golden Core",
+      "qi": 23626.416799705486,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS viewport",
+      "seconds": 162.985,
+      "key": "390x844",
+      "realm": "Golden Core"
+    },
+    {
+      "name": "PASS finger swipe",
+      "seconds": 176.329,
+      "key": "430x932",
+      "scope": "Real touch start/move/end across the content, no scrollbar drag; before/after captures require rendered review"
+    },
+    {
+      "name": "Saved Sword equip 430x932",
+      "seconds": 180.063,
+      "realm": "Foundation Establishment",
+      "qi": 100112.72185025664,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved gear equip 430x932",
+      "seconds": 182.872,
+      "realm": "Foundation Establishment",
+      "qi": 100141.82605025657,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved separate refinement 430x932",
+      "seconds": 184.631,
+      "realm": "Foundation Establishment",
+      "qi": 97659.91785025652,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Requested camp 430x932",
+      "seconds": 205.049,
+      "realm": "Foundation Establishment",
+      "qi": 98383.42985025738,
+      "herbs": 106,
+      "journey": "camp",
+      "node": 1
+    },
+    {
+      "name": "Saved preparation 430x932",
+      "seconds": 211.317,
+      "realm": "Foundation Establishment",
+      "qi": 98449.16270025741,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved Golden Core 430x932",
+      "seconds": 213.826,
+      "realm": "Golden Core",
+      "qi": 23475.213650257407,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved third slot 430x932",
+      "seconds": 219.545,
+      "realm": "Golden Core",
+      "qi": 23593.18295025766,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved preset restore 430x932",
+      "seconds": 221.436,
+      "realm": "Golden Core",
+      "qi": 23633.175350257712,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS viewport",
+      "seconds": 234.691,
+      "key": "430x932",
+      "realm": "Golden Core"
+    },
+    {
+      "name": "Saved Sword equip 1280x800",
+      "seconds": 246.628,
+      "realm": "Foundation Establishment",
+      "qi": 100074.11635019723,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved gear equip 1280x800",
+      "seconds": 250.345,
+      "realm": "Foundation Establishment",
+      "qi": 100112.73220019715,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved separate refinement 1280x800",
+      "seconds": 252.146,
+      "realm": "Foundation Establishment",
+      "qi": 97631.69340019711,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Requested camp 1280x800",
+      "seconds": 273.108,
+      "realm": "Foundation Establishment",
+      "qi": 98367.79100019761,
+      "herbs": 106,
+      "journey": "camp",
+      "node": 1
+    },
+    {
+      "name": "Saved preparation 1280x800",
+      "seconds": 279.787,
+      "realm": "Foundation Establishment",
+      "qi": 98431.09160019766,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved Golden Core 1280x800",
+      "seconds": 281.907,
+      "realm": "Golden Core",
+      "qi": 23452.992200197725,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved third slot 1280x800",
+      "seconds": 287.445,
+      "realm": "Golden Core",
+      "qi": 23567.52530019807,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Saved preset restore 1280x800",
+      "seconds": 289.251,
+      "realm": "Golden Core",
+      "qi": 23604.764600198167,
+      "herbs": 82,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS viewport",
+      "seconds": 301.672,
+      "key": "1280x800",
+      "realm": "Golden Core"
+    },
+    {
+      "name": "Audio settings after slider inputs",
+      "seconds": 309.318,
+      "preferences": "[audio]\n\nrevision=2\nMaster=0.7\nMusic=0.0\nAmbience=0.0\nSFX=0.0\nmute=false\n"
+    },
+    {
+      "name": "PCM all-buses-zero",
+      "seconds": 311.252,
+      "rms": 0,
+      "peak": 0,
+      "samples": 94208,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM music-only",
+      "seconds": 317.183,
+      "rms": 0.010367269631300871,
+      "peak": 0.057281494140625,
+      "samples": 286720,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM ambience-only",
+      "seconds": 323.507,
+      "rms": 0.017324379730724516,
+      "peak": 0.07696533203125,
+      "samples": 286720,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM sfx-only",
+      "seconds": 328.125,
+      "rms": 0.004217642382487741,
+      "peak": 0.07220458984375,
+      "samples": 229376,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM master-mute",
+      "seconds": 334.17,
+      "rms": 0,
+      "peak": 0,
+      "samples": 94208,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM master-zero",
+      "seconds": 351.041,
+      "rms": 0,
+      "peak": 0,
+      "samples": 98304,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM default-mix",
+      "seconds": 358.085,
+      "rms": 0.002870688289564479,
+      "peak": 0.013214111328125,
+      "samples": 286720,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PCM focus-return",
+      "seconds": 365.267,
+      "rms": 0.0028744331664694324,
+      "peak": 0.013336181640625,
+      "samples": 192512,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "PASS audio signal/routing",
+      "seconds": 365.276,
+      "listening": "Unperformed: tool cannot accept audio input; PCM evidence does not establish aesthetic quality",
+      "preferences": "[audio]\n\nrevision=2\nMaster=0.7\nMusic=0.0\nAmbience=0.12\nSFX=0.35\nmute=true\n"
+    },
+    {
+      "name": "Rendered performance sample",
+      "seconds": 367.292,
+      "medianFrameMs": 16.69999999999709,
+      "p95FrameMs": 16.799999999999272,
+      "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "scope": "120 headless browser animation frames, not a mobile-device benchmark"
+    },
+    {
+      "name": "PASS",
+      "seconds": 367.294,
+      "mode": "phone-first four-size gameplay, boundaries and audio"
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

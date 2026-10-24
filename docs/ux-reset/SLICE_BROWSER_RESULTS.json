@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "name": "PASS route → battle → camp → equip → continue",
+      "key": "320x640",
+      "taps": 7,
+      "scrolls": 0,
+      "directFlowTaps": 5,
+      "buildDetourTaps": 2,
+      "seconds": 36.023,
+      "fixture": "Foundation entry, no gear/history; ordinary-speed first fight; no general Help"
+    },
+    {
+      "name": "PASS route → battle → camp → equip → continue",
+      "key": "430x932",
+      "taps": 7,
+      "scrolls": 0,
+      "directFlowTaps": 5,
+      "buildDetourTaps": 2,
+      "seconds": 30.109,
+      "fixture": "Foundation entry, no gear/history; ordinary-speed first fight; no general Help"
+    },
+    {
+      "name": "PASS",
+      "phase": "after"
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

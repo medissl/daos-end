@@ -1,0 +1,28 @@
+{
+  "milestone": 2,
+  "interface": "Milestone two UI finish",
+  "build": "Godot 4.7.2 Web release",
+  "save_schema": 2,
+  "artifacts": [
+    {
+      "path": "builds/web/index.html",
+      "bytes": 5440,
+      "sha256": "460b54340abdf10d1698dad7aaf801c922b8c2b5742067ef40beef3dc81e9f63"
+    },
+    {
+      "path": "builds/web/index.js",
+      "bytes": 279815,
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+    },
+    {
+      "path": "builds/web/index.pck",
+      "bytes": 5695712,
+      "sha256": "74c4a00c651bcef7362bff8f9f13660ffabfa41f103d4b796c4464fcb7b291a8"
+    },
+    {
+      "path": "builds/web/index.wasm",
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+[
+	{
+		"foundation_seconds": 1506.06666931667,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 24,
+			"preparation": 0
+		},
+		"immediate_foundation_qi_per_second": 42.0,
+		"journey_after_qi_refining_seconds": 1080.0,
+		"mastery": {
+			"azure": 2,
+			"iron": 0
+		},
+		"next_departure_herbs_per_trip": 5,
+		"next_departure_qi_per_second": 42.0,
+		"policy": "cultivation-first",
+		"primary": "azure",
+		"purchases": [
+			{
+				"at": 25.000001,
+				"purchase": "breathing",
+				"qi_spent": 25.0
+			},
+			{
+				"at": 55.0000015,
+				"purchase": "breathing",
+				"qi_spent": 60.0
+			},
+			{
+				"at": 95.0000018333333,
+				"purchase": "meridian",
+				"qi_spent": 120.0
+			},
+			{
+				"at": 133.400002033333,
+				"purchase": "breathing",
+				"qi_spent": 144.0
+			},
+			{
+				"at": 173.400002283333,
+				"purchase": "mind",
+				"qi_spent": 200.0
+			},
+			{
+				"at": 242.600002283333,
+				"purchase": "breathing",
+				"qi_spent": 346.0
+			},
+			{
+				"at": 319.400002483333,
+				"purchase": "meridian",
+				"qi_spent": 480.0
+			},
+			{
+				"at": 666.066669316667,
+				"herbs_spent": 8,
+				"purchase": "azure mastery"
+			},
+			{
+				"at": 1146.06666931667,
+				"herbs_spent": 16,
+				"purchase": "azure mastery"
+			},
+			{
+				"at": 1506.06666931667,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 10000.0
+			}
+		],
+		"qi_refining_seconds": 426.066669316667,
+		"remaining_herbs": 0,
+		"remaining_qi": 10880.0000075,
+		"start": "fresh"
+	},
+	{
+		"foundation_seconds": 1026.06666931667,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 8,
+			"preparation": 12
+		},
+		"immediate_foundation_qi_per_second": 30.0,
+		"journey_after_qi_refining_seconds": 600.0,
+		"mastery": {
+			"azure": 0,
+			"iron": 1
+		},
+		"next_departure_herbs_per_trip": 8,
+		"next_departure_qi_per_second": 33.0,
+		"policy": "gathering/preparation-first",
+		"primary": "iron",
+		"purchases": [
+			{
+				"at": 25.000001,
+				"purchase": "breathing",
+				"qi_spent": 25.0
+			},
+			{
+				"at": 55.0000015,
+				"purchase": "breathing",
+				"qi_spent": 60.0
+			},
+			{
+				"at": 95.0000018333333,
+				"purchase": "meridian",
+				"qi_spent": 120.0
+			},
+			{
+				"at": 133.400002033333,
+				"purchase": "breathing",
+				"qi_spent": 144.0
+			},
+			{
+				"at": 173.400002283333,
+				"purchase": "mind",
+				"qi_spent": 200.0
+			},
+			{
+				"at": 242.600002283333,
+				"purchase": "breathing",
+				"qi_spent": 346.0
+			},
+			{
+				"at": 319.400002483333,
+				"purchase": "meridian",
+				"qi_spent": 480.0
+			},
+			{
+				"at": 666.066669316667,
+				"herbs_spent": 8,
+				"purchase": "iron mastery"
+			},
+			{
+				"at": 906.066669316667,
+				"herbs_spent": 12,
+				"purchase": "Prepare Foundation"
+			},
+			{
+				"at": 1026.06666931667,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 7000.0
+			}
+		],
+		"qi_refining_seconds": 426.066669316667,
+		"remaining_herbs": 2,
+		"remaining_qi": 2000.0000075,
+		"start": "fresh"
+	},
+	{
+		"foundation_seconds": 1506.06666931667,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 48,
+			"preparation": 12
+		},
+		"immediate_foundation_qi_per_second": 30.0,
+		"journey_after_qi_refining_seconds": 1080.0,
+		"mastery": {
+			"azure": 2,
+			"iron": 2
+		},
+		"next_departure_herbs_per_trip": 10,
+		"next_departure_qi_per_second": 36.0,
+		"policy": "mastery-first",
+		"primary": "iron",
+		"purchases": [
+			{
+				"at": 25.000001,
+				"purchase": "breathing",
+				"qi_spent": 25.0
+			},
+			{
+				"at": 55.0000015,
+				"purchase": "breathing",
+				"qi_spent": 60.0
+			},
+			{
+				"at": 95.0000018333333,
+				"purchase": "meridian",
+				"qi_spent": 120.0
+			},
+			{
+				"at": 133.400002033333,
+				"purchase": "breathing",
+				"qi_spent": 144.0
+			},
+			{
+				"at": 173.400002283333,
+				"purchase": "mind",
+				"qi_spent": 200.0
+			},
+			{
+				"at": 242.600002283333,
+				"purchase": "breathing",
+				"qi_spent": 346.0
+			},
+			{
+				"at": 319.400002483333,
+				"purchase": "meridian",
+				"qi_spent": 480.0
+			},
+			{
+				"at": 666.066669316667,
+				"herbs_spent": 8,
+				"purchase": "iron mastery"
+			},
+			{
+				"at": 906.066669316667,
+				"herbs_spent": 16,
+				"purchase": "iron mastery"
+			},
+			{
+				"at": 1026.06666931667,
+				"herbs_spent": 8,
+				"purchase": "azure mastery"
+			},
+			{
+				"at": 1266.06666931667,
+				"herbs_spent": 16,
+				"purchase": "azure mastery"
+			},
+			{
+				"at": 1386.06666931667,
+				"herbs_spent": 12,
+				"purchase": "Prepare Foundation"
+			},
+			{
+				"at": 1506.06666931667,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 7000.0
+			}
+		],
+		"qi_refining_seconds": 426.066669316667,
+		"remaining_herbs": 2,
+		"remaining_qi": 9200.0000075,
+		"start": "fresh"
+	},
+	{
+		"foundation_seconds": 981.622225455556,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 0,
+			"preparation": 0
+		},
+		"immediate_foundation_qi_per_second": 36.0,
+		"journey_after_qi_refining_seconds": 555.555556138889,
+		"mastery": {
+			"azure": 0,
+			"iron": 0
+		},
+		"next_departure_herbs_per_trip": 5,
+		"next_departure_qi_per_second": 36.0,
+		"policy": "azure-no-mastery",
+		"primary": "azure",
+		"purchases": [
+			{
+				"at": 25.000001,
+				"purchase": "breathing",
+				"qi_spent": 25.0
+			},
+			{
+				"at": 55.0000015,
+				"purchase": "breathing",
+				"qi_spent": 60.0
+			},
+			{
+				"at": 95.0000018333333,
+				"purchase": "meridian",
+				"qi_spent": 120.0
+			},
+			{
+				"at": 133.400002033333,
+				"purchase": "breathing",
+				"qi_spent": 144.0
+			},
+			{
+				"at": 173.400002283333,
+				"purchase": "mind",
+				"qi_spent": 200.0
+			},
+			{
+				"at": 242.600002283333,
+				"purchase": "breathing",
+				"qi_spent": 346.0
+			},
+			{
+				"at": 319.400002483333,
+				"purchase": "meridian",
+				"qi_spent": 480.0
+			},
+			{
+				"at": 981.622225455556,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 10000.0
+			}
+		],
+		"qi_refining_seconds": 426.066669316667,
+		"remaining_herbs": 4,
+		"remaining_qi": 0.0000180000006366754,
+		"start": "fresh"
+	},
+	{
+		"foundation_seconds": 1092.73333648333,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 0,
+			"preparation": 0
+		},
+		"immediate_foundation_qi_per_second": 30.0,
+		"journey_after_qi_refining_seconds": 666.666667166667,
+		"mastery": {
+			"azure": 0,
+			"iron": 0
+		},
+		"next_departure_herbs_per_trip": 6,
+		"next_departure_qi_per_second": 33.0,
+		"policy": "iron-no-preparation",
+		"primary": "iron",
+		"purchases": [
+			{
+				"at": 25.000001,
+				"purchase": "breathing",
+				"qi_spent": 25.0
+			},
+			{
+				"at": 55.0000015,
+				"purchase": "breathing",
+				"qi_spent": 60.0
+			},
+			{
+				"at": 95.0000018333333,
+				"purchase": "meridian",
+				"qi_spent": 120.0
+			},
+			{
+				"at": 133.400002033333,
+				"purchase": "breathing",
+				"qi_spent": 144.0
+			},
+			{
+				"at": 173.400002283333,
+				"purchase": "mind",
+				"qi_spent": 200.0
+			},
+			{
+				"at": 242.600002283333,
+				"purchase": "breathing",
+				"qi_spent": 346.0
+			},
+			{
+				"at": 319.400002483333,
+				"purchase": "meridian",
+				"qi_spent": 480.0
+			},
+			{
+				"at": 1092.73333648333,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 10000.0
+			}
+		],
+		"qi_refining_seconds": 426.066669316667,
+		"remaining_herbs": 18,
+		"remaining_qi": 0.0000149999996210681,
+		"start": "fresh"
+	},
+	{
+		"foundation_seconds": 906.066669316667,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 0,
+			"preparation": 12
+		},
+		"immediate_foundation_qi_per_second": 30.0,
+		"journey_after_qi_refining_seconds": 480.0,
+		"mastery": {
+			"azure": 0,
+			"iron": 0
+		},
+		"next_departure_herbs_per_trip": 6,
+		"next_departure_qi_per_second": 33.0,
+		"policy": "iron-preparation-only",
+		"primary": "iron",
+		"purchases": [
+			{
+				"at": 25.000001,
+				"purchase": "breathing",
+				"qi_spent": 25.0
+			},
+			{
+				"at": 55.0000015,
+				"purchase": "breathing",
+				"qi_spent": 60.0
+			},
+			{
+				"at": 95.0000018333333,
+				"purchase": "meridian",
+				"qi_spent": 120.0
+			},
+			{
+				"at": 133.400002033333,
+				"purchase": "breathing",
+				"qi_spent": 144.0
+			},
+			{
+				"at": 173.400002283333,
+				"purchase": "mind",
+				"qi_spent": 200.0
+			},
+			{
+				"at": 242.600002283333,
+				"purchase": "breathing",
+				"qi_spent": 346.0
+			},
+			{
+				"at": 319.400002483333,
+				"purchase": "meridian",
+				"qi_spent": 480.0
+			},
+			{
+				"at": 666.066669316667,
+				"herbs_spent": 12,
+				"purchase": "Prepare Foundation"
+			},
+			{
+				"at": 906.066669316667,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 7000.0
+			}
+		],
+		"qi_refining_seconds": 426.066669316667,
+		"remaining_herbs": 0,
+		"remaining_qi": 200.0000075,
+		"start": "fresh"
+	},
+	{
+		"foundation_seconds": 1080.0,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 24,
+			"preparation": 0
+		},
+		"immediate_foundation_qi_per_second": 42.0,
+		"journey_after_qi_refining_seconds": 1080.0,
+		"mastery": {
+			"azure": 2,
+			"iron": 0
+		},
+		"next_departure_herbs_per_trip": 5,
+		"next_departure_qi_per_second": 42.0,
+		"policy": "cultivation-first",
+		"primary": "azure",
+		"purchases": [
+			{
+				"at": 240.0,
+				"herbs_spent": 8,
+				"purchase": "azure mastery"
+			},
+			{
+				"at": 720.0,
+				"herbs_spent": 16,
+				"purchase": "azure mastery"
+			},
+			{
+				"at": 1080.0,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 10000.0
+			}
+		],
+		"qi_refining_seconds": 0.0,
+		"remaining_herbs": 0,
+		"remaining_qi": 11880.0,
+		"start": "migrated Qi Refining, 1000 Qi, capped starter upgrades, zero absence"
+	},
+	{
+		"foundation_seconds": 600.0,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 8,
+			"preparation": 12
+		},
+		"immediate_foundation_qi_per_second": 30.0,
+		"journey_after_qi_refining_seconds": 600.0,
+		"mastery": {
+			"azure": 0,
+			"iron": 1
+		},
+		"next_departure_herbs_per_trip": 8,
+		"next_departure_qi_per_second": 33.0,
+		"policy": "gathering/preparation-first",
+		"primary": "iron",
+		"purchases": [
+			{
+				"at": 240.0,
+				"herbs_spent": 8,
+				"purchase": "iron mastery"
+			},
+			{
+				"at": 480.0,
+				"herbs_spent": 12,
+				"purchase": "Prepare Foundation"
+			},
+			{
+				"at": 600.0,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 7000.0
+			}
+		],
+		"qi_refining_seconds": 0.0,
+		"remaining_herbs": 2,
+		"remaining_qi": 3000.0,
+		"start": "migrated Qi Refining, 1000 Qi, capped starter upgrades, zero absence"
+	},
+	{
+		"foundation_seconds": 1080.0,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 48,
+			"preparation": 12
+		},
+		"immediate_foundation_qi_per_second": 30.0,
+		"journey_after_qi_refining_seconds": 1080.0,
+		"mastery": {
+			"azure": 2,
+			"iron": 2
+		},
+		"next_departure_herbs_per_trip": 10,
+		"next_departure_qi_per_second": 36.0,
+		"policy": "mastery-first",
+		"primary": "iron",
+		"purchases": [
+			{
+				"at": 240.0,
+				"herbs_spent": 8,
+				"purchase": "iron mastery"
+			},
+			{
+				"at": 480.0,
+				"herbs_spent": 16,
+				"purchase": "iron mastery"
+			},
+			{
+				"at": 600.0,
+				"herbs_spent": 8,
+				"purchase": "azure mastery"
+			},
+			{
+				"at": 840.0,
+				"herbs_spent": 16,
+				"purchase": "azure mastery"
+			},
+			{
+				"at": 960.0,
+				"herbs_spent": 12,
+				"purchase": "Prepare Foundation"
+			},
+			{
+				"at": 1080.0,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 7000.0
+			}
+		],
+		"qi_refining_seconds": 0.0,
+		"remaining_herbs": 2,
+		"remaining_qi": 10200.0,
+		"start": "migrated Qi Refining, 1000 Qi, capped starter upgrades, zero absence"
+	},
+	{
+		"foundation_seconds": 500.000001,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 0,
+			"preparation": 0
+		},
+		"immediate_foundation_qi_per_second": 36.0,
+		"journey_after_qi_refining_seconds": 500.000001,
+		"mastery": {
+			"azure": 0,
+			"iron": 0
+		},
+		"next_departure_herbs_per_trip": 5,
+		"next_departure_qi_per_second": 36.0,
+		"policy": "azure-no-mastery",
+		"primary": "azure",
+		"purchases": [
+			{
+				"at": 500.000001,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 10000.0
+			}
+		],
+		"qi_refining_seconds": 0.0,
+		"remaining_herbs": 4,
+		"remaining_qi": 0.0000180000006366754,
+		"start": "migrated Qi Refining, 1000 Qi, capped starter upgrades, zero absence"
+	},
+	{
+		"foundation_seconds": 600.0,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 0,
+			"preparation": 0
+		},
+		"immediate_foundation_qi_per_second": 30.0,
+		"journey_after_qi_refining_seconds": 600.0,
+		"mastery": {
+			"azure": 0,
+			"iron": 0
+		},
+		"next_departure_herbs_per_trip": 6,
+		"next_departure_qi_per_second": 33.0,
+		"policy": "iron-no-preparation",
+		"primary": "iron",
+		"purchases": [
+			{
+				"at": 600.0,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 10000.0
+			}
+		],
+		"qi_refining_seconds": 0.0,
+		"remaining_herbs": 18,
+		"remaining_qi": 0.0,
+		"start": "migrated Qi Refining, 1000 Qi, capped starter upgrades, zero absence"
+	},
+	{
+		"foundation_seconds": 480.0,
+		"herbs_spent": {
+			"advancement": 12,
+			"mastery": 0,
+			"preparation": 12
+		},
+		"immediate_foundation_qi_per_second": 30.0,
+		"journey_after_qi_refining_seconds": 480.0,
+		"mastery": {
+			"azure": 0,
+			"iron": 0
+		},
+		"next_departure_herbs_per_trip": 6,
+		"next_departure_qi_per_second": 33.0,
+		"policy": "iron-preparation-only",
+		"primary": "iron",
+		"purchases": [
+			{
+				"at": 240.0,
+				"herbs_spent": 12,
+				"purchase": "Prepare Foundation"
+			},
+			{
+				"at": 480.0,
+				"herbs_spent": 12,
+				"purchase": "Foundation",
+				"qi_spent": 7000.0
+			}
+		],
+		"qi_refining_seconds": 0.0,
+		"remaining_herbs": 0,
+		"remaining_qi": 1200.0,
+		"start": "migrated Qi Refining, 1000 Qi, capped starter upgrades, zero absence"
+	}
+]

@@ -1,0 +1,23 @@
+{
+  "events": [
+    {
+      "name": "capture 320x640 foundation",
+      "seconds": 11.256
+    },
+    {
+      "name": "capture 430x932 foundation",
+      "seconds": 14.206
+    },
+    {
+      "name": "capture 1280x800 foundation",
+      "seconds": 17.949
+    },
+    {
+      "name": "PASS",
+      "seconds": 17.952,
+      "mode": "matched isolated browser render fixtures"
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

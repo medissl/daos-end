@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-10-24",
+    "tool": "Built-in imagegen edit",
+    "reference": "assets/ui/action-plaque.png",
+    "generator_file": "exec-f78ce641-d17b-4b81-8de4-ee9b49cc96e5.png",
+    "prompt": "Edit target: this existing isolated jade game-action plaque. Replace the muddy smudged paint with one restrained, clean, horizontal ink-and-mineral-jade action plaque for a Chinese line-and-wash cultivation game. Preserve the wide approximately 5:1 silhouette and genuine transparent background. One quiet near-solid deep mineral-jade center, generous blank area for native game labels, smooth flat value without grain or synthetic mottling. Economical dark ink contour and slightly hand-brushed outer silhouette, edges controlled and complete on all four sides. Very small broad brush variations confined to the outer 8 percent. Flat front view, no lighting, bevel, shine, shadows, gold, gems, ornaments, symbols, letters or words. The whole complete asset and transparent safety gutter must be within the canvas. This is one reusable nine-slice UI artwork layer, not a screenshot or mockup.",
+    "archive": "sources/action-plaque-clean.png",
+    "runtime": "assets/ui/action-clean.png",
+    "source_sha256": "371df159bc7a9c1b2260bb98de677f94ec364cf6455d986645fcc0f3068b6993",
+    "runtime_sha256": "cc54fd3ef5e2b9160a007f6228d9994958280bf454da0281c4c2573195dbd6c2",
+    "crop": [
+      0,
+      168,
+      2169,
+      556
+    ],
+    "dimensions": [
+      512,
+      96
+    ],
+    "processing": "Alpha-bound crop, transparent gutter and proportional downscale only; no repaint.",
+    "slice_margins": [
+      24,
+      16,
+      24,
+      16
+    ],
+    "content_insets": [
+      16,
+      6,
+      16,
+      6
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "events": [
+    {
+      "name": "PCM before-gesture",
+      "seconds": 12.58,
+      "rms": 0,
+      "peak": 0,
+      "samples": 98304,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "First node ordinary-speed discovery camp",
+      "seconds": 39.553,
+      "realm": "Foundation Establishment",
+      "qi": 5953.715200144315,
+      "herbs": 25,
+      "journey": "camp",
+      "node": 1
+    },
+    {
+      "name": "Saved free Flame equip",
+      "seconds": 43.168,
+      "realm": "Foundation Establishment",
+      "qi": 5993.318800144378,
+      "herbs": 25,
+      "journey": "camp",
+      "node": 1
+    },
+    {
+      "name": "Ordinary-speed finite route boundary",
+      "seconds": 150.595,
+      "realm": "Foundation Establishment",
+      "qi": 12098.148000144049,
+      "herbs": 29,
+      "journey": "complete",
+      "node": 4
+    },
+    {
+      "name": "PASS ordinary route",
+      "seconds": 161.717,
+      "wallSeconds": 161.717,
+      "clock": "Unmodified real browser time",
+      "fixture": "Foundation entry only; no gear or route history"
+    },
+    {
+      "name": "Core Trial preparation saved",
+      "seconds": 168.675,
+      "realm": "Foundation Establishment",
+      "qi": 100061.31340005931,
+      "herbs": 81,
+      "journey": "idle",
+      "node": 0
+    },
+    {
+      "name": "Ordinary-speed Core Trial from labeled late fixture",
+      "seconds": 233.914,
+      "realm": "Foundation Establishment",
+      "qi": 104786.93945006597,
+      "herbs": 93,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "Core advancement after actual trial victory",
+      "seconds": 237.848,
+      "realm": "Golden Core",
+      "qi": 29822.750450066,
+      "herbs": 93,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS actual Core Trial",
+      "seconds": 240.901,
+      "fixture": "Earned history/equipment, stored Core win flag cleared, 100000 Qi boundary balance",
+      "clock": "Unmodified browser time"
+    },
+    {
+      "name": "Rendered performance sample",
+      "seconds": 242.901,
+      "medianFrameMs": 16.699999999999818,
+      "p95FrameMs": 16.800000000000182,
+      "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "scope": "120 headless browser animation frames, not a mobile-device benchmark"
+    },
+    {
+      "name": "PASS",
+      "seconds": 242.902,
+      "mode": "ordinary-speed representative journey"
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

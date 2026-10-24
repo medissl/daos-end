@@ -1,0 +1,662 @@
+{
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@Button@109": {
+		"accessible": "Enter Foundation; costs 10000 Qi and 12 herbs",
+		"label": "",
+		"name": "@Button@109",
+		"seen_in": "1280x800/practices"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@HBoxContainer@102/@Button@104": {
+		"accessible": "Prepare Foundation; spend 12 extra herbs to lower advancement to 7000 Qi; advancement still costs 12 herbs",
+		"label": "Prepare",
+		"name": "@Button@104",
+		"seen_in": "1280x800/practices"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@HBoxContainer@20/@Button@21": {
+		"accessible": "",
+		"label": "Cultivate",
+		"name": "@Button@21",
+		"seen_in": "1280x800/audio"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@HBoxContainer@20/@Button@22": {
+		"accessible": "",
+		"label": "Explore",
+		"name": "@Button@22",
+		"seen_in": "1280x800/audio"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@HBoxContainer@20/tab_build": {
+		"accessible": "",
+		"label": "Build",
+		"name": "tab_build",
+		"seen_in": "1280x800/audio"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@HBoxContainer@9/@Button@14": {
+		"accessible": "Menu: sound, display, help and credits",
+		"label": "Menu",
+		"name": "@Button@14",
+		"seen_in": "1280x800/audio"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@PanelContainer@159/@ScrollContainer@162/@VBoxContainer@163/@HBoxContainer@772/detail_later": {
+		"accessible": "",
+		"label": "Later",
+		"name": "detail_later",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@PanelContainer@159/@ScrollContainer@162/@VBoxContainer@163/@HBoxContainer@868/detail_later": {
+		"accessible": "",
+		"label": "Later",
+		"name": "detail_later",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@PanelContainer@159/@ScrollContainer@162/@VBoxContainer@163/detail_buy": {
+		"accessible": "",
+		"label": "Refine · 7500 Qi + 30 stones",
+		"name": "detail_buy",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@PanelContainer@159/@ScrollContainer@162/@VBoxContainer@163/detail_equip": {
+		"accessible": "",
+		"label": "Equip in slot 3 · free",
+		"name": "detail_equip",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@PanelContainer@159/@ScrollContainer@162/@VBoxContainer@163/detail_remove": {
+		"accessible": "",
+		"label": "Remove from slot",
+		"name": "detail_remove",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@PanelContainer@159/@ScrollContainer@162/@VBoxContainer@163/detail_replace_0": {
+		"accessible": "",
+		"label": "Replace slot 1 · Jade Ward",
+		"name": "detail_replace_0",
+		"seen_in": "1280x800/slot"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@PanelContainer@159/@ScrollContainer@162/@VBoxContainer@163/detail_replace_1": {
+		"accessible": "",
+		"label": "Replace slot 2 · Crimson Flame",
+		"name": "detail_replace_1",
+		"seen_in": "1280x800/slot"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@164/@VBoxContainer@165/@HBoxContainer@170/methods": {
+		"accessible": "",
+		"label": "Methods",
+		"name": "methods",
+		"seen_in": "1280x800/retreat"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@164/@VBoxContainer@165/@HBoxContainer@170/practices": {
+		"accessible": "",
+		"label": "Practices",
+		"name": "practices",
+		"seen_in": "1280x800/retreat"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@164/@VBoxContainer@165/gather": {
+		"accessible": "",
+		"label": "Bamboo gathering",
+		"name": "gather",
+		"seen_in": "1280x800/retreat"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@164/@VBoxContainer@165/retreat_core": {
+		"accessible": "",
+		"label": "Realm goal",
+		"name": "retreat_core",
+		"seen_in": "1280x800/retreat"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@178/@VBoxContainer@179/@VBoxContainer@182/@HBoxContainer@189/improve_method_azure": {
+		"accessible": "",
+		"label": "Improve",
+		"name": "improve_method_azure",
+		"seen_in": "1280x800/methods"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@178/@VBoxContainer@179/@VBoxContainer@182/@HBoxContainer@189/method_azure": {
+		"accessible": "",
+		"label": "Choose",
+		"name": "method_azure",
+		"seen_in": "1280x800/methods"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@178/@VBoxContainer@179/@VBoxContainer@193/@HBoxContainer@200/improve_method_iron": {
+		"accessible": "",
+		"label": "Improve",
+		"name": "improve_method_iron",
+		"seen_in": "1280x800/methods"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@178/@VBoxContainer@179/@VBoxContainer@193/@HBoxContainer@200/method_iron": {
+		"accessible": "",
+		"label": "Choose",
+		"name": "method_iron",
+		"seen_in": "1280x800/methods"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@255/@VBoxContainer@256/preview_build": {
+		"accessible": "",
+		"label": "Prepare · no consumable",
+		"name": "preview_build",
+		"seen_in": "1280x800/preview"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@255/@VBoxContainer@256/preview_inspect": {
+		"accessible": "",
+		"label": "Inspect 4 encounters",
+		"name": "preview_inspect",
+		"seen_in": "1280x800/preview"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@307/@VBoxContainer@308/@VBoxContainer@321/discovery_flame": {
+		"accessible": "",
+		"label": "Equip in slot 2 · free",
+		"name": "discovery_flame",
+		"seen_in": "1280x800/result"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@307/@VBoxContainer@308/end_journey": {
+		"accessible": "",
+		"label": "End journey · keep rewards",
+		"name": "end_journey",
+		"seen_in": "1280x800/result"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@354/@VBoxContainer@355/@HBoxContainer@428/preset_manage": {
+		"accessible": "",
+		"label": "Build preset",
+		"name": "preset_manage",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@354/@VBoxContainer@355/art_discover": {
+		"accessible": "",
+		"label": "Collection: learned / all",
+		"name": "art_discover",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@354/@VBoxContainer@355/art_flame": {
+		"accessible": "Crimson Flame; mastery 1 of 2; Equipped in slot 2",
+		"label": "",
+		"name": "art_flame",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@354/@VBoxContainer@355/art_river": {
+		"accessible": "River Confluence; mastery 0 of 2; Ready to equip",
+		"label": "",
+		"name": "art_river",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@354/@VBoxContainer@355/art_sword": {
+		"accessible": "Flowing Sword; mastery 0 of 2; Ready to equip",
+		"label": "",
+		"name": "art_sword",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@354/@VBoxContainer@355/art_ward": {
+		"accessible": "Jade Ward; mastery 1 of 2; Equipped in slot 1",
+		"label": "",
+		"name": "art_ward",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@354/@VBoxContainer@355/laws": {
+		"accessible": "",
+		"label": "Law: none",
+		"name": "laws",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/@HBoxContainer@432/gear_all": {
+		"accessible": "",
+		"label": "All slots",
+		"name": "gear_all",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/@HBoxContainer@432/gear_discover": {
+		"accessible": "",
+		"label": "Discover",
+		"name": "gear_discover",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/@HBoxContainer@432/gear_owned": {
+		"accessible": "",
+		"label": "Owned",
+		"name": "gear_owned",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/@VBoxContainer@436/empty_gear_route": {
+		"accessible": "",
+		"label": "View Stone Steps",
+		"name": "empty_gear_route",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_bone_ring": {
+		"accessible": "Beast Bone Ring; refinement 1 of 3; Equipped",
+		"label": "",
+		"name": "item_bone_ring",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_cinnabar_blade": {
+		"accessible": "Cinnabar Blade; refinement 0 of 3; Owned",
+		"label": "",
+		"name": "item_cinnabar_blade",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_cloud_bell": {
+		"accessible": "Cloud Bell; refinement 0 of 3; Undiscovered",
+		"label": "",
+		"name": "item_cloud_bell",
+		"seen_in": "1280x800/discover"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_ember_lantern": {
+		"accessible": "Ember Lantern; refinement 0 of 3; Undiscovered",
+		"label": "",
+		"name": "item_ember_lantern",
+		"seen_in": "1280x800/discover"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_jade_pendant": {
+		"accessible": "Jade Pendant; refinement 0 of 3; Owned",
+		"label": "",
+		"name": "item_jade_pendant",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_lake_blade": {
+		"accessible": "Lake Blade; refinement 0 of 3; Undiscovered",
+		"label": "",
+		"name": "item_lake_blade",
+		"seen_in": "1280x800/discover"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_moon_silk": {
+		"accessible": "Moon Silk; refinement 0 of 3; Undiscovered",
+		"label": "",
+		"name": "item_moon_silk",
+		"seen_in": "1280x800/discover"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_mystic_gourd": {
+		"accessible": "Mystic Gourd; refinement 0 of 3; Owned",
+		"label": "",
+		"name": "item_mystic_gourd",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_pine_sword": {
+		"accessible": "Pinewood Sword; refinement 1 of 3; Equipped",
+		"label": "",
+		"name": "item_pine_sword",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_river_needle": {
+		"accessible": "River Needle; refinement 0 of 3; Owned",
+		"label": "",
+		"name": "item_river_needle",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_river_silk": {
+		"accessible": "River Silk; refinement 0 of 3; Owned",
+		"label": "",
+		"name": "item_river_silk",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_seal_needle": {
+		"accessible": "Seal Needle; refinement 0 of 3; Undiscovered",
+		"label": "",
+		"name": "item_seal_needle",
+		"seen_in": "1280x800/discover"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_stoneweave_robe": {
+		"accessible": "Stoneweave Robe; refinement 1 of 3; Equipped",
+		"label": "",
+		"name": "item_stoneweave_robe",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_storm_thread": {
+		"accessible": "Storm Thread; refinement 0 of 3; Undiscovered",
+		"label": "",
+		"name": "item_storm_thread",
+		"seen_in": "1280x800/discover"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@430/@VBoxContainer@431/item_traveller_robe": {
+		"accessible": "Traveller’s Robe; refinement 0 of 3; Owned",
+		"label": "",
+		"name": "item_traveller_robe",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@608/@VBoxContainer@609/prepare_core": {
+		"accessible": "",
+		"label": "Prepare · 24 herbs",
+		"name": "prepare_core",
+		"seen_in": "1280x800/core"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@685/@VBoxContainer@686/locked_home": {
+		"accessible": "",
+		"label": "Go to cultivate",
+		"name": "locked_home",
+		"seen_in": "1280x800/audio"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@PanelContainer@690/@VBoxContainer@691/explore_locked_home": {
+		"accessible": "",
+		"label": "Go to cultivate",
+		"name": "explore_locked_home",
+		"seen_in": "1280x800/explore_locked"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@VBoxContainer@30/@VBoxContainer@70/@HBoxContainer@71/@Button@72": {
+		"accessible": "Deep Breathing; view effect",
+		"label": "",
+		"name": "@Button@72",
+		"seen_in": "1280x800/practices"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@VBoxContainer@30/@VBoxContainer@70/@HBoxContainer@71/@Button@77": {
+		"accessible": "",
+		"label": "25 Qi",
+		"name": "@Button@77",
+		"seen_in": "1280x800/practices"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@VBoxContainer@30/@VBoxContainer@70/@HBoxContainer@78/@Button@79": {
+		"accessible": "Meridian Circulation; view effect",
+		"label": "",
+		"name": "@Button@79",
+		"seen_in": "1280x800/practices"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@VBoxContainer@30/@VBoxContainer@70/@HBoxContainer@78/@Button@84": {
+		"accessible": "",
+		"label": "120 Qi",
+		"name": "@Button@84",
+		"seen_in": "1280x800/practices"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@VBoxContainer@30/@VBoxContainer@70/@HBoxContainer@85/@Button@86": {
+		"accessible": "Settle the Mind; view effect",
+		"label": "",
+		"name": "@Button@86",
+		"seen_in": "1280x800/practices"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@VBoxContainer@30/@VBoxContainer@70/@HBoxContainer@85/@Button@91": {
+		"accessible": "",
+		"label": "200 Qi",
+		"name": "@Button@91",
+		"seen_in": "1280x800/practices"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@VBoxContainer@92/@HBoxContainer@99/@Button@100": {
+		"accessible": "Bamboo Forest; Depart",
+		"label": "Depart",
+		"name": "@Button@100",
+		"seen_in": "1280x800/gather"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@PanelContainer@24/@HBoxContainer@25/@ScrollContainer@28/@VBoxContainer@29/@VBoxContainer@92/@HBoxContainer@99/@Button@101": {
+		"accessible": "Repeat is on; disable repeat",
+		"label": "Repeat: on",
+		"name": "@Button@101",
+		"seen_in": "1280x800/gather"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@175/goal": {
+		"accessible": "",
+		"label": "Explore Storm Ascent",
+		"name": "goal",
+		"seen_in": "1280x800/retreat"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@204/methods_back": {
+		"accessible": "",
+		"label": "Back to cultivate",
+		"name": "methods_back",
+		"seen_in": "1280x800/methods"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@264/depart": {
+		"accessible": "",
+		"label": "Depart",
+		"name": "depart",
+		"seen_in": "1280x800/preview"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@303/@HBoxContainer@304/camp_request": {
+		"accessible": "",
+		"label": "Camp after fight",
+		"name": "camp_request",
+		"seen_in": "1280x800/battle"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@303/@HBoxContainer@304/enemy_details": {
+		"accessible": "",
+		"label": "Inspect enemy",
+		"name": "enemy_details",
+		"seen_in": "1280x800/battle"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@322/@HBoxContainer@325/camp_build": {
+		"accessible": "",
+		"label": "Adjust build",
+		"name": "camp_build",
+		"seen_in": "1280x800/result"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@322/@HBoxContainer@325/leave": {
+		"accessible": "",
+		"label": "Cultivate",
+		"name": "leave",
+		"seen_in": "1280x800/result"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@322/continue": {
+		"accessible": "",
+		"label": "Continue journey",
+		"name": "continue",
+		"seen_in": "1280x800/result"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@322/result_routes": {
+		"accessible": "",
+		"label": "Review advancement",
+		"name": "result_routes",
+		"seen_in": "1280x800/complete"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@634/advance_core": {
+		"accessible": "",
+		"label": "Form Golden Core · 24,000 Qi",
+		"name": "advance_core",
+		"seen_in": "1280x800/core"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@634/core_back": {
+		"accessible": "",
+		"label": "Back to cultivate",
+		"name": "core_back",
+		"seen_in": "1280x800/core"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@634/core_trial": {
+		"accessible": "",
+		"label": "Enter Nascent Soul tribulation",
+		"name": "core_trial",
+		"seen_in": "1280x800/core"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@679/build_return": {
+		"accessible": "",
+		"label": "Back to camp",
+		"name": "build_return",
+		"seen_in": "1280x800/manage_flame"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@681/gather_back": {
+		"accessible": "",
+		"label": "Back to cultivate",
+		"name": "gather_back",
+		"seen_in": "1280x800/gather"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@122/@VBoxContainer@683/practices_back": {
+		"accessible": "",
+		"label": "Back to cultivate",
+		"name": "practices_back",
+		"seen_in": "1280x800/practices"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@206/@HBoxContainer@207/region_misty": {
+		"accessible": "",
+		"label": "Misty Mountain ▾",
+		"name": "region_misty",
+		"seen_in": "1280x800/preview"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@206/@HBoxContainer@207/region_river": {
+		"accessible": "",
+		"label": "Challenges",
+		"name": "region_river",
+		"seen_in": "1280x800/preview"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@206/@HBoxContainer@212/route_cloud_bridge": {
+		"accessible": "",
+		"label": "Cloud\nBridge",
+		"name": "route_cloud_bridge",
+		"seen_in": "1280x800/preview"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@206/@HBoxContainer@212/route_hermits_cleft": {
+		"accessible": "",
+		"label": "Hermit’s\nCleft",
+		"name": "route_hermits_cleft",
+		"seen_in": "1280x800/preview"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@206/@HBoxContainer@212/route_stone_steps": {
+		"accessible": "",
+		"label": "Stone\nSteps",
+		"name": "route_stone_steps",
+		"seen_in": "1280x800/preview"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@329/@GridContainer@333/slot_0": {
+		"accessible": "",
+		"label": "1 Ward",
+		"name": "slot_0",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@329/@GridContainer@333/slot_1": {
+		"accessible": "",
+		"label": "2 Flame",
+		"name": "slot_1",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@329/@GridContainer@333/slot_2": {
+		"accessible": "",
+		"label": "3 Empty",
+		"name": "slot_2",
+		"seen_in": "1280x800/arts"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@329/@HBoxContainer@330/build_arts": {
+		"accessible": "",
+		"label": "Techniques",
+		"name": "build_arts",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@329/@HBoxContainer@330/build_gear": {
+		"accessible": "",
+		"label": "Equipment",
+		"name": "build_gear",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@329/@HBoxContainer@338/equipped_artifact": {
+		"accessible": "",
+		"label": "",
+		"name": "equipped_artifact",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@329/@HBoxContainer@338/equipped_robe": {
+		"accessible": "",
+		"label": "",
+		"name": "equipped_robe",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PanelContainer@7/@VBoxContainer@8/@VBoxContainer@23/@VBoxContainer@329/@HBoxContainer@338/equipped_weapon": {
+		"accessible": "",
+		"label": "",
+		"name": "equipped_weapon",
+		"seen_in": "1280x800/gear"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@ScrollContainer@644/@VBoxContainer@645/@HBoxContainer@1031/move_later": {
+		"accessible": "",
+		"label": "Move later",
+		"name": "move_later",
+		"seen_in": "390x844/slot"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@ScrollContainer@644/@VBoxContainer@645/@HBoxContainer@1096/move_later": {
+		"accessible": "",
+		"label": "Move later",
+		"name": "move_later",
+		"seen_in": "430x932/slot"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@ScrollContainer@644/@VBoxContainer@645/@HBoxContainer@1238/move_later": {
+		"accessible": "",
+		"label": "Move later",
+		"name": "move_later",
+		"seen_in": "1280x800/slot"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@ScrollContainer@644/@VBoxContainer@645/@HBoxContainer@966/move_later": {
+		"accessible": "",
+		"label": "Move later",
+		"name": "move_later",
+		"seen_in": "320x640/slot"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@ScrollContainer@644/@VBoxContainer@645/remove_slot": {
+		"accessible": "",
+		"label": "Remove from slot",
+		"name": "remove_slot",
+		"seen_in": "1280x800/slot"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@ScrollContainer@644/@VBoxContainer@645/sheet_replace_0": {
+		"accessible": "",
+		"label": "Replace slot 1 · Jade Ward",
+		"name": "sheet_replace_0",
+		"seen_in": "430x932/improve"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@ScrollContainer@644/@VBoxContainer@645/sheet_replace_1": {
+		"accessible": "",
+		"label": "Replace slot 2 · Crimson Flame",
+		"name": "sheet_replace_1",
+		"seen_in": "430x932/improve"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@VBoxContainer@646/replace_0": {
+		"accessible": "",
+		"label": "Slot 1 · replace\nJade Ward",
+		"name": "replace_0",
+		"seen_in": "1280x800/replace"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@VBoxContainer@646/replace_1": {
+		"accessible": "",
+		"label": "Slot 2 · replace\nCrimson Flame",
+		"name": "replace_1",
+		"seen_in": "1280x800/replace"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@VBoxContainer@646/sheet_buy": {
+		"accessible": "",
+		"label": "Improve · 1000 Qi + 4 herbs",
+		"name": "sheet_buy",
+		"seen_in": "430x932/improve"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@VBoxContainer@646/sheet_equip": {
+		"accessible": "",
+		"label": "Equip · free",
+		"name": "sheet_equip",
+		"seen_in": "430x932/compare"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@VBoxContainer@646/slot_equip_flame": {
+		"accessible": "",
+		"label": "Equip Crimson Flame",
+		"name": "slot_equip_flame",
+		"seen_in": "1280x800/slot"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@VBoxContainer@646/slot_equip_river": {
+		"accessible": "",
+		"label": "Equip River Confluence",
+		"name": "slot_equip_river",
+		"seen_in": "1280x800/slot"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/@VBoxContainer@646/slot_equip_sword": {
+		"accessible": "",
+		"label": "Equip Flowing Sword",
+		"name": "slot_equip_sword",
+		"seen_in": "1280x800/slot"
+	},
+	"/root/@Control@2/@PopupPanel@639/@VBoxContainer@640/sheet_close": {
+		"accessible": "",
+		"label": "Return",
+		"name": "sheet_close",
+		"seen_in": "1280x800/slot"
+	},
+	"/root/@Control@2/@PopupPanel@649/@VBoxContainer@650/@ScrollContainer@654/@VBoxContainer@655/@Button@142": {
+		"accessible": "",
+		"label": "Reduce animation",
+		"name": "@Button@142",
+		"seen_in": "1280x800/audio"
+	},
+	"/root/@Control@2/@PopupPanel@649/@VBoxContainer@650/@ScrollContainer@654/@VBoxContainer@655/@HBoxContainer@673/audio_credits": {
+		"accessible": "",
+		"label": "Credits",
+		"name": "audio_credits",
+		"seen_in": "1280x800/audio"
+	},
+	"/root/@Control@2/@PopupPanel@649/@VBoxContainer@650/@ScrollContainer@654/@VBoxContainer@655/@HBoxContainer@673/menu_help": {
+		"accessible": "",
+		"label": "Help",
+		"name": "menu_help",
+		"seen_in": "1280x800/audio"
+	},
+	"/root/@Control@2/@PopupPanel@649/@VBoxContainer@650/@ScrollContainer@654/@VBoxContainer@655/audio_mute": {
+		"accessible": "",
+		"label": "Mute sound",
+		"name": "audio_mute",
+		"seen_in": "1280x800/audio"
+	},
+	"/root/@Control@2/@PopupPanel@649/@VBoxContainer@650/audio_close": {
+		"accessible": "",
+		"label": "Return to game",
+		"name": "audio_close",
+		"seen_in": "1280x800/audio"
+	}
+}

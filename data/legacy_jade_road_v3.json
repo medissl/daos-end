@@ -1,0 +1,997 @@
+{
+  "version": 1,
+  "skills": {
+    "sword": {
+      "name": "Flowing Sword",
+      "focus": 3,
+      "cooldown": 6,
+      "description": "Two physical hits, each 80% attack.",
+      "source": "Known at Foundation"
+    },
+    "flame": {
+      "name": "Crimson Flame",
+      "focus": 4,
+      "cooldown": 8,
+      "description": "60% attack magic; then 40% each second for 4s. Refreshes, never stacks.",
+      "source": "First Misty Mountain node"
+    },
+    "ward": {
+      "name": "Jade Ward",
+      "focus": 3,
+      "cooldown": 10,
+      "description": "Shield 30% maximum HP for 6s. Replaces weaker remainder.",
+      "source": "First Misty Mountain finale"
+    },
+    "river": {
+      "name": "River Confluence",
+      "focus": 3,
+      "cooldown": 10,
+      "description": "Cleanse poison/burn and heal 20% maximum HP.",
+      "source": "First Spirit River node"
+    }
+  },
+  "items": {
+    "pine_sword": {
+      "name": "Pinewood Sword",
+      "slot": "weapon",
+      "attack": 3,
+      "sword_bonus": 0.1,
+      "description": "+3 attack · Sword potency +10%",
+      "source": "Stone Steps first clear"
+    },
+    "cinnabar_blade": {
+      "name": "Cinnabar Blade",
+      "slot": "weapon",
+      "attack": 2,
+      "burn_duration": 1,
+      "description": "+2 attack · Flame lasts +1s",
+      "source": "Broken Ford first clear"
+    },
+    "river_needle": {
+      "name": "River Needle",
+      "slot": "weapon",
+      "attack": 2,
+      "pierce": 2,
+      "description": "+2 attack · physical hits ignore 2 armor",
+      "source": "Reed Shallows first clear"
+    },
+    "traveller_robe": {
+      "name": "Traveller’s Robe",
+      "slot": "robe",
+      "hp": 30,
+      "description": "+30 HP",
+      "source": "Burst Defense trial"
+    },
+    "stoneweave_robe": {
+      "name": "Stoneweave Robe",
+      "slot": "robe",
+      "hp": 15,
+      "armor": 2,
+      "description": "+15 HP · +2 armor",
+      "source": "Cloud Bridge first clear"
+    },
+    "river_silk": {
+      "name": "River Silk",
+      "slot": "robe",
+      "hp": 15,
+      "dot_reduction": 0.5,
+      "description": "+15 HP · incoming DOT damage −50%",
+      "source": "Lotus Pools first clear"
+    },
+    "jade_pendant": {
+      "name": "Jade Pendant",
+      "slot": "artifact",
+      "hp": 5,
+      "focus_regen": 0.25,
+      "description": "+5 HP · +0.25 focus/s",
+      "source": "Ward Breaking trial"
+    },
+    "mystic_gourd": {
+      "name": "Mystic Gourd",
+      "slot": "artifact",
+      "hp": 10,
+      "healing_bonus": 0.25,
+      "description": "+10 HP · healing received +25%",
+      "source": "Poison Survival trial"
+    },
+    "bone_ring": {
+      "name": "Beast Bone Ring",
+      "slot": "artifact",
+      "attack": 1,
+      "shield_bonus": 0.25,
+      "description": "+1 attack · shields granted +25%",
+      "source": "Hermit’s Cleft first clear"
+    }
+  },
+  "routes": {
+    "stone_steps": {
+      "name": "Stone Steps",
+      "region": "Misty Mountain",
+      "nodes": [
+        "steps_scout",
+        "steps_plated",
+        "steps_channeler",
+        "stone_guardian"
+      ],
+      "item": "pine_sword",
+      "description": "Cloudpath Scout · Mossback Sentinel · Bellstone Adept · Stone Gate Guardian",
+      "seal": true
+    },
+    "cloud_bridge": {
+      "name": "Cloud Bridge",
+      "region": "Misty Mountain",
+      "nodes": [
+        "bridge_warded",
+        "bridge_plated",
+        "bridge_veiled",
+        "cloud_sentry"
+      ],
+      "item": "stoneweave_robe",
+      "description": "Sealwing Crane · Bridgeback Sentinel · Mistwing Crane · Cloud Sentry",
+      "seal": true
+    },
+    "hermits_cleft": {
+      "name": "Hermit’s Cleft",
+      "region": "Misty Mountain",
+      "nodes": [
+        "cleft_thorned",
+        "cleft_warded",
+        "cleft_channeler",
+        "cleft_keeper"
+      ],
+      "item": "bone_ring",
+      "description": "Briarback Tortoise · Cleft Sealkeeper · Hollow Bell Keeper · Cleft Keeper",
+      "seal": true
+    },
+    "reed_shallows": {
+      "name": "Reed Shallows",
+      "region": "Spirit River",
+      "nodes": [
+        "reed_scout",
+        "reed_venomous",
+        "reed_healer",
+        "reed_guardian"
+      ],
+      "item": "river_needle",
+      "description": "Reedwater Scout · Jade Reed Serpent · Lotus Mender · Reed Guardian",
+      "seal": true
+    },
+    "broken_ford": {
+      "name": "Broken Ford",
+      "region": "Spirit River",
+      "nodes": [
+        "ford_plated",
+        "ford_venomous",
+        "ford_channeler",
+        "ford_watcher"
+      ],
+      "item": "cinnabar_blade",
+      "description": "Fordstone Sentinel · Waterline Serpent · Flood Bell Keeper · Ford Watcher",
+      "seal": true
+    },
+    "lotus_pools": {
+      "name": "Lotus Pools",
+      "region": "Spirit River",
+      "nodes": [
+        "lotus_warded",
+        "lotus_veiled",
+        "lotus_healer",
+        "lotus_warden"
+      ],
+      "item": "river_silk",
+      "description": "Pool Sealkeeper · Moonmist Crane · White Lotus Mender · Lotus Warden",
+      "seal": true
+    }
+  },
+  "enemies": {
+    "steps_scout": {
+      "name": "Cloudpath Scout",
+      "traits": [
+        "scout"
+      ],
+      "hp": 148,
+      "armor": 1,
+      "attack": 7,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 6,
+      "qi": 320,
+      "herbs": 1,
+      "description": "A measured first opponent. Basic strikes and Sword share the work.",
+      "art": "crane",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "steps_plated": {
+      "name": "Mossback Sentinel",
+      "traits": [
+        "plated"
+      ],
+      "hp": 180,
+      "armor": 7,
+      "attack": 8,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 8,
+      "qi": 420,
+      "herbs": 1,
+      "description": "Thick stone plates blunt each physical hit. Flame passes through armor.",
+      "art": "sentinel",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "steps_channeler": {
+      "name": "Bellstone Adept",
+      "traits": [
+        "channeler"
+      ],
+      "hp": 170,
+      "armor": 2,
+      "attack": 7,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 9,
+      "qi": 480,
+      "herbs": 1,
+      "description": "The bell brightens two seconds before its burst. Ward protects the release.",
+      "art": "crane",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "stone_guardian": {
+      "name": "Stone Gate Guardian",
+      "traits": [
+        "plated",
+        "channeler"
+      ],
+      "hp": 360,
+      "armor": 8,
+      "attack": 5,
+      "interval": 4,
+      "resistance": 0.05,
+      "stones": 25,
+      "qi": 1400,
+      "herbs": 2,
+      "description": "Armor and a telegraphed burst reward Flame with either focus or endurance.",
+      "art": "sentinel",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "bridge_warded": {
+      "name": "Sealwing Crane",
+      "traits": [
+        "warded"
+      ],
+      "hp": 160,
+      "armor": 2,
+      "attack": 7,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 7,
+      "qi": 360,
+      "herbs": 1,
+      "description": "Four barrier layers absorb direct hits. Sword removes two at once.",
+      "art": "crane",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "bridge_plated": {
+      "name": "Bridgeback Sentinel",
+      "traits": [
+        "plated"
+      ],
+      "hp": 182,
+      "armor": 7,
+      "attack": 8,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 8,
+      "qi": 440,
+      "herbs": 1,
+      "description": "The narrow crossing favors a damage channel that bypasses armor.",
+      "art": "sentinel",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "bridge_veiled": {
+      "name": "Mistwing Crane",
+      "traits": [
+        "veiled"
+      ],
+      "hp": 174,
+      "armor": 2,
+      "attack": 8,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 9,
+      "qi": 500,
+      "herbs": 1,
+      "description": "For two seconds of each six, mist reduces physical damage and raises resistance.",
+      "art": "crane",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "cloud_sentry": {
+      "name": "Cloud Sentry",
+      "traits": [
+        "warded",
+        "veiled"
+      ],
+      "hp": 390,
+      "armor": 3,
+      "attack": 10,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 27,
+      "qi": 1500,
+      "herbs": 2,
+      "description": "Five barrier layers precede alternating mist protection. Multi-hit tempo matters.",
+      "art": "crane",
+      "barriers": 5,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "cleft_thorned": {
+      "name": "Briarback Tortoise",
+      "traits": [
+        "thorned"
+      ],
+      "hp": 170,
+      "armor": 1,
+      "attack": 7,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 7,
+      "qi": 380,
+      "herbs": 1,
+      "description": "Direct hits return 3 damage. Flame ticks do not trigger reflection.",
+      "art": "tortoise",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "cleft_warded": {
+      "name": "Cleft Sealkeeper",
+      "traits": [
+        "warded"
+      ],
+      "hp": 178,
+      "armor": 2,
+      "attack": 8,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 8,
+      "qi": 460,
+      "herbs": 1,
+      "description": "A layered seal guards the pass. Repeated strikes open it.",
+      "art": "crane",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "cleft_channeler": {
+      "name": "Hollow Bell Keeper",
+      "traits": [
+        "channeler"
+      ],
+      "hp": 185,
+      "armor": 2,
+      "attack": 8,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 10,
+      "qi": 520,
+      "herbs": 1,
+      "description": "The warning pulse precedes a heavy strike. Protection has a six-second window.",
+      "art": "crane",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "cleft_keeper": {
+      "name": "Cleft Keeper",
+      "traits": [
+        "thorned",
+        "warded"
+      ],
+      "hp": 340,
+      "armor": 2,
+      "attack": 9,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 28,
+      "qi": 1600,
+      "herbs": 2,
+      "description": "Reflection punishes rapid direct hits; four layers must still be broken.",
+      "art": "tortoise",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "reed_scout": {
+      "name": "Reedwater Scout",
+      "traits": [
+        "scout"
+      ],
+      "hp": 180,
+      "armor": 2,
+      "attack": 9,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 8,
+      "qi": 440,
+      "herbs": 1,
+      "description": "Cross the first shallows to discover a cleansing art.",
+      "art": "crane",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "reed_venomous": {
+      "name": "Jade Reed Serpent",
+      "traits": [
+        "venomous"
+      ],
+      "hp": 180,
+      "armor": 2,
+      "attack": 6,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 10,
+      "qi": 520,
+      "herbs": 1,
+      "description": "Venom ticks each second for six seconds. River Confluence removes it.",
+      "art": "serpent",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "reed_healer": {
+      "name": "Lotus Mender",
+      "traits": [
+        "healer"
+      ],
+      "hp": 205,
+      "armor": 2,
+      "attack": 8,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 11,
+      "qi": 580,
+      "herbs": 1,
+      "description": "Restores 8% HP every six seconds. Sustained damage must exceed recovery.",
+      "art": "tortoise",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "reed_guardian": {
+      "name": "Reed Guardian",
+      "traits": [
+        "venomous",
+        "healer"
+      ],
+      "hp": 380,
+      "armor": 3,
+      "attack": 9,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 30,
+      "qi": 1700,
+      "herbs": 2,
+      "description": "Poison and periodic recovery test cleansing without abandoning pressure.",
+      "art": "serpent",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "ford_plated": {
+      "name": "Fordstone Sentinel",
+      "traits": [
+        "plated"
+      ],
+      "hp": 205,
+      "armor": 8,
+      "attack": 9,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 9,
+      "qi": 480,
+      "herbs": 1,
+      "description": "Eight armor makes unrefined physical pressure expensive.",
+      "art": "sentinel",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "ford_venomous": {
+      "name": "Waterline Serpent",
+      "traits": [
+        "venomous"
+      ],
+      "hp": 190,
+      "armor": 2,
+      "attack": 7,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 10,
+      "qi": 560,
+      "herbs": 1,
+      "description": "A fresh venom refreshes duration without adding another stack.",
+      "art": "serpent",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "ford_channeler": {
+      "name": "Flood Bell Keeper",
+      "traits": [
+        "channeler"
+      ],
+      "hp": 210,
+      "armor": 3,
+      "attack": 9,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 12,
+      "qi": 620,
+      "herbs": 1,
+      "description": "Three calm attacks hide a stronger channeled release.",
+      "art": "crane",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "ford_watcher": {
+      "name": "Ford Watcher",
+      "traits": [
+        "channeler",
+        "venomous"
+      ],
+      "hp": 400,
+      "armor": 4,
+      "attack": 11,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 32,
+      "qi": 1800,
+      "herbs": 2,
+      "description": "Poison continues during the two-second burst warning. Choose protection or cleansing.",
+      "art": "serpent",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "lotus_warded": {
+      "name": "Pool Sealkeeper",
+      "traits": [
+        "warded"
+      ],
+      "hp": 190,
+      "armor": 2,
+      "attack": 8,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 9,
+      "qi": 500,
+      "herbs": 1,
+      "description": "Six barrier layers reward a multi-hit opener.",
+      "art": "crane",
+      "barriers": 6,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "lotus_veiled": {
+      "name": "Moonmist Crane",
+      "traits": [
+        "veiled"
+      ],
+      "hp": 200,
+      "armor": 3,
+      "attack": 9,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 11,
+      "qi": 580,
+      "herbs": 1,
+      "description": "Protected and open intervals alternate predictably, never granting immunity.",
+      "art": "crane",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "lotus_healer": {
+      "name": "White Lotus Mender",
+      "traits": [
+        "healer"
+      ],
+      "hp": 220,
+      "armor": 2,
+      "attack": 9,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 12,
+      "qi": 660,
+      "herbs": 1,
+      "description": "Steady recovery exposes a build that spends all focus on defense.",
+      "art": "tortoise",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.08,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    },
+    "lotus_warden": {
+      "name": "Lotus Warden",
+      "traits": [
+        "warded",
+        "healer"
+      ],
+      "hp": 400,
+      "armor": 3,
+      "attack": 10,
+      "interval": 3,
+      "resistance": 0.05,
+      "stones": 34,
+      "qi": 1900,
+      "herbs": 2,
+      "description": "Four layers and 6% healing every six seconds reward sustained offensive focus.",
+      "art": "tortoise",
+      "barriers": 4,
+      "poison": 3,
+      "poison_duration": 6,
+      "reflect": 3,
+      "heal": 0.06,
+      "heal_interval": 6,
+      "burst": 2.5,
+      "burst_interval": 10,
+      "phase_period": 6,
+      "phase_length": 2
+    }
+  },
+  "trials": {
+    "ward_trial": {
+      "name": "Ward Breaking",
+      "description": "Break nine barrier layers and win within 60s.",
+      "objective": "barrier",
+      "target": 9,
+      "limit": 60,
+      "item": "jade_pendant",
+      "enemy": {
+        "name": "Ninefold Seal",
+        "traits": [
+          "warded"
+        ],
+        "hp": 240,
+        "armor": 2,
+        "attack": 8,
+        "barriers": 9
+      }
+    },
+    "poison_trial": {
+      "name": "Poison Survival",
+      "description": "Survive 30s and cleanse poison at least twice.",
+      "objective": "survive_cleanse",
+      "target": 2,
+      "duration": 30,
+      "limit": 35,
+      "item": "mystic_gourd",
+      "enemy": {
+        "name": "Venom Reed",
+        "traits": [
+          "venomous"
+        ],
+        "hp": 500,
+        "armor": 2,
+        "attack": 5,
+        "poison": 4
+      }
+    },
+    "burst_trial": {
+      "name": "Burst Defense",
+      "description": "Endure three bursts; shield at least one and retain 25% HP.",
+      "objective": "survive_burst",
+      "target": 3,
+      "duration": 30,
+      "limit": 35,
+      "item": "traveller_robe",
+      "enemy": {
+        "name": "Resonant Bellstone",
+        "traits": [
+          "channeler"
+        ],
+        "hp": 550,
+        "armor": 2,
+        "attack": 6,
+        "burst": 3.5,
+        "burst_interval": 8
+      }
+    },
+    "focus_trial": {
+      "name": "Limited Focus",
+      "description": "Win in 45s. Focus cap 6; recovery base 0.25/s; total skill budget 12.",
+      "objective": "win",
+      "target": 0,
+      "limit": 45,
+      "focus_cap": 6,
+      "focus_base": 0.25,
+      "focus_budget": 12,
+      "item": "",
+      "enemy": {
+        "name": "Narrow Spring",
+        "traits": [
+          "plated"
+        ],
+        "hp": 190,
+        "armor": 5,
+        "attack": 7
+      }
+    },
+    "reflection_trial": {
+      "name": "Reflected Damage",
+      "description": "Skills only: no basic strike. Win with at most 30 reflected damage.",
+      "objective": "reflection",
+      "target": 30,
+      "limit": 75,
+      "basic": false,
+      "item": "",
+      "enemy": {
+        "name": "Thorn Mirror",
+        "traits": [
+          "thorned"
+        ],
+        "hp": 160,
+        "armor": 1,
+        "attack": 6,
+        "reflect": 3
+      }
+    },
+    "mixed_trial": {
+      "name": "Three Currents",
+      "description": "Three finite encounters: barriers, poison, then burst. Camp between counters.",
+      "objective": "sequence",
+      "target": 0,
+      "limit": 90,
+      "item": "",
+      "sequence": [
+        {
+          "name": "First Current",
+          "traits": [
+            "warded"
+          ],
+          "hp": 190,
+          "armor": 2,
+          "attack": 8,
+          "barriers": 6
+        },
+        {
+          "name": "Second Current",
+          "traits": [
+            "venomous"
+          ],
+          "hp": 190,
+          "armor": 2,
+          "attack": 6,
+          "poison": 4
+        },
+        {
+          "name": "Third Current",
+          "traits": [
+            "channeler"
+          ],
+          "hp": 260,
+          "armor": 3,
+          "attack": 8,
+          "burst": 2.8
+        }
+      ]
+    }
+  },
+  "core": {
+    "name": "Core Trial Guardian",
+    "traits": [
+      "warded",
+      "channeler",
+      "venomous"
+    ],
+    "hp": 650,
+    "armor": 5,
+    "attack": 13,
+    "interval": 3,
+    "resistance": 0.1,
+    "barriers": 3,
+    "poison": 3,
+    "poison_duration": 4,
+    "burst": 2.8,
+    "burst_interval": 10,
+    "stones": 50,
+    "qi": 2500,
+    "herbs": 4,
+    "art": "sentinel",
+    "description": "Three barriers, venom and a telegraphed burst. Preparation reduces incoming damage 10%."
+  },
+  "refine_qi": [
+    2500,
+    7500,
+    22500
+  ],
+  "refine_stones": [
+    15,
+    30,
+    60
+  ],
+  "combat_mastery_qi": [
+    1000,
+    3000
+  ],
+  "combat_mastery_herbs": [
+    4,
+    8
+  ]
+}

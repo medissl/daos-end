@@ -1,0 +1,345 @@
+{
+  "results": [
+    {
+      "name": "PASS storm preparation/cancel/consume, discovery, safe camp, free replacement and continue",
+      "key": "320x640",
+      "taps": 15,
+      "scrolls": 4,
+      "full_route": false,
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 1514.2999999970198,
+        "samples": 326,
+        "runningSamples": 326,
+        "audibleSamples": 313,
+        "peak": 0.0599365234375,
+        "rmsPeak": 0.018785347537703445,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 1656,
+        "p50": 16.69999999999891,
+        "p95": 33.30000000000291,
+        "p99": 33.400000000001455,
+        "worst": 133.39999999999964,
+        "jsHeap": 47831306
+      }
+    },
+    {
+      "name": "PASS actual tomb encounter and automatic returning discovery",
+      "key": "320x640",
+      "checkpoint": "before-silent_gate",
+      "performance": {
+        "samples": 840,
+        "p50": 16.700000000000728,
+        "p95": 33.399999999999636,
+        "p99": 33.400000000001455,
+        "worst": 177.60000000000218,
+        "jsHeap": 43490401
+      }
+    },
+    {
+      "name": "PASS actual moon encounter and automatic mirror discovery",
+      "key": "320x640",
+      "checkpoint": "before-mirror_shore",
+      "performance": {
+        "samples": 808,
+        "p50": 16.69999999999891,
+        "p95": 33.29999999999927,
+        "p99": 33.399999999999636,
+        "worst": 83.30000000000018,
+        "jsHeap": 110418484
+      }
+    },
+    {
+      "name": "PASS full ordinary-speed Soul tribulation, advancement, fourth slot and persistent realm",
+      "key": "320x640",
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 1403.7000000029802,
+        "samples": 596,
+        "runningSamples": 596,
+        "audibleSamples": 584,
+        "peak": 0.087310791015625,
+        "rmsPeak": 0.029990106651288102,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 3126,
+        "p50": 16.69999999999709,
+        "p95": 33.30000000000291,
+        "p99": 33.400000000001455,
+        "worst": 176.59999999999854,
+        "jsHeap": 51029330
+      },
+      "loads_ms": [
+        14439,
+        4835,
+        4023,
+        3348,
+        4891
+      ]
+    },
+    {
+      "name": "PASS reload and rapid navigation",
+      "key": "320x640"
+    },
+    {
+      "name": "PASS storm preparation/cancel/consume, discovery, safe camp, free replacement and continue",
+      "key": "390x844",
+      "taps": 19,
+      "scrolls": 2,
+      "full_route": true,
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 954.3999999985099,
+        "samples": 677,
+        "runningSamples": 677,
+        "audibleSamples": 667,
+        "peak": 0.068450927734375,
+        "rmsPeak": 0.024670655627143684,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 3541,
+        "p50": 16.69999999999709,
+        "p95": 33.30000000000291,
+        "p99": 33.400000000001455,
+        "worst": 116.5,
+        "jsHeap": 35221408
+      }
+    },
+    {
+      "name": "PASS actual tomb encounter and automatic returning discovery",
+      "key": "390x844",
+      "checkpoint": "before-silent_gate",
+      "performance": {
+        "samples": 887,
+        "p50": 16.699999999999818,
+        "p95": 33.39999999999782,
+        "p99": 33.400000000001455,
+        "worst": 272.3000000000002,
+        "jsHeap": 37092064
+      }
+    },
+    {
+      "name": "PASS actual moon encounter and automatic mirror discovery",
+      "key": "390x844",
+      "checkpoint": "before-mirror_shore",
+      "performance": {
+        "samples": 842,
+        "p50": 16.69999999999891,
+        "p95": 33.29999999999927,
+        "p99": 33.399999999999636,
+        "worst": 66.59999999999945,
+        "jsHeap": 42534787
+      }
+    },
+    {
+      "name": "PASS full ordinary-speed Soul tribulation, advancement, fourth slot and persistent realm",
+      "key": "390x844",
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 724.6000000014901,
+        "samples": 597,
+        "runningSamples": 597,
+        "audibleSamples": 586,
+        "peak": 0.0584564208984375,
+        "rmsPeak": 0.0184599250967064,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 3201,
+        "p50": 16.69999999999709,
+        "p95": 33.29999999999927,
+        "p99": 33.400000000001455,
+        "worst": 100,
+        "jsHeap": 43572910
+      },
+      "loads_ms": [
+        12198,
+        3344,
+        3481,
+        2862,
+        2712
+      ]
+    },
+    {
+      "name": "PASS reload and rapid navigation",
+      "key": "390x844"
+    },
+    {
+      "name": "PASS storm preparation/cancel/consume, discovery, safe camp, free replacement and continue",
+      "key": "430x932",
+      "taps": 15,
+      "scrolls": 1,
+      "full_route": false,
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 1214.7999999970198,
+        "samples": 326,
+        "runningSamples": 326,
+        "audibleSamples": 313,
+        "peak": 0.06622314453125,
+        "rmsPeak": 0.024590942794033625,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 1581,
+        "p50": 16.699999999999818,
+        "p95": 33.39999999999418,
+        "p99": 33.5,
+        "worst": 116.70000000000073,
+        "jsHeap": 33179114
+      }
+    },
+    {
+      "name": "PASS actual tomb encounter and automatic returning discovery",
+      "key": "430x932",
+      "checkpoint": "before-silent_gate",
+      "performance": {
+        "samples": 802,
+        "p50": 16.700000000000728,
+        "p95": 33.400000000000546,
+        "p99": 33.5,
+        "worst": 66.60000000000036,
+        "jsHeap": 36231950
+      }
+    },
+    {
+      "name": "PASS actual moon encounter and automatic mirror discovery",
+      "key": "430x932",
+      "checkpoint": "before-mirror_shore",
+      "performance": {
+        "samples": 751,
+        "p50": 16.700000000000728,
+        "p95": 33.399999999999636,
+        "p99": 33.5,
+        "worst": 83.30000000000018,
+        "jsHeap": 35647798
+      }
+    },
+    {
+      "name": "PASS full ordinary-speed Soul tribulation, advancement, fourth slot and persistent realm",
+      "key": "430x932",
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 1408.4000000059605,
+        "samples": 604,
+        "runningSamples": 604,
+        "audibleSamples": 594,
+        "peak": 0.063720703125,
+        "rmsPeak": 0.018833166279964755,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 2931,
+        "p50": 16.69999999999891,
+        "p95": 33.399999999999636,
+        "p99": 33.5,
+        "worst": 133.30000000000018,
+        "jsHeap": 43411981
+      },
+      "loads_ms": [
+        4373,
+        4183,
+        4139,
+        4325,
+        4759
+      ]
+    },
+    {
+      "name": "PASS reload and rapid navigation",
+      "key": "430x932"
+    },
+    {
+      "name": "PASS storm preparation/cancel/consume, discovery, safe camp, free replacement and continue",
+      "key": "1280x800",
+      "taps": 15,
+      "scrolls": 1,
+      "full_route": false,
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 1469.8000000044703,
+        "samples": 342,
+        "runningSamples": 342,
+        "audibleSamples": 331,
+        "peak": 0.065032958984375,
+        "rmsPeak": 0.02057462086913873,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 1773,
+        "p50": 16.69999999999891,
+        "p95": 33.29999999999927,
+        "p99": 33.400000000001455,
+        "worst": 116.70000000000073,
+        "jsHeap": 34397290
+      }
+    },
+    {
+      "name": "PASS actual tomb encounter and automatic returning discovery",
+      "key": "1280x800",
+      "checkpoint": "before-silent_gate",
+      "performance": {
+        "samples": 901,
+        "p50": 16.699999999999818,
+        "p95": 33.399999999999636,
+        "p99": 33.400000000001455,
+        "worst": 83.29999999999927,
+        "jsHeap": 43360133
+      }
+    },
+    {
+      "name": "PASS actual moon encounter and automatic mirror discovery",
+      "key": "1280x800",
+      "checkpoint": "before-mirror_shore",
+      "performance": {
+        "samples": 838,
+        "p50": 16.69999999999891,
+        "p95": 33.30000000000018,
+        "p99": 33.400000000000546,
+        "worst": 249.89999999999964,
+        "jsHeap": 110383007
+      }
+    },
+    {
+      "name": "PASS full ordinary-speed Soul tribulation, advancement, fourth slot and persistent realm",
+      "key": "1280x800",
+      "audio": {
+        "sampleRate": 48000,
+        "startMs": 853.3000000044703,
+        "samples": 620,
+        "runningSamples": 620,
+        "audibleSamples": 609,
+        "peak": 0.0833740234375,
+        "rmsPeak": 0.024468525027204993,
+        "note": "Actual browser-rendered mix captured through a parallel MediaStreamDestination. No implementing-agent listening claim."
+      },
+      "performance": {
+        "samples": 3242,
+        "p50": 16.69999999999709,
+        "p95": 33.30000000000291,
+        "p99": 33.400000000001455,
+        "worst": 100,
+        "jsHeap": 53486875
+      },
+      "loads_ms": [
+        13750,
+        4954,
+        2963,
+        2969,
+        2920
+      ]
+    },
+    {
+      "name": "PASS reload and rapid navigation",
+      "key": "1280x800"
+    },
+    {
+      "name": "PASS all viewports"
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

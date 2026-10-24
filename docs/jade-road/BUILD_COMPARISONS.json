@@ -1,0 +1,1966 @@
+{
+	"azure_core_refinement": [
+		{
+			"hp": 0.0,
+			"level_each_item": 0,
+			"outcome": "defeat",
+			"seconds": 66.0,
+			"total_qi_spent": 0,
+			"total_stones_spent": 0
+		},
+		{
+			"hp": 15.78,
+			"level_each_item": 1,
+			"outcome": "win",
+			"seconds": 64.0,
+			"total_qi_spent": 7500,
+			"total_stones_spent": 45
+		},
+		{
+			"hp": 22.11,
+			"level_each_item": 2,
+			"outcome": "win",
+			"seconds": 60.0,
+			"total_qi_spent": 30000,
+			"total_stones_spent": 135
+		},
+		{
+			"hp": 33.84,
+			"level_each_item": 3,
+			"outcome": "win",
+			"seconds": 58.0,
+			"total_qi_spent": 97500,
+			"total_stones_spent": 315
+		}
+	],
+	"core": [
+		{
+			"hp": 0.0,
+			"method": "azure",
+			"outcome": "defeat",
+			"reason": "Burst damage broke through. Try Ward, Iron or armor.",
+			"refinement": 0,
+			"seconds": 43.0
+		},
+		{
+			"hp": 0.0,
+			"method": "azure",
+			"outcome": "defeat",
+			"reason": "Burst damage broke through. Try Ward, Iron or armor.",
+			"refinement": 1,
+			"seconds": 51.0
+		},
+		{
+			"hp": 0.0,
+			"method": "azure",
+			"outcome": "defeat",
+			"reason": "Burst damage broke through. Try Ward, Iron or armor.",
+			"refinement": 2,
+			"seconds": 60.0
+		},
+		{
+			"hp": 0.0,
+			"method": "azure",
+			"outcome": "defeat",
+			"reason": "Burst damage broke through. Try Ward, Iron or armor.",
+			"refinement": 3,
+			"seconds": 63.0
+		},
+		{
+			"hp": 10.8,
+			"method": "iron",
+			"outcome": "win",
+			"reason": "Guardian overcome.",
+			"refinement": 0,
+			"seconds": 69.0
+		},
+		{
+			"hp": 36.48,
+			"method": "iron",
+			"outcome": "win",
+			"reason": "Guardian overcome.",
+			"refinement": 1,
+			"seconds": 64.0
+		},
+		{
+			"hp": 43.26,
+			"method": "iron",
+			"outcome": "win",
+			"reason": "Guardian overcome.",
+			"refinement": 2,
+			"seconds": 62.0
+		},
+		{
+			"hp": 55.44,
+			"method": "iron",
+			"outcome": "win",
+			"reason": "Guardian overcome.",
+			"refinement": 3,
+			"seconds": 58.0
+		}
+	],
+	"kind": "Explicit seeded build/encounter comparisons, not ordinary progression or engaged play",
+	"method_ablation": [
+		{
+			"focus_regen": 0.5,
+			"hp_left": 0.0,
+			"hp_max": 120.0,
+			"method": "none",
+			"outcome": "defeat",
+			"same_build": "Sword/Flame, no gear or mastery",
+			"seconds": 70.0,
+			"skills": {
+				"flame": 1,
+				"river": 0,
+				"sword": 12,
+				"ward": 0
+			}
+		},
+		{
+			"focus_regen": 1.0,
+			"hp_left": 27.0,
+			"hp_max": 135.0,
+			"method": "azure",
+			"outcome": "win",
+			"same_build": "Sword/Flame, no gear or mastery",
+			"seconds": 63.0,
+			"skills": {
+				"flame": 8,
+				"river": 0,
+				"sword": 11,
+				"ward": 0
+			}
+		},
+		{
+			"focus_regen": 0.75,
+			"hp_left": 22.5,
+			"hp_max": 150.0,
+			"method": "iron",
+			"outcome": "win",
+			"same_build": "Sword/Flame, no gear or mastery",
+			"seconds": 76.0,
+			"skills": {
+				"flame": 7,
+				"river": 0,
+				"sword": 10,
+				"ward": 0
+			}
+		}
+	],
+	"policies": {
+		"focus": [
+			{
+				"enemy": "steps_scout",
+				"focus_spent": 10,
+				"hp": 164.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 8.0,
+				"skills": {
+					"flame": 1,
+					"river": 0,
+					"sword": 2,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "steps_plated",
+				"focus_spent": 20,
+				"hp": 144.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 18.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "steps_channeler",
+				"focus_spent": 14,
+				"hp": 143.875,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 12.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 2,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "stone_guardian",
+				"focus_spent": 41,
+				"hp": 115.875,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 38.0,
+				"skills": {
+					"flame": 5,
+					"river": 0,
+					"sword": 7,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "bridge_warded",
+				"focus_spent": 17,
+				"hp": 159.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 12.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 3,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "bridge_plated",
+				"focus_spent": 20,
+				"hp": 144.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 18.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "bridge_veiled",
+				"focus_spent": 17,
+				"hp": 150.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 14.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 3,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cloud_sentry",
+				"focus_spent": 41,
+				"hp": 78.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 39.0,
+				"skills": {
+					"flame": 5,
+					"river": 0,
+					"sword": 7,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_thorned",
+				"focus_spent": 14,
+				"hp": 123.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 10.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 2,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_warded",
+				"focus_spent": 17,
+				"hp": 150.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 14.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 3,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_channeler",
+				"focus_spent": 14,
+				"hp": 138.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 12.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 2,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_keeper",
+				"focus_spent": 31,
+				"hp": 46.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 27.0,
+				"skills": {
+					"flame": 4,
+					"river": 0,
+					"sword": 5,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_scout",
+				"focus_spent": 14,
+				"hp": 153.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 12.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 2,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_venomous",
+				"focus_spent": 14,
+				"hp": 135.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 12.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 2,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_healer",
+				"focus_spent": 17,
+				"hp": 144.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 16.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 3,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_guardian",
+				"focus_spent": 38,
+				"hp": 0.0,
+				"outcome": "defeat",
+				"reason": "Poison overcame your recovery. Try River Confluence or River Silk.",
+				"seconds": 36.0,
+				"skills": {
+					"flame": 5,
+					"river": 0,
+					"sword": 6,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_plated",
+				"focus_spent": 24,
+				"hp": 125.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 22.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_venomous",
+				"focus_spent": 17,
+				"hp": 132.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 12.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 3,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_channeler",
+				"focus_spent": 17,
+				"hp": 125.875,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 14.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 3,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_watcher",
+				"focus_spent": 24,
+				"hp": 0.0,
+				"outcome": "defeat",
+				"reason": "Burst damage broke through. Try Ward, Iron or armor.",
+				"seconds": 24.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_warded",
+				"focus_spent": 20,
+				"hp": 144.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 18.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_veiled",
+				"focus_spent": 20,
+				"hp": 139.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 18.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_healer",
+				"focus_spent": 17,
+				"hp": 139.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 18.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 3,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_warden",
+				"focus_spent": 48,
+				"hp": 62.375,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 45.0,
+				"skills": {
+					"flame": 6,
+					"river": 0,
+					"sword": 8,
+					"ward": 0
+				}
+			}
+		],
+		"guard": [
+			{
+				"enemy": "steps_scout",
+				"focus_spent": 14,
+				"hp": 162.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 13.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 2
+				}
+			},
+			{
+				"enemy": "steps_plated",
+				"focus_spent": 21,
+				"hp": 156.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 23.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 3
+				}
+			},
+			{
+				"enemy": "steps_channeler",
+				"focus_spent": 14,
+				"hp": 162.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 16.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 2
+				}
+			},
+			{
+				"enemy": "stone_guardian",
+				"focus_spent": 39,
+				"hp": 164.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 47.0,
+				"skills": {
+					"flame": 6,
+					"river": 0,
+					"sword": 0,
+					"ward": 5
+				}
+			},
+			{
+				"enemy": "bridge_warded",
+				"focus_spent": 14,
+				"hp": 159.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 20.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 2
+				}
+			},
+			{
+				"enemy": "bridge_plated",
+				"focus_spent": 21,
+				"hp": 156.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 23.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 3
+				}
+			},
+			{
+				"enemy": "bridge_veiled",
+				"focus_spent": 14,
+				"hp": 156.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 20.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 2
+				}
+			},
+			{
+				"enemy": "cloud_sentry",
+				"focus_spent": 39,
+				"hp": 126.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 50.0,
+				"skills": {
+					"flame": 6,
+					"river": 0,
+					"sword": 0,
+					"ward": 5
+				}
+			},
+			{
+				"enemy": "cleft_thorned",
+				"focus_spent": 14,
+				"hp": 150.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 15.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 2
+				}
+			},
+			{
+				"enemy": "cleft_warded",
+				"focus_spent": 21,
+				"hp": 156.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 22.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 3
+				}
+			},
+			{
+				"enemy": "cleft_channeler",
+				"focus_spent": 14,
+				"hp": 160.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 16.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 2
+				}
+			},
+			{
+				"enemy": "cleft_keeper",
+				"focus_spent": 28,
+				"hp": 118.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 36.0,
+				"skills": {
+					"flame": 4,
+					"river": 0,
+					"sword": 0,
+					"ward": 4
+				}
+			},
+			{
+				"enemy": "reed_scout",
+				"focus_spent": 14,
+				"hp": 158.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 16.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 2
+				}
+			},
+			{
+				"enemy": "reed_venomous",
+				"focus_spent": 14,
+				"hp": 146.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 16.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 2
+				}
+			},
+			{
+				"enemy": "reed_healer",
+				"focus_spent": 21,
+				"hp": 156.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 24.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 3
+				}
+			},
+			{
+				"enemy": "reed_guardian",
+				"focus_spent": 53,
+				"hp": 35.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 66.0,
+				"skills": {
+					"flame": 8,
+					"river": 0,
+					"sword": 0,
+					"ward": 7
+				}
+			},
+			{
+				"enemy": "ford_plated",
+				"focus_spent": 21,
+				"hp": 153.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 27.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 3
+				}
+			},
+			{
+				"enemy": "ford_venomous",
+				"focus_spent": 14,
+				"hp": 141.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 17.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 2
+				}
+			},
+			{
+				"enemy": "ford_channeler",
+				"focus_spent": 17,
+				"hp": 153.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 22.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 3
+				}
+			},
+			{
+				"enemy": "ford_watcher",
+				"focus_spent": 35,
+				"hp": 66.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 42.0,
+				"skills": {
+					"flame": 5,
+					"river": 0,
+					"sword": 0,
+					"ward": 5
+				}
+			},
+			{
+				"enemy": "lotus_warded",
+				"focus_spent": 21,
+				"hp": 156.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 27.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 3
+				}
+			},
+			{
+				"enemy": "lotus_veiled",
+				"focus_spent": 21,
+				"hp": 153.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 23.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 3
+				}
+			},
+			{
+				"enemy": "lotus_healer",
+				"focus_spent": 21,
+				"hp": 153.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 27.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 3
+				}
+			},
+			{
+				"enemy": "lotus_warden",
+				"focus_spent": 53,
+				"hp": 114.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 69.0,
+				"skills": {
+					"flame": 8,
+					"river": 0,
+					"sword": 0,
+					"ward": 7
+				}
+			}
+		],
+		"mixed": [
+			{
+				"enemy": "steps_scout",
+				"focus_spent": 8,
+				"hp": 166.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 12.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "steps_plated",
+				"focus_spent": 12,
+				"hp": 145.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 20.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "steps_channeler",
+				"focus_spent": 8,
+				"hp": 145.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 14.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "stone_guardian",
+				"focus_spent": 27,
+				"hp": 145.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 46.0,
+				"skills": {
+					"flame": 6,
+					"river": 1,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "bridge_warded",
+				"focus_spent": 12,
+				"hp": 151.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 20.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "bridge_plated",
+				"focus_spent": 12,
+				"hp": 145.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 20.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "bridge_veiled",
+				"focus_spent": 12,
+				"hp": 151.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 17.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cloud_sentry",
+				"focus_spent": 37,
+				"hp": 173.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 51.0,
+				"skills": {
+					"flame": 7,
+					"river": 3,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_thorned",
+				"focus_spent": 11,
+				"hp": 170.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 14.0,
+				"skills": {
+					"flame": 2,
+					"river": 1,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_warded",
+				"focus_spent": 12,
+				"hp": 139.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 22.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_channeler",
+				"focus_spent": 15,
+				"hp": 175.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 16.0,
+				"skills": {
+					"flame": 3,
+					"river": 1,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_keeper",
+				"focus_spent": 29,
+				"hp": 168.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 36.0,
+				"skills": {
+					"flame": 5,
+					"river": 3,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_scout",
+				"focus_spent": 8,
+				"hp": 146.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 16.0,
+				"skills": {
+					"flame": 2,
+					"river": 0,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_venomous",
+				"focus_spent": 14,
+				"hp": 175.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 16.0,
+				"skills": {
+					"flame": 2,
+					"river": 2,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_healer",
+				"focus_spent": 12,
+				"hp": 139.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 22.0,
+				"skills": {
+					"flame": 3,
+					"river": 0,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_guardian",
+				"focus_spent": 57,
+				"hp": 158.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 72.0,
+				"skills": {
+					"flame": 9,
+					"river": 7,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_plated",
+				"focus_spent": 19,
+				"hp": 167.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 25.0,
+				"skills": {
+					"flame": 4,
+					"river": 1,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_venomous",
+				"focus_spent": 14,
+				"hp": 171.75,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 18.0,
+				"skills": {
+					"flame": 2,
+					"river": 2,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_channeler",
+				"focus_spent": 15,
+				"hp": 160.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 19.0,
+				"skills": {
+					"flame": 3,
+					"river": 1,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_watcher",
+				"focus_spent": 32,
+				"hp": 57.6875,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 42.0,
+				"skills": {
+					"flame": 5,
+					"river": 4,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_warded",
+				"focus_spent": 19,
+				"hp": 175.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 26.0,
+				"skills": {
+					"flame": 4,
+					"river": 1,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_veiled",
+				"focus_spent": 15,
+				"hp": 174.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 22.0,
+				"skills": {
+					"flame": 3,
+					"river": 1,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_healer",
+				"focus_spent": 19,
+				"hp": 174.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 24.0,
+				"skills": {
+					"flame": 4,
+					"river": 1,
+					"sword": 0,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_warden",
+				"focus_spent": 48,
+				"hp": 157.25,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 70.0,
+				"skills": {
+					"flame": 9,
+					"river": 4,
+					"sword": 0,
+					"ward": 0
+				}
+			}
+		],
+		"naive": [
+			{
+				"enemy": "steps_scout",
+				"focus_spent": 9,
+				"hp": 95.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 16.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 3,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "steps_plated",
+				"focus_spent": 27,
+				"hp": 18.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 52.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 9,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "steps_channeler",
+				"focus_spent": 12,
+				"hp": 74.5,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 20.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "stone_guardian",
+				"focus_spent": 36,
+				"hp": 0.0,
+				"outcome": "defeat",
+				"reason": "Burst damage broke through. Try Ward, Iron or armor.",
+				"seconds": 70.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 12,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "bridge_warded",
+				"focus_spent": 15,
+				"hp": 85.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 24.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 5,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "bridge_plated",
+				"focus_spent": 27,
+				"hp": 18.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 54.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 9,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "bridge_veiled",
+				"focus_spent": 15,
+				"hp": 66.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 28.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 5,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cloud_sentry",
+				"focus_spent": 24,
+				"hp": 0.0,
+				"outcome": "defeat",
+				"reason": "Incoming damage exceeded your recovery.",
+				"seconds": 45.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 8,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_thorned",
+				"focus_spent": 12,
+				"hp": 44.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 18.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_warded",
+				"focus_spent": 15,
+				"hp": 72.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 26.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 5,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_channeler",
+				"focus_spent": 12,
+				"hp": 42.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 24.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "cleft_keeper",
+				"focus_spent": 15,
+				"hp": 0.0,
+				"outcome": "defeat",
+				"reason": "Incoming damage exceeded your recovery.",
+				"seconds": 27.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 5,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_scout",
+				"focus_spent": 12,
+				"hp": 71.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 22.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_venomous",
+				"focus_spent": 12,
+				"hp": 35.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 22.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_healer",
+				"focus_spent": 21,
+				"hp": 54.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 36.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 7,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "reed_guardian",
+				"focus_spent": 15,
+				"hp": 0.0,
+				"outcome": "defeat",
+				"reason": "Poison overcame your recovery. Try River Confluence or River Silk.",
+				"seconds": 25.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 5,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_plated",
+				"focus_spent": 30,
+				"hp": 0.0,
+				"outcome": "defeat",
+				"reason": "Incoming damage exceeded your recovery.",
+				"seconds": 54.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 10,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_venomous",
+				"focus_spent": 12,
+				"hp": 22.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 24.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_channeler",
+				"focus_spent": 15,
+				"hp": 16.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 30.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 5,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "ford_watcher",
+				"focus_spent": 12,
+				"hp": 0.0,
+				"outcome": "defeat",
+				"reason": "Burst damage broke through. Try Ward, Iron or armor.",
+				"seconds": 18.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 4,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_warded",
+				"focus_spent": 18,
+				"hp": 66.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 30.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 6,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_veiled",
+				"focus_spent": 21,
+				"hp": 43.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 36.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 7,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_healer",
+				"focus_spent": 21,
+				"hp": 29.0,
+				"outcome": "win",
+				"reason": "Guardian overcome.",
+				"seconds": 42.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 7,
+					"ward": 0
+				}
+			},
+			{
+				"enemy": "lotus_warden",
+				"focus_spent": 24,
+				"hp": 0.0,
+				"outcome": "defeat",
+				"reason": "Incoming damage exceeded your recovery.",
+				"seconds": 45.0,
+				"skills": {
+					"flame": 0,
+					"river": 0,
+					"sword": 8,
+					"ward": 0
+				}
+			}
+		]
+	},
+	"trials": {
+		"burst_trial": [
+			{
+				"blocked": 0.0,
+				"bursts": 3,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 77.375,
+						"outcome": "defeat",
+						"seconds": 30.0
+					}
+				],
+				"hp": 77.375,
+				"outcome": "defeat",
+				"policy": "focus",
+				"reason": "Endure three bursts, shield at least one and retain 25% HP.",
+				"seconds": 30.0
+			},
+			{
+				"blocked": 29.0,
+				"bursts": 3,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 126.75,
+						"outcome": "win",
+						"seconds": 30.0
+					}
+				],
+				"hp": 126.75,
+				"outcome": "win",
+				"policy": "guard",
+				"reason": "Endure three bursts, shield at least one and retain 25% HP.",
+				"seconds": 30.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 3,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 168.5625,
+						"outcome": "defeat",
+						"seconds": 30.0
+					}
+				],
+				"hp": 168.5625,
+				"outcome": "defeat",
+				"policy": "mixed",
+				"reason": "Endure three bursts, shield at least one and retain 25% HP.",
+				"seconds": 30.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 3,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 23.0,
+						"outcome": "defeat",
+						"seconds": 30.0
+					}
+				],
+				"hp": 23.0,
+				"outcome": "defeat",
+				"policy": "naive",
+				"reason": "Endure three bursts, shield at least one and retain 25% HP.",
+				"seconds": 30.0
+			}
+		],
+		"focus_trial": [
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 139.375,
+						"outcome": "win",
+						"seconds": 24.0
+					}
+				],
+				"hp": 139.375,
+				"outcome": "win",
+				"policy": "focus",
+				"reason": "Guardian overcome.",
+				"seconds": 24.0
+			},
+			{
+				"blocked": 9.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 150.75,
+						"outcome": "win",
+						"seconds": 30.0
+					}
+				],
+				"hp": 150.75,
+				"outcome": "win",
+				"policy": "guard",
+				"reason": "Guardian overcome.",
+				"seconds": 30.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 156.25,
+						"outcome": "win",
+						"seconds": 18.0
+					}
+				],
+				"hp": 156.25,
+				"outcome": "win",
+				"policy": "mixed",
+				"reason": "Guardian overcome.",
+				"seconds": 18.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 55.0,
+						"outcome": "win",
+						"seconds": 42.0
+					}
+				],
+				"hp": 55.0,
+				"outcome": "win",
+				"policy": "naive",
+				"reason": "Guardian overcome.",
+				"seconds": 42.0
+			}
+		],
+		"mixed_trial": [
+			{
+				"blocked": 0.0,
+				"bursts": 1,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 144.375,
+						"outcome": "win",
+						"seconds": 18.0
+					},
+					{
+						"hp": 126.375,
+						"outcome": "win",
+						"seconds": 12.0
+					},
+					{
+						"hp": 123.975,
+						"outcome": "win",
+						"seconds": 18.0
+					}
+				],
+				"hp": 123.975,
+				"outcome": "win",
+				"policy": "focus",
+				"reason": "Guardian overcome.",
+				"seconds": 48.0
+			},
+			{
+				"blocked": 56.8,
+				"bursts": 2,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 156.75,
+						"outcome": "win",
+						"seconds": 27.0
+					},
+					{
+						"hp": 136.75,
+						"outcome": "win",
+						"seconds": 17.0
+					},
+					{
+						"hp": 156.75,
+						"outcome": "win",
+						"seconds": 25.0
+					}
+				],
+				"hp": 156.75,
+				"outcome": "win",
+				"policy": "guard",
+				"reason": "Guardian overcome.",
+				"seconds": 69.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 2,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 175.25,
+						"outcome": "win",
+						"seconds": 26.0
+					},
+					{
+						"hp": 171.25,
+						"outcome": "win",
+						"seconds": 18.0
+					},
+					{
+						"hp": 175.25,
+						"outcome": "win",
+						"seconds": 24.0
+					}
+				],
+				"hp": 175.25,
+				"outcome": "win",
+				"policy": "mixed",
+				"reason": "Guardian overcome.",
+				"seconds": 68.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 3,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 66.0,
+						"outcome": "win",
+						"seconds": 30.0
+					},
+					{
+						"hp": 8.0,
+						"outcome": "win",
+						"seconds": 24.0
+					},
+					{
+						"hp": 0.0,
+						"outcome": "defeat",
+						"seconds": 30.0
+					}
+				],
+				"hp": 0.0,
+				"outcome": "defeat",
+				"policy": "naive",
+				"reason": "Burst damage broke through. Try Ward, Iron or armor.",
+				"seconds": 84.0
+			}
+		],
+		"poison_trial": [
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 36.375,
+						"outcome": "defeat",
+						"seconds": 30.0
+					}
+				],
+				"hp": 36.375,
+				"outcome": "defeat",
+				"policy": "focus",
+				"reason": "Cleanse twice and survive 30 seconds.",
+				"seconds": 30.0
+			},
+			{
+				"blocked": 54.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 104.75,
+						"outcome": "defeat",
+						"seconds": 30.0
+					}
+				],
+				"hp": 104.75,
+				"outcome": "defeat",
+				"policy": "guard",
+				"reason": "Cleanse twice and survive 30 seconds.",
+				"seconds": 30.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 3,
+				"encounters": [
+					{
+						"hp": 160.25,
+						"outcome": "win",
+						"seconds": 30.0
+					}
+				],
+				"hp": 160.25,
+				"outcome": "win",
+				"policy": "mixed",
+				"reason": "Cleanse twice and survive 30 seconds.",
+				"seconds": 30.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 0.0,
+						"outcome": "defeat",
+						"seconds": 27.0
+					}
+				],
+				"hp": 0.0,
+				"outcome": "defeat",
+				"policy": "naive",
+				"reason": "Poison overcame your recovery. Try River Confluence or River Silk.",
+				"seconds": 27.0
+			}
+		],
+		"reflection_trial": [
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 124.375,
+						"outcome": "win",
+						"seconds": 18.0
+					}
+				],
+				"hp": 124.375,
+				"outcome": "win",
+				"policy": "focus",
+				"reason": "Guardian overcome.",
+				"seconds": 18.0
+			},
+			{
+				"blocked": 26.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 155.75,
+						"outcome": "win",
+						"seconds": 39.0
+					}
+				],
+				"hp": 155.75,
+				"outcome": "win",
+				"policy": "guard",
+				"reason": "Guardian overcome.",
+				"seconds": 39.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 148.25,
+						"outcome": "win",
+						"seconds": 40.0
+					}
+				],
+				"hp": 148.25,
+				"outcome": "win",
+				"policy": "mixed",
+				"reason": "Guardian overcome.",
+				"seconds": 40.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 44.0,
+						"outcome": "defeat",
+						"seconds": 30.0
+					}
+				],
+				"hp": 44.0,
+				"outcome": "defeat",
+				"policy": "naive",
+				"reason": "Reflected damage exceeded 30. Use damage over time.",
+				"seconds": 30.0
+			}
+		],
+		"ward_trial": [
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 132.375,
+						"outcome": "win",
+						"seconds": 24.0
+					}
+				],
+				"hp": 132.375,
+				"outcome": "win",
+				"policy": "focus",
+				"reason": "Guardian overcome.",
+				"seconds": 24.0
+			},
+			{
+				"blocked": 28.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 152.75,
+						"outcome": "win",
+						"seconds": 35.0
+					}
+				],
+				"hp": 152.75,
+				"outcome": "win",
+				"policy": "guard",
+				"reason": "Guardian overcome.",
+				"seconds": 35.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 157.25,
+						"outcome": "win",
+						"seconds": 35.0
+					}
+				],
+				"hp": 157.25,
+				"outcome": "win",
+				"policy": "mixed",
+				"reason": "Guardian overcome.",
+				"seconds": 35.0
+			},
+			{
+				"blocked": 0.0,
+				"bursts": 0,
+				"cleanses": 0,
+				"encounters": [
+					{
+						"hp": 42.0,
+						"outcome": "win",
+						"seconds": 42.0
+					}
+				],
+				"hp": 42.0,
+				"outcome": "win",
+				"policy": "naive",
+				"reason": "Guardian overcome.",
+				"seconds": 42.0
+			}
+		]
+	}
+}

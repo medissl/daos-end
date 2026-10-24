@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-24",
+  "results": [
+    {
+      "suite": "original progression",
+      "checks": 73,
+      "failures": 0,
+      "log": "verification/jade-core-final.log"
+    },
+    {
+      "suite": "milestone two compatibility",
+      "checks": 96,
+      "failures": 0,
+      "log": "verification/jade-m2-final.log"
+    },
+    {
+      "suite": "chapter rules and saves",
+      "checks": 190,
+      "failures": 0,
+      "log": "verification/jade-tests.log"
+    },
+    {
+      "suite": "audio lifecycle",
+      "checks": 15,
+      "failures": 0,
+      "log": "verification/jade-audio.log"
+    },
+    {
+      "suite": "native rendered text/control bounds",
+      "checks": 6789,
+      "failures": 0,
+      "log": "verification/jade-ui.log"
+    },
+    {
+      "suite": "BROWSER_RESULTS.json",
+      "completed": true,
+      "captured_errors": []
+    },
+    {
+      "suite": "NORMAL_BROWSER_RESULTS.json",
+      "completed": true,
+      "captured_errors": []
+    },
+    {
+      "suite": "COMPARISON_BROWSER_RESULTS.json",
+      "completed": true,
+      "captured_errors": []
+    },
+    {
+      "suite": "RETINA_BROWSER_RESULTS.json",
+      "completed": true,
+      "captured_errors": []
+    },
+    {
+      "suite": "DENSITY_2_BROWSER_RESULTS.json",
+      "completed": true,
+      "captured_errors": []
+    },
+    {
+      "suite": "DENSITY_2.625_BROWSER_RESULTS.json",
+      "completed": true,
+      "captured_errors": []
+    },
+    {
+      "suite": "Mobile presentation scope",
+      "unchanged_logic_files": 8,
+      "evidence": "MOBILE_LOGIC_PRESERVATION.json"
+    }
+  ],
+  "scope": "Mobile-first interface and revision-two audio: rendered Windows bounds at 320x640, 390x844, 430x932 and 1280x800. Full four-size flow/audio preceded the final short Arts heading, above-fold Camp and density correction. Final standard-density comparison, DPR 3 mobile touch and ordinary-speed 390px route/Core Trial cover the final export. Dedicated DPR 2 and 2.625 contexts verify actual density and live 320/430/390px resizing; exploratory overrides that stayed at DPR 3 are explicitly not accepted as evidence. The before-fix high-density failure is archived separately. Fixtures are labeled. No physical device or headphone listening claim."
+}

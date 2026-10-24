@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "name": "PCM before-gesture",
+      "seconds": 14.014,
+      "rms": 0,
+      "peak": 0,
+      "samples": 98304,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "Retina touch equip 320x640",
+      "seconds": 30.557,
+      "realm": "Foundation Establishment",
+      "qi": 100095.6753986971,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS high-density phone",
+      "seconds": 32.543,
+      "key": "320x640",
+      "devicePixelRatio": 3,
+      "innerWidth": 320,
+      "innerHeight": 640,
+      "canvasWidth": 960,
+      "canvasHeight": 1920
+    },
+    {
+      "name": "Retina touch equip 390x844",
+      "seconds": 44.682,
+      "realm": "Foundation Establishment",
+      "qi": 100114.63659788771,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS high-density phone",
+      "seconds": 47.165,
+      "key": "390x844",
+      "devicePixelRatio": 3,
+      "innerWidth": 390,
+      "innerHeight": 844,
+      "canvasWidth": 1170,
+      "canvasHeight": 2532
+    },
+    {
+      "name": "Retina touch equip 430x932",
+      "seconds": 59.852,
+      "realm": "Foundation Establishment",
+      "qi": 100120.4222491906,
+      "herbs": 105,
+      "journey": "complete",
+      "node": 1
+    },
+    {
+      "name": "PASS high-density phone",
+      "seconds": 62.307,
+      "key": "430x932",
+      "devicePixelRatio": 3,
+      "innerWidth": 430,
+      "innerHeight": 932,
+      "canvasWidth": 1290,
+      "canvasHeight": 2796
+    },
+    {
+      "name": "Rendered performance sample",
+      "seconds": 64.302,
+      "medianFrameMs": 16.69999999999891,
+      "p95FrameMs": 16.799999999999272,
+      "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "scope": "120 headless browser animation frames, not a mobile-device benchmark"
+    },
+    {
+      "name": "PASS",
+      "seconds": 64.305,
+      "mode": "high-density mobile browser, DPR 3"
+    }
+  ],
+  "errors": [],
+  "completed": true
+}

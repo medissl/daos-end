@@ -1,0 +1,42 @@
+[
+  {
+    "id": "progress-end-left",
+    "source": "assets/ui/progress-track.png",
+    "crop": [
+      0,
+      0,
+      48,
+      47
+    ],
+    "runtime": "assets/ui/progress-end-left.png",
+    "dimensions": [
+      48,
+      47
+    ],
+    "display": [
+      10,
+      10
+    ],
+    "sha256": "74b3b241f9c0827a2871c25787eb6d1f4a8944fdd275750e790e995f5c4e2435"
+  },
+  {
+    "id": "progress-end-right",
+    "source": "assets/ui/progress-track.png",
+    "crop": [
+      720,
+      0,
+      768,
+      47
+    ],
+    "runtime": "assets/ui/progress-end-right.png",
+    "dimensions": [
+      48,
+      47
+    ],
+    "display": [
+      10,
+      10
+    ],
+    "sha256": "85c483ef723a1841d35cc85abef0928d15ecffe7a0a0e8792124a7560bc4e857"
+  }
+]

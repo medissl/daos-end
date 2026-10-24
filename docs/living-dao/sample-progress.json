@@ -1,0 +1,43 @@
+{
+  "events": [
+    {
+      "name": "PASS continuous discovery, requested camp, one-sheet free equip, continue",
+      "key": "320x640",
+      "taps": 8,
+      "scrolls": 0,
+      "seconds": 90.227,
+      "fixture": "Foundation entry; actual ordinary-speed first two encounters",
+      "performance": {
+        "samples": 4094,
+        "p50": 16.69999999999709,
+        "p95": 16.799999999995634,
+        "p99": 16.80000000000291,
+        "worst": 295.3000000000029,
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "jsHeap": 28745602
+      }
+    },
+    {
+      "name": "PASS continuous discovery, requested camp, one-sheet free equip, continue",
+      "key": "430x932",
+      "taps": 8,
+      "scrolls": 0,
+      "seconds": 91.153,
+      "fixture": "Foundation entry; actual ordinary-speed first two encounters",
+      "performance": {
+        "samples": 4196,
+        "p50": 16.69999999999709,
+        "p95": 16.80000000000291,
+        "p99": 17,
+        "worst": 133.1999999999971,
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "jsHeap": 28245913
+      }
+    },
+    {
+      "name": "PASS",
+      "phase": "sample"
+    }
+  ],
+  "errors": []
+}

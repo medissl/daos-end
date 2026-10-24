@@ -1,0 +1,604 @@
+{
+  "events": [
+    {
+      "name": "fresh ordinary-speed start",
+      "seconds": 7.079,
+      "herbs": 0,
+      "levels": {
+        "breathing": 0,
+        "meridian": 0,
+        "mind": 0
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "none",
+      "qi": 0.109,
+      "rate": 1,
+      "realm": "Mortal",
+      "repeat": true,
+      "saved_at": 1792731221.492,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "afford breathing",
+      "seconds": 35.266,
+      "qi": 30.015,
+      "herbs": 0,
+      "realm": "Mortal",
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "purchase breathing",
+      "seconds": 37.244,
+      "herbs": 0,
+      "levels": {
+        "breathing": 1,
+        "meridian": 0,
+        "mind": 0
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "none",
+      "qi": 5.313,
+      "rate": 2,
+      "realm": "Mortal",
+      "repeat": true,
+      "saved_at": 1792731251.696,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "afford breathing",
+      "seconds": 67.396,
+      "qi": 65.357,
+      "herbs": 0,
+      "realm": "Mortal",
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "purchase breathing",
+      "seconds": 69.394,
+      "herbs": 0,
+      "levels": {
+        "breathing": 2,
+        "meridian": 0,
+        "mind": 0
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "none",
+      "qi": 9.589,
+      "rate": 3,
+      "realm": "Mortal",
+      "repeat": true,
+      "saved_at": 1792731283.834,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "afford meridian",
+      "seconds": 109.558,
+      "qi": 129.685,
+      "herbs": 0,
+      "realm": "Mortal",
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "purchase meridian",
+      "seconds": 111.542,
+      "herbs": 0,
+      "levels": {
+        "breathing": 2,
+        "meridian": 1,
+        "mind": 0
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "none",
+      "qi": 16.0779999999995,
+      "rate": 3.75,
+      "realm": "Mortal",
+      "repeat": true,
+      "saved_at": 1792731325.996,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "afford breathing",
+      "seconds": 151.799,
+      "qi": 166.265499999997,
+      "herbs": 0,
+      "realm": "Mortal",
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "purchase breathing",
+      "seconds": 153.808,
+      "herbs": 0,
+      "levels": {
+        "breathing": 3,
+        "meridian": 1,
+        "mind": 0
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "none",
+      "qi": 30.5304999999973,
+      "rate": 5,
+      "realm": "Mortal",
+      "repeat": true,
+      "saved_at": 1792731368.251,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "afford mind",
+      "seconds": 194.082,
+      "qi": 230.840499999997,
+      "herbs": 0,
+      "realm": "Mortal",
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "purchase mind",
+      "seconds": 196.072,
+      "herbs": 0,
+      "levels": {
+        "breathing": 3,
+        "meridian": 1,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "none",
+      "qi": 41.8854999999973,
+      "rate": 5,
+      "realm": "Mortal",
+      "repeat": true,
+      "saved_at": 1792731410.522,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "afford breathing",
+      "seconds": 264.437,
+      "qi": 391.755499999999,
+      "herbs": 0,
+      "realm": "Mortal",
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "purchase breathing",
+      "seconds": 266.425,
+      "herbs": 0,
+      "levels": {
+        "breathing": 4,
+        "meridian": 1,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "none",
+      "qi": 47.6554999999986,
+      "rate": 6.25,
+      "realm": "Mortal",
+      "repeat": true,
+      "saved_at": 1792731480.876,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "afford meridian",
+      "seconds": 334.791,
+      "qi": 484.874250000038,
+      "herbs": 0,
+      "realm": "Mortal",
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "purchase meridian",
+      "seconds": 336.773,
+      "herbs": 0,
+      "levels": {
+        "breathing": 4,
+        "meridian": 2,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "none",
+      "qi": 7.35550000003803,
+      "rate": 7.5,
+      "realm": "Mortal",
+      "repeat": true,
+      "saved_at": 1792731551.228,
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "version": 2
+    },
+    {
+      "name": "Mortal requirement",
+      "seconds": 445.492,
+      "qi": 832.512999999946,
+      "herbs": 0,
+      "realm": "Mortal",
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "queued method and stop committed",
+      "seconds": 457.443,
+      "herbs": 0,
+      "levels": {
+        "breathing": 4,
+        "meridian": 2,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      },
+      "pending_primary": "azure",
+      "prepared": false,
+      "primary": "iron",
+      "qi": 189.037999999945,
+      "rate": 15,
+      "realm": "Qi Refining",
+      "repeat": false,
+      "saved_at": 1792731671.89,
+      "trip": {
+        "active": true,
+        "azure": 0,
+        "elapsed": 4.27999999999997,
+        "iron": 2,
+        "primary": "iron"
+      },
+      "version": 2
+    },
+    {
+      "name": "first ordinary 120-second trip",
+      "seconds": 576.026,
+      "qi": 2000.68999999992,
+      "herbs": 6,
+      "realm": "Qi Refining",
+      "trip": {
+        "active": false,
+        "azure": 0,
+        "elapsed": 0,
+        "iron": 0,
+        "primary": "none"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "second ordinary trip",
+      "seconds": 700.381,
+      "qi": 4240.68199999977,
+      "herbs": 10,
+      "realm": "Qi Refining",
+      "trip": {
+        "active": true,
+        "azure": 0.2,
+        "elapsed": 0.122999999999934,
+        "iron": 0,
+        "primary": "azure"
+      },
+      "mastery": {
+        "azure": 0,
+        "iron": 0
+      }
+    },
+    {
+      "name": "gather preparation herbs",
+      "seconds": 943.923,
+      "qi": 8247.18800000205,
+      "herbs": 12,
+      "realm": "Qi Refining",
+      "trip": {
+        "active": true,
+        "azure": 0,
+        "elapsed": 3.24799999999993,
+        "iron": 2,
+        "primary": "iron"
+      },
+      "mastery": {
+        "azure": 1,
+        "iron": 0
+      }
+    },
+    {
+      "name": "ordinary Foundation requirements",
+      "seconds": 1187.121,
+      "qi": 11892.0680000056,
+      "herbs": 12,
+      "realm": "Qi Refining",
+      "trip": {
+        "active": true,
+        "azure": 0,
+        "elapsed": 6.24000000000001,
+        "iron": 2,
+        "primary": "iron"
+      },
+      "mastery": {
+        "azure": 1,
+        "iron": 0
+      }
+    },
+    {
+      "name": "ordinary Foundation breakthrough",
+      "seconds": 1188.851,
+      "herbs": 0,
+      "levels": {
+        "breathing": 4,
+        "meridian": 2,
+        "mind": 1
+      },
+      "mastery": {
+        "azure": 1,
+        "iron": 0
+      },
+      "pending_primary": "",
+      "prepared": false,
+      "primary": "iron",
+      "qi": 4905.70300000561,
+      "rate": 30,
+      "realm": "Foundation Establishment",
+      "repeat": true,
+      "saved_at": 1792732403.293,
+      "trip": {
+        "active": true,
+        "azure": 0,
+        "elapsed": 7.14799999999991,
+        "iron": 2,
+        "primary": "iron"
+      },
+      "version": 2
+    },
+    {
+      "name": "resonance on next departure",
+      "seconds": 1307.461,
+      "qi": 8542.63000000632,
+      "herbs": 6,
+      "realm": "Foundation Establishment",
+      "trip": {
+        "active": true,
+        "azure": 0.15,
+        "elapsed": 7.28600000000006,
+        "iron": 2,
+        "primary": "iron"
+      },
+      "mastery": {
+        "azure": 1,
+        "iron": 0
+      }
+    },
+    {
+      "name": "real twelve-second absence reload",
+      "seconds": 1327.1,
+      "before": {
+        "herbs": 6,
+        "levels": {
+          "breathing": 4,
+          "meridian": 2,
+          "mind": 1
+        },
+        "mastery": {
+          "azure": 1,
+          "iron": 0
+        },
+        "pending_primary": "",
+        "prepared": false,
+        "primary": "iron",
+        "qi": 8542.63000000632,
+        "rate": 34.5,
+        "realm": "Foundation Establishment",
+        "repeat": true,
+        "saved_at": 1792732523.43,
+        "trip": {
+          "active": true,
+          "azure": 0.15,
+          "elapsed": 7.28600000000006,
+          "iron": 2,
+          "primary": "iron"
+        },
+        "version": 2
+      },
+      "after": {
+        "herbs": 6,
+        "levels": {
+          "breathing": 4,
+          "meridian": 2,
+          "mind": 1
+        },
+        "mastery": {
+          "azure": 1,
+          "iron": 0
+        },
+        "pending_primary": "",
+        "prepared": false,
+        "primary": "iron",
+        "qi": 9166.90750138819,
+        "rate": 34.5,
+        "realm": "Foundation Establishment",
+        "repeat": true,
+        "saved_at": 1792732541.528,
+        "trip": {
+          "active": true,
+          "azure": 0.15,
+          "elapsed": 25.3810000400544,
+          "iron": 2,
+          "primary": "iron"
+        },
+        "version": 2
+      }
+    },
+    {
+      "name": "PASS",
+      "seconds": 1327.391,
+      "mode": "ordinary-speed fresh journey"
+    }
+  ],
+  "errors": []
+}

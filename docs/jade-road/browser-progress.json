@@ -1,0 +1,197 @@
+{
+  "events": [
+    {
+      "name": "PCM before-gesture",
+      "seconds": 18.841,
+      "rms": 0,
+      "peak": 0,
+      "samples": 94208,
+      "sampleRate": 48000,
+      "contexts": [
+        "running"
+      ],
+      "connections": 2,
+      "sources": [
+        "GainNode",
+        "AudioWorkletNode"
+      ]
+    },
+    {
+      "name": "Matched legacy fixture migrated 320x640",
+      "seconds": 26.692,
+      "realm": "Foundation Establishment",
+      "qi": 2461.1363982891085,
+      "herbs": 12,
+      "journey": "idle",
+      "node": 0
+    },
+    {
+      "name": "PASS comparison",
+      "seconds": 26.905,
+      "key": "320x640",
+      "fixture": "Same v2 Foundation entry: 2400 Qi, 8 herbs, Azure M1, practices 4/2/1; migration credits 4 herbs"
+    },
+    {
+      "name": "PASS purchase drag cancellation",
+      "seconds": 33.649,
+      "key": "320x640"
+    },
+    {
+      "name": "Above-fold Camp queued 320x640",
+      "seconds": 38.505,
+      "realm": "Foundation Establishment",
+      "qi": 100144.41700094764,
+      "herbs": 105,
+      "journey": "battle",
+      "node": 0
+    },
+    {
+      "name": "PASS final visual review",
+      "seconds": 46.352,
+      "key": "320x640",
+      "views": [
+        "matched Foundation",
+        "combat meter caps",
+        "Golden Core badge",
+        "Menu",
+        "Help",
+        "Credits"
+      ]
+    },
+    {
+      "name": "Matched legacy fixture migrated 390x844",
+      "seconds": 50.228,
+      "realm": "Foundation Establishment",
+      "qi": 2481.5178023059843,
+      "herbs": 12,
+      "journey": "idle",
+      "node": 0
+    },
+    {
+      "name": "PASS comparison",
+      "seconds": 50.518,
+      "key": "390x844",
+      "fixture": "Same v2 Foundation entry: 2400 Qi, 8 herbs, Azure M1, practices 4/2/1; migration credits 4 herbs"
+    },
+    {
+      "name": "PASS purchase drag cancellation",
+      "seconds": 59.473,
+      "key": "390x844"
+    },
+    {
+      "name": "Above-fold Camp queued 390x844",
+      "seconds": 64.82,
+      "realm": "Foundation Establishment",
+      "qi": 100176.72970082896,
+      "herbs": 105,
+      "journey": "battle",
+      "node": 0
+    },
+    {
+      "name": "PASS final visual review",
+      "seconds": 73.709,
+      "key": "390x844",
+      "views": [
+        "matched Foundation",
+        "combat meter caps",
+        "Golden Core badge",
+        "Menu",
+        "Help",
+        "Credits"
+      ]
+    },
+    {
+      "name": "Matched legacy fixture migrated 430x932",
+      "seconds": 77.48,
+      "realm": "Foundation Establishment",
+      "qi": 2476.451698586655,
+      "herbs": 12,
+      "journey": "idle",
+      "node": 0
+    },
+    {
+      "name": "PASS comparison",
+      "seconds": 77.837,
+      "key": "430x932",
+      "fixture": "Same v2 Foundation entry: 2400 Qi, 8 herbs, Azure M1, practices 4/2/1; migration credits 4 herbs"
+    },
+    {
+      "name": "PASS purchase drag cancellation",
+      "seconds": 87.434,
+      "key": "430x932"
+    },
+    {
+      "name": "Above-fold Camp queued 430x932",
+      "seconds": 92.533,
+      "realm": "Foundation Establishment",
+      "qi": 100180.479848934,
+      "herbs": 105,
+      "journey": "battle",
+      "node": 0
+    },
+    {
+      "name": "PASS final visual review",
+      "seconds": 104.714,
+      "key": "430x932",
+      "views": [
+        "matched Foundation",
+        "combat meter caps",
+        "Golden Core badge",
+        "Menu",
+        "Help",
+        "Credits"
+      ]
+    },
+    {
+      "name": "Matched legacy fixture migrated 1280x800",
+      "seconds": 110.517,
+      "realm": "Foundation Establishment",
+      "qi": 2544.6665991817476,
+      "herbs": 12,
+      "journey": "idle",
+      "node": 0
+    },
+    {
+      "name": "PASS comparison",
+      "seconds": 111.281,
+      "key": "1280x800",
+      "fixture": "Same v2 Foundation entry: 2400 Qi, 8 herbs, Azure M1, practices 4/2/1; migration credits 4 herbs"
+    },
+    {
+      "name": "Above-fold Camp queued 1280x800",
+      "seconds": 120.769,
+      "realm": "Foundation Establishment",
+      "qi": 100140.4219009279,
+      "herbs": 105,
+      "journey": "battle",
+      "node": 0
+    },
+    {
+      "name": "PASS final visual review",
+      "seconds": 132.575,
+      "key": "1280x800",
+      "views": [
+        "matched Foundation",
+        "combat meter caps",
+        "Golden Core badge",
+        "Menu",
+        "Help",
+        "Credits"
+      ]
+    },
+    {
+      "name": "Rendered performance sample",
+      "seconds": 134.579,
+      "medianFrameMs": 16.69999999999891,
+      "p95FrameMs": 16.799999999999272,
+      "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "scope": "120 headless browser animation frames, not a mobile-device benchmark"
+    },
+    {
+      "name": "PASS",
+      "seconds": 134.581,
+      "mode": "matched legacy Foundation screenshots"
+    }
+  ],
+  "errors": []
+}

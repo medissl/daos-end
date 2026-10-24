@@ -1,0 +1,52 @@
+{
+  "result": "PASS",
+  "viewports": [
+    "320x640",
+    "430x932",
+    "1280x800"
+  ],
+  "advanced": {
+    "levels": {
+      "breathing": 1,
+      "meridian": 1,
+      "mind": 1
+    },
+    "qi": 1668.37959991613,
+    "rate": 5,
+    "realm": "Qi Refining",
+    "saved_at": 1792728180.511,
+    "version": 1
+  },
+  "offline": {
+    "levels": {
+      "breathing": 1,
+      "meridian": 1,
+      "mind": 0
+    },
+    "qi": 72042.06475,
+    "rate": 2.5,
+    "realm": "Mortal",
+    "saved_at": 1792728189.691,
+    "version": 1
+  },
+  "frameTiming": {
+    "samples": 181,
+    "medianMs": 16.69999999999891,
+    "p95Ms": 16.80000000000109,
+    "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+  },
+  "recovery": true,
+  "touchPurchase": {
+    "levels": {
+      "breathing": 0,
+      "meridian": 0,
+      "mind": 1
+    },
+    "qi": 4805.40649991227,
+    "rate": 1,
+    "realm": "Mortal",
+    "saved_at": 1792728206.21,
+    "version": 1
+  },
+  "errors": []
+}

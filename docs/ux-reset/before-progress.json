@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "name": "BASELINE route → battle → camp → equip → continue",
+      "key": "320x640",
+      "taps": 9,
+      "scrolls": 4,
+      "departScroll": 258,
+      "continueScroll": 217,
+      "seconds": 48.151,
+      "fixture": "Foundation entry, no gear/history; actual first battle, no accelerated clock"
+    },
+    {
+      "name": "BASELINE route → battle → camp → equip → continue",
+      "key": "390x844",
+      "taps": 9,
+      "scrolls": 4,
+      "departScroll": 164,
+      "continueScroll": 150,
+      "seconds": 30.668,
+      "fixture": "Foundation entry, no gear/history; actual first battle, no accelerated clock"
+    },
+    {
+      "name": "BASELINE route → battle → camp → equip → continue",
+      "key": "430x932",
+      "taps": 9,
+      "scrolls": 4,
+      "departScroll": 164,
+      "continueScroll": 150,
+      "seconds": 31.502,
+      "fixture": "Foundation entry, no gear/history; actual first battle, no accelerated clock"
+    },
+    {
+      "name": "BASELINE route → battle → camp → equip → continue",
+      "key": "1280x800",
+      "taps": 9,
+      "scrolls": 4,
+      "departScroll": 96,
+      "continueScroll": 82,
+      "seconds": 32.305,
+      "fixture": "Foundation entry, no gear/history; actual first battle, no accelerated clock"
+    },
+    {
+      "name": "PASS",
+      "phase": "before"
+    }
+  ],
+  "errors": []
+}
