@@ -10,9 +10,9 @@ subjective audio listening and uncoached human testing remain release gates.
 [Download Android ARM64](https://github.com/medissl/daos-end/releases/download/v0.4.0-rc.1/daos-end-living-dao-arm64.apk) ·
 [Release notes](https://github.com/medissl/daos-end/releases/tag/v0.4.0-rc.1)
 
-Actual exported-game screenshots:
+Gameplay screenshots from the live browser version:
 
-<p><img src="docs/living-dao/screenshots/frontier-browser/390x844-storm-battle.png" width="270" alt="Actual Thunder Peak battle with live health and technique readiness"> <img src="docs/living-dao/screenshots/frontier-browser/390x844-nascent-persistent.png" width="270" alt="Earned Nascent Soul realm and persistent white-blue garment"></p>
+<p><img src="docs/screenshots/2026-10-29/thunder-peak.png" width="270" alt="Thunder Peak gameplay: Wind Sentry combat with live health, incoming heavy strike and technique readiness"> <img src="docs/screenshots/2026-10-29/moon-lake.png" width="270" alt="Moon Lake gameplay: Reed Reflection combat with physical guard, health and equipped arts"></p>
 
 ## Play
 

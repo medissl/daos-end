@@ -1,0 +1,45 @@
+{
+  "captures": [
+    {
+      "file": "thunder-peak.png",
+      "title": "Thunder Peak combat",
+      "url": "https://medissl.github.io/daos-end/play/",
+      "captured_at_utc": "2026-10-29T10:44:19.295Z",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "dpr": 3,
+      "png_pixels": {
+        "width": 1170,
+        "height": 2532
+      },
+      "checkpoint": "before-storm_ascent",
+      "realm": "Golden Core",
+      "route": "storm_ascent",
+      "node": 1,
+      "source": "Unedited screenshot of the live exported Godot game. Isolated earned checkpoint, ordinary clock, real touch departure. No player profile was used."
+    },
+    {
+      "file": "moon-lake.png",
+      "title": "Moon Lake combat",
+      "url": "https://medissl.github.io/daos-end/play/",
+      "captured_at_utc": "2026-10-29T10:44:35.780Z",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "dpr": 3,
+      "png_pixels": {
+        "width": 1170,
+        "height": 2532
+      },
+      "checkpoint": "before-mirror_shore",
+      "realm": "Golden Core",
+      "route": "mirror_shore",
+      "node": 1,
+      "source": "Unedited screenshot of the live exported Godot game. Isolated earned checkpoint, ordinary clock, real touch departure. No player profile was used."
+    }
+  ],
+  "errors": []
+}
